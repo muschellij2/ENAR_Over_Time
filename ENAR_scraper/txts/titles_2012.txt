@@ -1,0 +1,4114 @@
+Sunday, April 1
+7:30 pm – 8:00 pm New Member Reception
+Regency Ballroom
+Ballroom Level
+8:00 pm – 11:00 pm Poster Presentations
+Regency Ballroom
+Ballroom Level
+1. Bayesian Methods
+Sponsor: ENAR
+1a. Bayesian Modeling of ChIP-Seq Data for Detecting
+Chromatin Regions Attached to the Nuclear Envelope
+Based on Lamin B1
+Sabrina Herrmann and Holger Schwender*, TU Dortmund
+University Dortmund, Germany; Shoudan Liang, Yue Lu and
+Marcos Estecio, University of Texas MD Anderson Cancer
+Center; Katja Ickstadt, TU Dortmund University, Dortmund,
+Germany and Peter Mueller, University of Texas at Austin
+1b. Bayesian Learning in Joint Models for Longitudinal
+and Survival Data
+Laura A. Hatfield*, Harvard Medical School; James S. Hodges
+and Bradley P. Carlin, University of Minnesota
+1c. Bayesian Semiparametric Regression Analysis
+of Bivariate Current Status Data
+Naichen Wang* and Lianming Wang,
+University of South Carolina
+1d. A Phase I Trial Design for Incorporating Efficacy
+Outcomes that are Conditional Upon Absence of
+Dose-Limiting Toxicities
+Thomas M. Braun, Shan Kang* and Jeremy M G Taylor,
+University of Michigan
+1e. An Empirical Bayes Hierarchical Model for Inference
+in Time-course RNA-seq Experiments
+Ning Leng*, University of Wisconsin-Madison; Victor Ruotti,
+Ron M. Stewart and James A. Thomson, Morgridge Institute
+for Research and Christina Kendziorski, University of
+Wisconsin-Madison
+1f. Bayesian Indirect and Mixed Treatment Comparisons across
+Longitudinal Time Points
+Ying Ding* and Haoda Fu, Eli Lilly and Company
+1g. Sample Size Estimation for Joint Modeling of
+Efficacy and Safety
+Brandi Falley* and James Stamey, Baylor University
+1h. Implementation of Continuous Bayesian Interim Monitoring
+for Single Arm Phase II Trials with the Oncore System
+Stacey Slone*, Emily Van Meter and Dennie Jones,
+Markey Cancer Center, University of Kentucky
+1i. Joint Modeling of Time-to-event and Tumor Size
+Weichao Bao* and Bo Cai, University of South Carolina
+1j. Bayesian Order Restricted Inference of Measurement
+Agreement with an Application to the Physician
+Reliability Study
+Zhen Chen*, Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, National Institutes of Health
+1k. Quantal Responses of the Weibull Risk Function
+Douglas Moore*, University of North Carolina at Wilmington
+1l. Bayesian Effect Estimation Accounting for Adjustment
+Uncertainty
+Chi Wang*, University of Kentucky; Giovanni Parmigiani,
+Dana-Farber Cancer Institute and Harvard School of
+Public Health and Francesca Dominici, Harvard School
+of Public Health
+1m. Bayesian Semiparametric Regression Models for
+Semicompeting Risks Data
+Kyu Ha Lee*, Sebastien Haneuse and Francesca Dominici,
+Harvard School of Public Health
+1n. Bayesian Restricted Contour Estimation Method for
+X-inactivation Ratio from Pyro-Sequencing Data
+Alan B. Lenarcic*, John Calaway, Fernando de Pardo and
+William Valdar, University of North Carolina at Chapel Hill
+1o. Multiple Imputation of Latent Counts from Heaped Self-
+Reported Measurements of Daily Cigarette Consumption
+Sandra D. Griffith*, University of Pennsylvania; Saul Shiffman,
+University of Pittsburgh and Daniel F. Heitjan, University of
+Pennsylvania
+1p. Bayesian Graphical Models in Epigenetic Applications
+Riten Mitra*, University of Texas, MD Anderson Cancer Center;
+Peter Mueller, University of Texas at Austin and Yuan Ji,
+University of Texas, MD Anderson Cancer Center
+1q. Bayesian Nonparametric Estimation of Finite
+Population Quantities in Absence of Design Information
+on Nonsampled Units
+Sahar Zangeneh*, Robert W. Keener and Roderick J.A. Little,
+University of Michigan
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+ENAR 2 012 S PRING ME E T ING A PRI L 1– 4 36 SCI ENT I
+F
+IC PROGRAM
+2. Survival Analysis
+Sponsor: ENAR
+2a. Commonality Analysis for Survival Data, with an
+Application to Data from Breast Cancer Patients
+with Newly Diagnosed Brain Metastases
+Binglin Yue*, Moffitt Cancer Center; Xianghua Luo, Haitao Chu
+and Paul Sperduto, University of Minnesota
+2b. An AIPCW Estimator of the Cumulative Incidence Function
+Under Multiple Competing Censoring Mechanisms
+Brian Sharkey*, Michael Hughes and Judith Lok,
+Harvard University
+2c. Incorporating Sampling Plan and Competing Risks in Analysis
+of Prospective Pregnancy Studies
+Kirsten J. Lum*, Johns Hopkins Bloomberg School of Public Health;
+Rajeshwari Sundaram, Eunice Kennedy Shriver National Institute
+of Child Health and Human Development, National Institutes of
+Health and Thomas A. Louis, Johns Hopkins Bloomberg School of
+Public Health
+2d. Estimation of Cox Proportional Hazards Models for Two
+Negatively Correlated Processes
+Wenjing Xu*, Qing Pan and Joseph L. Gastwirth, George
+Washington University
+2e. Recursive Partitioning Based Weights for Censored
+Quantile Regression
+Andrew Wey*, Lan Wang and Kyle D. Rudser, University
+of Minnesota
+2f. Development and Evaluation of Multimarker Panels for
+Clinical Prognosis
+Benjamin French*, University of Pennsylvania; Paramita Saha
+Chaudhuri, Duke University; Bonnie Ky and Thomas P. Cappola,
+University of Pennsylvania and Patrick J. Heagerty, University
+of Washington
+2g. Generalized Odds-Rate Hazard Models for Interval-
+Censored Failure Time Data
+Bin Zhang*, University of Alabama-Birmingham and
+Lianming Wang, University of South Carolina
+2h. A Semi-Parametric Joint Model for Semi-competing Risk Data
+Renke Zhou* and Jing Ning, University of Texas, MD Anderson
+Cancer Center and Melissa Bondy, Baylor College of Medicine
+2i. Informative Age Reduction Model for Recurrent Event
+Li Li* and Timothy Hanson, University of South Carolina
+2j. Parameter Estimation in Cox Proportional Hazard Models
+with Missing Censoring Indicators
+Naomi C. Brownstein*, Eric Bair, Jianwen Cai and Gary Slade,
+University of North Carolina at Chapel Hill
+2k. Challenges from Competing Risks and Recurrent
+Events in Cardiovascular Device Trials: A Regulatory
+Reviewer’s Perspective
+Yu Zhao*, Center for Devices and Radiological Health, U.S.
+Food and Drug Administration
+2l. Bayesian Semiparametric Model for Spatial Interval-
+Censored Failure Time Data
+Chun Pan*, Bo Cai, Lianming Wang and Xiaoyan Lin, University
+of South Carolina
+2m. Analysis of Variance for Right Censored Survival Data
+Chetachi A. Emeremni*, University of Pittsburgh
+2n. Sample Size and Power Calculation for Proportional
+Hazards Model with Time-dependent Variables
+Songfeng Wang* and Jiajia Zhang, University of South Carolina
+and Wenbin Lu, North Carolina State University
+3. Statistical Genetics/Genomics
+Sponsor: ENAR
+3a. Simultaneous Functional Category Analysis
+Qiuling He* and Michael A. Newton, University of
+Wisconsin-Madison
+3b. Combining Linkage Analysis and Next
+Generation Sequencing to Identify Rare Causal
+Variants in Complex Diseases
+Silke Szymczak*, Qing Li and Claire L. Simpson, National
+Human Genome Research Institute, National Institutes of Health;
+Robert Wojciechowski, Johns Hopkins Bloomberg School
+of Public Health; Xilin Zhao, National Institute of Diabetes,
+Digestive, and Kidney Diseases, National Institutes of Health;
+Mary Pat S. Jones, National Human Genome Research
+Institute, National Institutes of Health; Richa Agarwala and
+Alejandro A. Schaeffer, National Center for Biotechnology
+Information, National Institutes of Health; Stephen A. Wank,
+National Institute of Diabetes, Digestive, and Kidney Diseases,
+National Institutes of Health and Joan E. Bailey-Wilson, National
+Human Genome Research Institute, National Institutes of Health
+3c. Using Growth Mixture Modeling to Identify Loci Associated
+with the Progression of Disease
+Tong Shen*, Duke University
+37 Program & Abstracts
+SCIENTIFIC PROGRAM
+3d. Data Preprocessing: Quantification and Normalization
+of the Luminex Assay System
+Eileen Liao* and David Elashoff, University of California at
+Los Angeles
+3e. Borrowing Information across Genes and Experiments
+for Improved Residual Variance Estimation in Microarray
+Data Analysis
+Tieming Ji*, Peng Liu and Dan Nettleton, Iowa State University
+3f. Joint Modeling of Disease and Endophenotype to
+Characterize the Effect of Genes and their Interactions
+Alexandre Bureau*, Jordie Croteau and Molière Nguilé
+Makao, Université Laval - Robert-Giffard, Université Laval,
+Québec, Canada
+3g. Epistasis Enriched Network and Risk Score Modeling
+of Continuous Multifactor Dimensionality Reduction
+Hongying Dai*, Children’s Mercy Hospital; Richard Charnigo,
+Mara Becker and Steve Leeder, University of Kentucky
+3h. Joint Analysis of SNP and Gene Expression Data in
+Genome-Wide Association Studies
+Yen-Tsung Huang*, Xihong Lin and Tyler VanderWeele,
+Harvard University
+3i. A Robust Test for Detecting Differentially
+Methylated Regions
+Hongyan Xu* and Varghese George, Georgia Health
+Sciences University
+3j. Testing for Gene-Environment and Gene-Gene
+Interactions Under Monotonicity Constraints
+Summer S. Han*, Philip S. Rosenberg and Nilanjan Chatterjee,
+National Cancer Institute, National Institutes of Health
+3k. Bayesian Gene Set Test, the Proportion of Significant
+Genes in the Set as the Summary Statistic
+Di Wu*, Ke Deng, Ming Hu and Jun Liu, Harvard University
+3l. Adjustment for Population Stratification via Principal
+Components in Association Analysis of Rare Variants
+Yiwei Zhang*, Weihua Guan and Wei Pan, University
+of Minnesota
+3m. Reprioritizing Genetic Associations in Hit Regions using
+LASSO-based Resample Model Averaging
+William Valdar, Jeremy Sabourin*, Andrew Nobel, University
+of North Carolina at Chapel Hill and Chris Holmes, University
+of Oxford, United Kingdom
+3n. Multilayer Correlation Structure of Microarray Gene
+Expression Data
+Linlin Chen*, Rochester Institute of Technology;
+Lev Klebnov, Charles University and Anthony Almudevar,
+University of Rochester
+3o. Statistical Methods for Identifying Batch Effects in
+Copy Number Data
+Sarah E. Reese*, Virginia Commonwealth University;
+Zerry M. Therneau and Ellizabeth J. Atkinson, Mayo Clinic;
+Kellie J. Archer, Virginia Commonwealth University and
+Jeanette E. Eckel-Passow, Mayo Clinic
+3p. Distribution of Allele Frequencies and Effect Sizes
+and Their Interrelationships for Common Genetic
+Susceptibility Variants
+Ju-Hyun Park* and Mitchell H. Gail, National Cancer Institute,
+National Institutes of Health; Clarice R. Weinberg, National
+Institute of Environmental Health Sciences, National Institutes
+of Health; Raymond J. Carroll, Texas A&M University;
+Charles C. Chung, Zhaoming Wang, Stephen J. Chanock,
+Joseph F. Fraumeni and Nilanjan Chatterjee, National Cancer
+Institute, National Institutes of Health
+3q. Selecting a Statistical Test to Detect Associations
+with Groups of Genetic Variants: A User’s Guide
+John Ferguson and Hongyu Zhao, Yale University;
+William Wheeler, IMS; Yi-Ping Fu, Ludmila Prokunina-Olsson
+and Joshua N. Sampson*, National Cancer Institute, National
+Institutes of Health
+3r. A New Penalized Regression Approach to Testing
+Quantitative Trait-Rare Variant Association
+Sunkyung Kim*, Wei Pan and Xiaotong Shen,
+University of Minnesota
+3s. Incorporating Heterogeneity into Meta-Analysis of Genomic
+Data: A Weighted Hypothesis Testing Approach
+Yihan Li* and Debashis Ghosh, Pennsylvania State University
+3t. Modeling Haplotype Effects in a Genetic Reference
+Population: A Bayesian Collaborative Cross Toolkit
+Zhaojun Zhang*, Wei Wang and William Valdar, University
+of North Carolina at Chapel Hill
+3u. Multi-Marker Association Analysis with Multiple
+Phenotypes in Families
+Yiwei Zhang* and Saonli Basu, University of Minnesota
+3v. Multi-Stage Sequence/Imputation Design
+Thomas J. Hoffmann* and John S. Witte, University of California
+San Francisco
+3w. An Application of the Proportional Odds Model to Genetic
+Association Studies
+Kai Wang*, University of Iowa
+3x. An Empirical Evaluation of Array Normalization for Agilent
+microRNA Expression Arrays
+Li-Xuan Qin*, Qin Zhou, Jaya Satagopan and Samuel Singer,
+Memorial Sloan-Kettering Cancer Center
+n = Student Award Winner | * = Presenter
+38 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+3y. Association Analysis of Rare Variants with Incomplete
+Genetics Data
+Yijuan Hu*, Emory University and Danyu Lin, University of North
+Carolina at Chapel Hill
+3z. A Weighted Average Likelihood Ratio Test with
+Application to RNA-seq Data
+Yaqing Si* and Peng Liu, Iowa State University
+3aa. Order Statistic for Robust Genomic Meta-analysis
+Chi Song* and George C. Tseng, University of Pittsburgh
+3ab. Asymptotic Properties and Convergence Rate in Solving
+Models of Linkage Disequilibrium Mapping
+Jiangtao Luo*, University of Nebraska Medical Center
+4. Clinical Trials/Biopharmaceuticals/
+Medical Devices
+Sponsor: ENAR
+4a. A Phase II Factorial Design for Combination Codevelopment
+in Oncology based on Probability of Correct Selection
+Xinyu Tang*, University of Arkansas for Medical Sciences and
+William Mietlowski, Novartis Oncology
+4b. Bayesian Application for a Clinical Trial with
+Correlated Continuous and Binary Outcomes
+Ross Bray*, John W Seaman Jr. and James Stamey,
+Baylor University
+4c. Scaled Biosimilarity Margins for Higher Variable
+Biologic Products
+Nan Zhang and Jun Yang*, Amgen, Inc.; Shein-Chung Chow,
+Duke University; Eric Chi, Amgen, Inc. and Laszlo Endrenyi,
+University of Toronto
+4d. Dose Finding Designs for Modeling Immunotherapy
+Outcomes: A Practical Approach in a Metastatic
+Melanoma Phase I Trial
+Cody C. Chiuzan* and Elizabeth Garrett-Mayer, Medical
+University of South Carolina
+4e. Elliptical Likelihood Ratio Test for Homogeneity
+of Ordered Means
+Xiao Zhang* and Michael P. McDermott, University of Rochester
+4f. Analysis of Multiple Non-Commensurate Outcomes
+in Psychiatry
+Frank B. Yoon*, Mathematica Policy Research, Inc.;
+Garrett M. Fitzmaurice, Harvard School of Public Health;
+Stuart R. Lipsitz, Harvard Medical School; Nicholas J. Horton,
+Smith College and Sharon-Lise T. Normand, Harvard
+Medical School
+4g. Evaluation for Time to Onset of Drug Action
+Ziwen Wei*, University of Connecticut, Luyan Dai
+and Naitee Ting, Boehringer Ingelheim
+4h. Meta-Analysis of One Outcome from Group
+Sequential Trials with Composite Outcomes:
+Are Standard Methods Appropriate?
+Abigail B. Shoben*, The Ohio State University
+4i. Statistical Analysis of Evaluating the Clinical Utility
+of Quantitative Real-Time Loop-Mediated Isothermal
+Amplification for Diagnosis of Lower Respiratory
+Tract Infections
+Peng Zhang*, Peichao Peng, Yu Kang and Minping Qian,
+Peking University
+4j. Monotonicity Assumptions for Exact Unconditional Tests
+in Binary Matched-Pairs Designs
+Xiaochun Li*, Mengling Liu and Judith D. Goldberg,
+New York University
+4k. A Phase I/II Clinical Trial for Drug Combinations
+Beibei Guo* and Yisheng Li, University of Texas MD Anderson
+Cancer Center
+4l. Overview of Statistical Issues in the Analysis of Continuous
+Glucose Monitoring
+Chava Zibman*, U.S. Food and Drug Administration
+4m. Biological Optimum Dose Finding for Novel Targeted
+Agents
+Hao Liu*, Baylor College of Medicine
+4n. Hierarchical Bayesian Methods for Combining Efficacy
+and Safety in Multiple Treatment Comparisons
+Hwanhee Hong* and Bradley P. Carlin, University of Minnesota
+5. Computationally Intensive
+Methods / High Dimensional Data
+Sponsor: ENAR
+5a. Global Hypothesis Testing for High Dimensional Repeated
+Measures Outcomes
+Yueh-Yun Chi*, University of Florida; Matthew Gribbin,
+Human Genome Sciences; Lamers Yvonne, University
+of British Columbia; Jesse F. Gregory and Keith E. Muller,
+University of Florida
+5b. An Example of using Sweave to Create and Maintain
+a Large, Dynamic Statistical Report: Prevalence and
+Effects of Potentially Distracting Non-care Activities
+during Anesthesia Care
+David Afshartous, Steve Ampah*, Samuel K. Nwosu,
+Jason Slage and Eric Porterfield, Vanderbilt University
+SCIENTIFIC PROGRAM
+39 Program & Abstracts
+5c. Iteratively Reweighted Poisson Regression for Fitting
+Generalized Linear Model with Multiple Responses
+Yiwen Zhang* and Hua Zhou, North Carolina State University
+5d. Joint Estimation of Multiple Precision Matrices
+T. Tony Cai and Hongzhe Li, University of Pennsylvania;
+Weidong Liu, Shanghai Jiao Tong University and Jichun Xie*,
+Temple University
+5e. How to Bootstrap fMRI Data?
+Sanne Roels*, Tom Loeys and Beatrijs Moerkerke,
+Ghent University, Belgium
+5f. The Hosmer-Lemeshow Goodness of Fit Test:
+Does the Grouping Really Matter?
+Hillary M. Rivera*, Zoran Bursac and D. Keith Williams,
+University of Arkansas for Medical Sciences
+5g. A Bayesian Non-Parametric Potts Model with
+fMRI Application
+Timothy D. Johnson and Zhuqing Liu*, University of Michigan
+and Thomas E. Nichols, University of Warwick
+5h. Oracle Inequalities for the High-Dimensional Cox
+Regression Model via Lasso
+Shengchun Kong* and Bin Nan, University of Michigan
+5i. Integrated Machine Learning Approach as a Tool
+for Testing SNP-SNP Interactions
+Hui-Yi Lin*, H. Lee Moffitt Cancer Center & Research Institute
+5j. Optimal Multi-Stage Single-arm Phase II Design Based
+on Simulated Annealing
+Nan Chen* and J. Jack Lee, University of Texas MD Anderson
+Cancer Center
+5k. SubLIME: Subtraction-based Logistic Inference for
+Modeling and Estimation
+Elizabeth M. Sweeney* and Russell T. Shinohara, Johns Hopkins
+University and National Institute of Neurological Disorders and
+Stroke, National Institutes of Health; Colin D. Shea, National
+Institute of Neurological Disorders and Stroke, National
+Institutes of Health; Daniel S. Reich, Johns Hopkins University
+and National Institute of Neurological Disorders and Stroke,
+National Institutes of Health and Ciprian M. Crainiceanu,
+Johns Hopkins University
+5l. Comparing Independent Component Analysis Estimation
+Methods with an Application to Neuroimaging of Resting
+State Functional Connectivity in Attention Deficit and
+Hyperactivity Disorder
+Benjamin B. Risk*, David S. Matteson and David Ruppert,
+Cornell University
+5m. Variable Section Methods in Linear Models with
+Growing Dimension
+June Luo*, Clemson University
+5n. Family-based Association Studies for Next-generation
+Sequencing
+Yun Zhu* and Momiao Xiong, University of Texas, Health Science
+Center at Houston
+5o. Case-based Reasoning in Comparative Effectiveness
+Research
+Marianthi Markatou* and T. J. Watson Research Center,
+IBM and Prabhani Kuruppumullage Don, The Pennsylvania
+State University
+5p. Regularization with Latent Factors for Model Selection
+in Multivariate Multiple Regression with Application to
+eQTL Analysis
+Yan Zhou* and Peter X. K. Song, University of Michigan;
+Sijian Wang, University of Wisconsin and Ji Zhu, University of
+Michigan
+5q. Measurement Error Model in Shape Analysis
+Jiejun Du*, Ian Dryden and Xianzheng Huang, University
+of South Carolina
+6. Environmental, Epidemiological, Health
+Services, And Observational Studies
+Sponsor: ENAR
+6a. Publication Bias in Meta-Analysis
+Min Chen*, ExxonMobil Biomedical Sciences, Inc.
+6b. Regression Models for Group Testing Data with Pool
+Dilution Effects
+Christopher S. McMahan* and Joshua M. Tebbs, University of
+South Carolina and Christopher R. Bilder, University of Nebraska
+6c. Principal Stratification Based on Latent Survival Classes
+to Predict Treatment Outcomes for Localized Kidney Cancer
+Brian L. Egleston*, Yu-Ning Wong and Robert G. Uzzo, Fox Chase
+Cancer Center
+6d. Loss Functions for Identifying Regions with Minimum
+or Maximum Rates
+Ronald E. Gangnon*, University of Wisconsin-Madison
+6e. Time-to-event Analysis of Ambient Air Pollution and
+Preterm Birth
+Howard H. Chang*, Emory University; Brian J. Reich, North
+Carolina State University and Marie Lynn Miranda, University
+of Michigan
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+40 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+6f. Dorfman Group Screening with Multiple Infections
+Yanlei Peng*, Joshua M. Tebbs, University of South Carolina
+and Christopher R. Bilder, University of Nebraska-Lincoln
+6g. Applying General Risk Scores in Special Populations
+Cynthia S. Crowson*, Elizabeth J. Atkinson and
+Terry M. Therneau, Mayo Clinic
+6h. Using Predictive Surfaces to Understand Disparities
+in Exposure to PM2.5 and Ozone in North Carolina
+Simone Gray*, U.S. Environmental Protection Agency;
+Sharon Edwards and Marie Lynn Miranda, University
+of Michigan
+6i. Probabilistic Risk Assessment of Air Quality
+Management Strategies for Ozone
+Kristen M. Foley*, U.S. Environmental Protection Agency;
+Brian J. Reich, North Carolina State University and
+Sergey L. Napelenok, U.S. Environmental Protection Agency
+6j. A Simulation Study of Estimators of Time-Varying
+Treatment Effects on Cancer Recurrence with Time
+Dependent Confounding
+Jincheng Shen*, University of Michigan; Edward H. Kennedy,
+VA Center for Clinical Management Research;
+Douglas E. Schaubel, Lu Wang and Jeremy M.G. Taylor,
+University of Michigan
+6k. Propensity Score Using Machine Learning
+Yi-Fan Chen* and Lisa Weissfeld, University of Pittsburgh
+6l. Assessing the Effect of Organ Transplant on the
+Distribution of Residual Lifetime
+David M. Vock*, Anastasios A. Tsiatis and Marie Davidian,
+North Carolina State University
+6m. Methods for Classifying Changes in Bacterial
+Prevalence over Time
+Raymond G. Hoffmann*, Ke Yan and Pippa Simpson, Medical
+College of Wisconsin; Jessica Vandevalle and Sandra McLellan,
+University of Wisconsin – Milwaukee
+6n. Salivary Cortisol as a Predictor of Health Outcomes
+Brisa N. Sanchez*, Ana V. Diez-Roux and TE Raghunathan,
+University of Michigan
+6o. Retracing Micro-Epidemics of Chagas Disease Using
+Epicenter Regression
+Michael Levy, Dylan Small* and Joshua Plotkin,
+University of Pennsylvania
+6p. Comparing Cancer Rates by Age-stratified Zero-inflated
+Poisson Model
+Xiaoqin Xiong*, Information Management Services, Inc.
+and Binbing Yu, National Institute on Aging, National
+Institutes of Health
+6q. Use of the Continuous-time Markov Chain to Examine
+the Natural History of Alzheimer’s Disease
+Wenyaw Chan* and Julia Benoit, University of Texas, Health
+Science Center at Houston and Rachelle S. Doody, Baylor
+College of Medicine
+6r. Process-based Bayesian Melding of Two-Zone Models
+and Industrial Workplace Data
+Joao V.D. Monteiro*, Sudipto Banerjee and Gurumurthy
+Ramachandran, University of Minnesota
+7. Correlated and Longitudinal Data
+Sponsor: ENAR
+7a. Multilevel Joint Analysis of Longitudinal and
+Binary Outcome
+Seo Yeon Hong* and Lisa A. Weissfeld, University of Pittsburgh
+7b. Space-time Heterogeneities in One-dimensional Point
+Process Data: Modeling Sea Turtle Nesting Patterns
+via Log-Gaussian Cox Processes
+Ming Wang*, Jian Kang and Lance A. Waller, Emory University
+7c. Joint Modeling of Longitudinal Multivariate Measurements
+and Survival data with Applications to Parkinson’s Disease
+Bo He and Sheng Luo*, University of Texas at Houston
+7d. Identification of Clinically Relevant Disease Subtypes
+using Supervised Sparse Clustering
+Sheila Gaynor* and Eric Bair, University of North
+Carolina-Chapel Hill
+7e. Multistate Markov Chain Transition Model for Clustered
+Longitudinal Data: Application to an Osteoarthritis Study
+Ke Wang*, Bin Zhang and Yuqing Zhang, Boston University;
+Haiqun Lin, Yale University and Howard Cabral,
+Boston University
+7f. A Bivariate Location-Scale Mixed-Effects Model with
+Application to Ecological Momentary Assessment
+(EMA) Data
+Oksana Pugach* and Donald Hedeker, University of Illinois
+at Chicago
+7g. The Influences of Utilized and Theoretical Covariance
+Weighting Matrices on the Estimation Performance of QIF
+Philip M. Westgate*, University of Kentucky
+7h. Group-based Trajectory Modeling of Cardiac
+Autonomic Modulation
+Michele Shaffer*, Fan He and Duanping Liao, Penn State
+College of Medicine
+SCIENTIFIC PROGRAM
+41 Program & Abstracts
+7i. Statistical Inference on Temporal Gradients in Regionally
+Aggregated Data
+Harrison S. Quick*, Sudipto Banerjee and Bradley P. Carlin,
+University of Minnesota
+7j. Modeling and Estimation of Repeated Ordinal Data
+Using Gaussian Copula
+Raghavendra R. Kurada, Old Dominion University; Roy T. Sabo,
+Virginia Commonwealth University and N. Rao Chaganty*,
+Old Dominion University
+7k. Simulation Study of the Convergence Properties of Log
+Gaussian Cox Process Posteriors
+Timothy D. Johnson and Ming Teng*, University of Michigan and
+Jian Kang, Emory University
+7l. Sensitivity of a Longitudinal Analysis to Missing Data
+Hypotheses: A Study of the Mechanisms by which Weight
+Loss Reduces Arterial Stiffness
+Jennifer N. Cooper*, Jeanine M. Buchanich, Ada Youk,
+Maria M. Brooks and Kim Sutton-Tyrrell, University of Pittsburgh
+7m. Multivariate Spatial Analysis via Mixtures
+Brian Neelon* and Rebecca Anthopolos, Duke University
+7n. Elliptic Spatial Scan Statistic on Trends
+Jun Luo*, Information Management Services, Inc.
+7o. Joint Modeling of Longitudinal Health Predictors
+and Cross-sectional Health Outcomes via Mean
+and Variance Trajectories
+Bei Jiang* and Mike Elliot, University of Michigan;
+Mary Sammel, University of Pennsylvania and Naisyin Wang,
+University of Michigan
+7p. Conditional Maximum Likelihood Estimation in Tumor
+Growth Models under Volume Endpoint Censoring
+Kingshuk Roy Choudhury*, Duke University and
+Finbarr O’Sullivan, University College Cork, Ireland
+7q. An Analytical Framework for HPV Transmission using
+Longitudinal Data on Couples
+Xiangrong Kong*, Johns Hopkins Bloomberg School
+of Public Health
+7s. Dimension Reduction Techniques in Application
+to Longitudinal Data Analysis
+Tamika Royal-Thomas*, Winston-Salem State University;
+Daniel McGee, Debajyoti Sinha, Florida State University;
+Clive Osmond, University of Southampton and Terrence
+Forrester, University of the West Indies
+7t. A Bayesian Semi-Parametric Joint Modeling for
+Longitudinal and Survival Data
+Julius S. Ngwa* and L. Adrienne Cupples, Boston University
+8. Multivariate, Non-Parametric, and
+Semi-Parametric Models
+Sponsor: ENAR
+8a. Estimation of Kendall’s Tau For Bivariate Survival
+Data with Truncation
+Hong Zhu*, The Ohio State University
+8b. Probabilistic Index Mixed Models for Clustered Data
+Fanghong Zhang*, Ghent University, Belgium;
+Stijn Vansteelandt, Ghent University, Belgium and
+London School of Hygiene and Tropical Medicine, U.K.;
+Jan De Neve and Olivier Thas, Ghent University, Belgium
+8c. A Multi-dimensional Approach to Large-scale
+Simultaneous Hypothesis Testing using Voronoi
+Tessellations
+Daisy L. Phillips* and Debashis Ghosh, The Pennsylvania
+State University
+8d. Model Selection and Estimation in Generalized Additive
+Mixed Models
+Dong Wang* and Daowen Zhang, North Carolina State University
+8e. Clinical Variables Associated with Melanoma Brain
+Metastasis: A Meta Analysis
+Meng Qian*, Michelle Ma, Ronald O. Perelman, Iman Osman
+and Yongzhao Shao, New York University School of Medicine
+8f. Rank Based Estimation for Generalized Linear Models
+Guy-Vanie M. Miakonkana* and Asheber Abebe,
+Auburn University
+8g. Exploring Multivariate Associations: A Graph Theoretic
+Approach Revisited
+Srikesh G. Arunajadai*, Columbia University
+8h. Comparison of Rank Based Tests in Combined Designs
+Yvonne M. Zubovic*, Indiana University Purdue University
+Fort Wayne
+8i. Factor Analysis for Binary Data used to Measure Patient´s
+Expectations and Experiences with Health Services|
+Rebeca Aguirre-Hernandez*, Alicia Hamui-Sutton,
+Ruth García-Fuentes and Anselmo Calderon-Estrada,
+Ciudad Universitaria, Mexico
+8j. Autoassociative Neural Network Approach for Nonlinear
+Principal Component Analysis
+Siddik Keskin*, Yuzuncu Yil University and University of Toronto
+and W.Y. Wendy Lou, University of Toronto
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+42 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+9. Modeling, Prediction, Diagnostic Testing,
+Variable Selection, And Consulting
+Sponsor: ENAR
+9a. Joint Modeling of Censored Multivariate Longitudinal
+and Event Time Data
+Francis Pike* and Lisa Weissfeld, University of Pittsburgh
+9b. Cross-sectional HIV-1 Incidence Estimation Utilizing
+Viral Genetic Diversity
+Natalie M. Exner*, Vladimir A. Novitsky and Marcello Pagano,
+Harvard School of Public Health
+9c. Jackknife Empirical Likelihood for ROC Curves
+with Missing Data
+Hanfang Yang*, Georgia State University
+9d. Profile Likelihood Based Confidence Interval
+of the Intraclass Correlation for Binary Outcomes,
+with Applications to Toxicological Data
+Krishna K. Saha*, Central Connecticut State University
+9e. Introductory Statistics for Medical Students—in 6 Lectures
+Jacob A. Wegelin*, Virginia Commonwealth University
+9f. Comparison of Tests in a Region around the
+Optimal Threshold
+Donna K. McClish*, Virginia Commonwealth University
+9g. Interquantile Shrinkage in Regression Models
+Liewen Jiang*, Howard Bondell and Judy Wang,
+North Carolina State University
+9h. A Joint Model for Quality of Life and Survival in Palliative
+Care Studies
+Zhigang Li*, Tor Tosteson and Marie Bakitas,
+Dartmouth Medical School
+9i. The Hosmer-Lemeshow Goodness of Fit Test
+for Multiply Imputed Data
+Danielle Sullivan and Rebecca R. Andridge*,
+The Ohio State University
+9j. Reverse Kaplan-Meier Method for Analyzing Biomarkers
+with Limit of Detection
+Tulay Koru-Sengul*, University of Miami
+9k. Empirical Likelihood Based Tests for Stochastic Ordering
+in Right-censored Setting
+Hsin-wen Chang* and Ian W. McKeague, Columbia University
+9l. Efficient Estimation using Conditional Empirical Likelihood
+with Missing Outcomes
+Peisong Han*, Lu Wang and Peter X.K. Song, University
+of Michigan
+9m. A Perturbation Method for Prediction Accuracy with
+Regularized Regression
+Jessica Minnier and Tianxi Cai*, Harvard School of
+Public Health
+SCIENTIFIC PROGRAM
+43 Program & Abstracts
+Monday, April 2
+8:30 – 10:15 am
+10. Statistical Genomics in Sequencing Era,
+from Data Analysis to Personal Medicine
+Regency B | Ballroom Level
+Sponsor: ENAR
+Organizer: Wei Sun, University of North Carolina at Chapel Hill
+Chair: Wei Sun, University of North Carolina at Chapel Hill
+8:30 Quantitative Trait Analysis Under
+Trait-Dependent Sampling, with Applications
+to the NHLBI Exome Sequencing Project
+Danyu Lin* and Donglin Zeng, University of North
+Carolina at Chapel Hill
+8:55 A Survival-Supervised Latent Dirichlet
+Allocation Model for Genomic Based
+Studies of Disease
+John A. Dawson and Christina Kendziorski*,
+University of Wisconsin–Madison
+9:20 Detection of RNA and DNA Sequence
+Differences in the Human Transcriptome
+Mingyao Li*, University of Pennsylvania
+9:45 Estimation of Sequencing Error Rates
+in Short Reads
+Xin Victoria Wang*, Dana-Farber Cancer Institute,
+Harvard School of Public Health; Natalie Blades,
+Brigham Young University; Jie Ding, Dana-Farber
+Cancer Institute, Harvard School of Public Health;
+Razvan Sultana, Dana-Farber Cancer Institute,
+Boston University and Giovanni Parmigiani,
+Dana-Farber Cancer Institute, Harvard School of
+Public Health
+10:10 Floor Discussion
+11. Variable Selection for Complex Models
+Regency A | Ballroom Level
+Sponsor: IMS
+Organizer: Marie Davidian, North Carolina State University
+Chair: Marie Davidian, North Carolina State University
+8:30 A ROAD to Classification in High
+Dimensional Space
+Jianqing Fan*, Princeton University;
+Yang Feng, Columbia University and Xin Tong,
+Princeton University
+8:55 Bayesian Nonparametric Variable Selection
+David Dunson*, Duke University
+9:20 Risk Prediction from Genome-Wide Data
+Ning Sun and Hongyu Zhao*, Yale School
+of Public Health
+9:45 Complete Least Squares for Screening
+and Variable Selection
+Leonard A. Stefanski*, Eric Reyes and
+Dennis Boos, North Carolina State University
+10:10 Floor Discussion
+12. Optimal and Personalized Treatment of HIV
+Columbia B | Ballroom Level
+Sponsor: IMS
+Organizer: Michael Hudgens, University of North Carolina
+at Chapel Hill
+Chair: Michael Hudgens, University of North Carolina
+at Chapel Hill
+8:30 Methods for Evaluating the Effects of Delayed
+ARV Regimen Change
+Brent A. Johnson*, Emory University
+9:00 Personalized Medicine for HIV Patients
+Initiating Therapy
+Brian Claggett*, Yun Chen, Michael Hughes,
+Heather Ribaudo, Camlin Tierney, and
+Katie Mollan, Harvard School of Public Health
+9:30 Estimation of Constant and Time-Varying
+Dynamic Parameters of HIV Infection
+in a Nonlinear Differential Equation Model
+Hulin Wu*, Hongyu Miao and Hua Liang,
+University of Rochester
+10:00 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+44 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+13. Statistical Methods for Hospital
+Comparisons
+Regency C | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Tom Louis, Johns Hopkins University
+Chair: Debashis Ghosh, Penn State University
+8:30 Hospital Comparisons, Issues and Approaches
+Arlene Ash, University of Massachusetts Medical
+School; Stephen E. Fienberg, Carnegie Mellon
+University; Thomas A. Louis*, Johns Hopkins
+Bloomberg School of Public Health; Sharon-Lise
+T. Normand, Harvard Medical School and Harvard
+School of Public Health; Therese Stukel, University
+of Toronto and Jessica Utts, University of
+California, Irvine
+9:00 Advantages of Unified Model-Based
+Approaches to Provider Profiling
+Frank E. Harrell Jr, PhD., Department
+of Biostatistics, Vanderbilt University
+School of Medicine
+9:20 Challenges Implementing a Hierarchical
+Model for Use in Public Reporting: The Case
+of “Hospital Compare.”
+Jeffrey H. Silber, MD, PhD., Departments of
+Pediatrics and Anesthesiology & Critical Care,
+School of Medicine; Department of Health Care
+Management, The Wharton School, University
+of Pennsylvania; Center for Outcomes Research,
+The Children’s Hospital of Philadelphia
+9:40 Discussion: Statisticians & Health Policy
+Sharon-Lise T. Normand*, Harvard University
+10:00 Floor Discussion
+14. Statistical Evaluation of Diagnostic
+Performance Using ROC Analysis
+Congressional A | Lobby Level
+Sponsor: ASA Health Policy Statistics Section
+Organizer: Kelly Zou, Pfizer Inc.
+Chair: A. James O’Malley, Harvard Medical School
+8:30 Combining Biomarkers to Improve Diagnostic
+Accuracy
+Chunling Liu, Hong Kong Polytechnic
+University; Aiyi Liu*, Eunice Kennedy Shriver
+National Institute of Child Health and Human
+Development, National Institutes of Health and
+Susan Halabi, Duke University
+9:00 Performance Evaluation in Tasks of Detection
+and Localzation of Multiple Targets per Subject
+Andriy I. Bandos*, University of Pittsburgh
+9:30 The Use of the Invariance Property in ROC
+Analysis
+Kelly H. Zou*, Pfizer Inc.
+10:00 Discussant: Howard Rockette, University
+of Pittsburgh
+15. Statistical Applications in Food Safety
+Regency D | Ballroom Level
+Sponsor: ENAR
+Organizer: Errol Strain, U.S. FDA Center for Food Safety
+and Applied Nutrition
+Chair: Yoko Adachi, FDR Center for Veterinary Medicine
+8:30 Disproportionality Analyses for Detection Food
+Adverse Events
+Stuart J. Chirtel*, U.S. Food and Drug Administration
+8:50 Statistical Methods for Analysis of DNA
+Aptamers
+Yan Luo*, Jeffrey A. DeGrasse, Sara Handy,
+Andrea Ottesen and Errol Strain, U.S. Food and
+Drug Administration
+9:10 Forensic Analysis of Bacterial Genomes for
+Foodborne Outbreaks
+Errol A. Strain*, Allard Marc, Eric Brown and
+Luo Yan, U.S. Food and Drug Adminstration
+9:30 Confidence Intervals for Counting Microbes on
+Plates
+Robert Blodgett*, FDA/CFSAN
+10:00 Floor Discussion
+SCIENTIFIC PROGRAM
+45 Program & Abstracts
+16. TOPIC CONTRIBUTED PAPERS:
+Synthetic Health Data for Confidentiality
+Control
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Mandi Yu, National Cancer Institute, National
+Institutes of Health
+Chair: Yulei He, Harvard Medical School
+8:30 Imputation of Confidential Datasets with
+Spatial Locations using Point Process Models
+Thais V. Paiva* and Jerome P. Reiter,
+Duke University
+8:50 Multiple Imputation using Chained Equations
+for High Dimensional Longitudinal Missing
+Data in the DCCT/EDIC Study
+Michael D. Larsen*, Paula McGee and John M.
+Lachin, The George Washington University
+9:10 Assessing the Privacy of Randomized
+Multivariate Queries to a Database Using
+the Area under the Receiver-Operator
+Characteristic Curve
+Gregory J. Matthews*, University of
+Massachusetts and Ofer Harel, University
+of Connecticut
+9:30 Disclosure Control in the CanCORS
+Bronwyn Loong* and David Harrington, Harvard
+University; Alan Zaslavsky and Yulei He, Harvard
+Medical School
+9:50 Partial Synthetic Data for Population-based
+Cancer Registry Data
+Mandi Yu*, Li Zhu, Benmei Liu, Eric (Rocky) Feuer
+and Kathleen Cronin, National Cancer Institute,
+National Institutes of Health
+10:10 Floor Discussion
+17. TOPIC CONTRIBUTED PAPERS:
+Statistical Issues Arising from
+Alternatives to Double-Masked
+Randomized Controlled Trials
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizers: Scott Miller, Shiling Ruan, and Qin Li, U.S. Food
+and Drug Administration
+Chair: Scott Miller, U.S. Food and Drug Administration
+8:30 A Regulatory View of the Statistical
+Challenges for Alternatives to Double-Masked
+Randomized Controlled Trials
+Gregory Campbell*, U.S. Food and Drug
+Administration
+8:45 Study Design and Analysis issues with
+EFM-CAD
+Bipasa Biswas*, U.S. Food and Drug Administration
+9:00 Assessing the “Success” of the Blind in
+Sham-Controlled Randomized Clinical Trials
+Valerie Durkalski* and Qi Wu, Medical University
+of South Carolina
+9:15 Practices of Using Propensity Score Methods
+in Drug-Eluting Stent Studies
+Hong Wang* and H. Terry Liao, Boston Scientific
+Corporation
+9:30 Study Designs for Postmarket Surveillance
+Theodore Lystig* and Jeremy Strief, Medtronic, Inc.
+9:45 Challenges in Non-Randomized Controlled
+Medical Device Trials
+Shelby Li* and Shufeng Liu, Medtronic, Inc.
+10:00 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+46 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+18. CONTRIBUTED PAPERS:
+Statistical Genetics
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: Kun Chen, Kansas State University
+8:30 Nonlinear Sufficient Dimension Reduction
+for Association Testing of Complex Traits
+Hongjie Zhu*, Duke University; Lexin Li and
+Hua Zhou, North Carolina State University
+8:45 A Graph-constrained Estimation and
+Regularization for Survival Analysis of
+Microarray Gene Expression Data
+Hongzhe Li*, University of Pennsylvania
+9:00 Local Ancestry Inference in Admixed Nuclear
+Families using a Two-layer Clustering Model
+Wei Chen*, University of Pittsburgh and
+Yongtao Guan, Baylor College of Medicine
+9:15 A Flexible Varying Coefficient Model for
+the Detection of Nonlinear Gene-Environment
+Interaction
+Yuehua Cui and Cen Wu*, Michigan State University
+9:30 Permutation-based Expression Pathway
+Analysis, Without Permutation
+n Yi-Hui Zhou* and Fred A. Wright, University
+of North Carolina at Chapel Hill
+9:45 Response-selective Sampling Designs
+for Rare Variant Analysis in Genetic
+Association Studies
+Yildiz E. Yilmaz*, University of Toronto
+10:00 Floor Discussion
+19. CONTRIBUTED PAPERS:
+Spatial/Temporal Modeling
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Victoria Liublinska, Harvard University
+8:30 A Geoadditive Imputation Approach to
+Measurement Error Correction with Spatially
+Misaligned Non-normal Data
+Lauren Hund* and Till Baernighausen, Harvard
+School of Public Health; Frank Tanser, Africa
+Centre for Health and Population Studies and
+Brent Coull, Harvard School of Public Health
+8:50 Modeling Air Pollution Mixtures
+in Southern California
+Reza Hosseini, Meredith Franklin*,
+Duncan Thomas and Kiros Berhane,
+University of Southern California
+9:10 Flexible Bayesian Predictive Process Spatial
+Factor Models for Misaligned Data Sets
+Qian Ren* and Sudipto Banerjee, University
+of Minnesota
+9:30 High-Dimensional State Space Models for
+Dynamic Gene Regulatory networks
+Iris Chen* and Hulin Wu, University of Rochester
+9:50 A Stochastic and State Space Mixture
+Model of Human Liver Cancer Multiple-
+Pathway Model Involving both Hereditary
+and Non-hereditary Cancer
+Xiaowei (Sherry) Yan*, Geisinger Center for
+Health Research and Wai-Yuan Tan,
+University of Memphis
+10:00 Floor Discussion
+20. CONTRIBUTED PAPERS:
+Non-Linear, PK-PD, and Dose-Response
+Models
+Yellowstone | 2nd Floor
+Sponsor: ENAR
+Chair: Howard Chang, Emory University
+8:30 Non-Linear Models for Multiple Flow Exhaled
+Nitric Oxide Data
+Sandrah P. Eckel*, Kiros Berhane, William S.
+Linn, Muhammad T. Salam, Yue Zhang, Edward
+B. Rappaport and Frank D. Gilliland, University of
+Southern California
+SCIENTIFIC PROGRAM
+47 Program & Abstracts
+8:45 An Empirical Approach to Sufficient Similarity:
+Combining Exposure Data and Mixtures
+Toxicology Data
+Chris Gennings*, Virginia Commonwealth
+University; Scott Marshall, BioStat Solutions, Inc.
+and LeAnna G. Stork, Monsanto Company
+9:00 Comparison of Different Biosimilarity Criteria
+under Various Study Designs
+Eric Chi, Amgen Inc.; Shein-Chung Chow, Duke
+University and Hao Zhang*, Amgen Inc.
+9:15 Semiparametric Modeling of Dose-Response
+Relationships in Ex-Vivo Experiments
+Samiha Sarwat* and Jaroslaw Harezlak, Indiana
+University School of Medicine and Clarissa Valim,
+Harvard School of Public Health
+9:30 Nonlinear Models for Meta-Analysis of
+Summary Exposure-Response Data
+Paul W. Stewart*, University of North Carolina
+at Chapel Hill and Vernon Benignus, U. S.
+Environmental Protection Agency
+9:45 Statistical Inference for Dynamic Systems
+Governed by Differential Equations with
+Applications to Toxicology
+n Siddhartha Mandal* and Pranab K. Sen,
+University of North Carolina at Chapel Hill
+and Shyamal D. Peddada, National Institute
+of Environmental Health Sciences, National
+Institutes of Health
+10:00 A B-spline Based Semiparametric Nonlinear
+Mixed Effects Model
+Angelo Elmi*, George Washington University;
+Sarah Ratcliffe, Samuel Parry and Wensheng Guo,
+University of Pennsylvania School of Medicine
+21. CONTRIBUTED PAPERS:
+Longitudinal Data
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Benjamin French, University of Pennsylvania
+8:30 A Bayesian Semiparametric Approach
+for Incorporating Longitudinal Information
+on Exposure History for Inference in
+Case-control Studies
+Dhiman Bhadra*, Worcester Polytechnic Institute;
+Michael J. Daniels, University of Florida; Sung Duk
+Kim, Eunice Kennedy Shriver National Institute
+of Child Health and Human Development, National
+Institutes of Health; Malay Ghosh, University
+of Florida and Bhramar Mukherjee, University
+of Michigan
+8:45 Shared Parameter Models for Longitudinal
+Multiple Source Cost Data
+Mulugeta Gebregziabher*, Medical University
+of South Carolina and Ralph H. Johnson VA
+Medical Center, Charleston; Yumin Zhao and Clara
+E. Dismuke, Ralph H. Johnson VA Medical Center,
+Charleston; Kelly J. Hunt, Ralph H. Johnson VA
+Medical Center, Charleston and Medical University
+of South Carolina and Leonard E. Egede, Ralph H.
+Johnson VA Medical Center, Charleston
+9:00 A Mixture of Markov Models for
+Heterogeneous Longitudinal Ordinal Data
+with Applications to Analyzing Longitudinal
+Bacterial Vaginosis Data
+Kyeongmi Cheon*, Paul S. Albert and Marie
+Thoma, Eunice Kennedy Shriver National Institute
+of Child Health and Human Development, National
+Institutes of Health
+9:15 Semiparametric Regression with Nested
+Repeated Measures Data
+Rhonda D. VanDyke*, Resmi Gupta and Raouf S.
+Amin, Cincinnati Children’s Hospital Medical Center
+9:30 Analysis of Longitudinal Data using ARMA(1,1)
+Correlation Model
+Sirisha L. Mushti* and N. Rao Chaganty, Old
+Dominion University
+9:45 Generalized p-value Method for Testing Zero
+Variance in Linear Mixed-effects Models
+Haiyan Su*, Montclair State University; Xinmin Li,
+Shan Dong University of Technology; Hua Liang
+and Wulin Wu, University of Rochester
+10:00 Variable Selection and Estimation for
+Multivariate Panel Count Data via the
+Seamless-L0 Penalty
+Haixiang Zhang*, University of Missouri
+and University of Jilin, China and Jianguo Sun,
+University of Missouri
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+48 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+Monday, April 2 (continued)
+10:15 am – 10:20 am Refreshment Break
+& Visit Our Exhibitors
+Regency Foyer
+Ballroom Level
+10:30 am – 12:15 pm
+22. Correlated High-Dimensional Data
+Regency A | Ballroom Level
+Sponsor: ASA Section on Statistical Learning and Data Mining
+Organizer: Annie Qu, University of Illinois
+Chair: Annie Qu, University of Illinois
+10:30 Positive Definite Sparse Estimators of
+High-dimensional Covariance Matrices
+Adam J. Rothman*, University of Minnesota
+10:55 Statistical Models for Analysis of Human
+Microbiome Data
+Hongzhe Li*, University of Pennsylvania
+11:20 Joint Statistical Modeling of Multiple
+High-dimensional Data
+Yufeng Liu*, University of North Carolina at Chapel Hill
+11:45 On Maximum Likelihood Estimation of
+Multiple Precision Matrices
+Xiaotong Shen*, Yunzhang Zhu and Wei Pan,
+University of Minnesota
+12:10 Floor Discussion
+23. Current Developments In Bayesian
+Clinical Trials
+Regency B | Ballroom Level
+Sponsor: ENAR
+Organizer: Karen Price, Eli Lilly & Company
+Chair: Karen Price, Eli Lilly & Company
+10:30 Bayesian Applications in Drug Safety
+Evaluation
+Amy Xia*, Amgen, Inc.
+11:00 Commensurate Priors for Incorporating
+Historical Information in Clinical Trials using
+General and Generalized Linear Models
+Brian P. Hobbs, University of Texas MD Anderson
+Cancer Center; Daniel J. Sargent, Mayo Clinic and
+Bradley P. Carlin*, University of Minnesota
+11:30 Identifying Potential Adverse Events Dose-
+Response Relationships via Bayesian Indirect
+and Mixed Treatment Comparison Models
+Haoda Fu*, Karen L. Price, Mary E. Nilsson and
+Stephen J. Ruberg, Eli Lilly & Company
+12:00 Discussant: George Rochester, U.S. Food and
+Drug Administration
+24. Causal Inference and Measurement Error
+Regency C | 2nd Floor
+Sponsor: IMS
+Organizer: Tyler Vanderweele, Harvard University
+Chair: Tyler Vanderweele, Harvard University
+10:30 Analytic Results on the Bias due to
+Nondifferential Misclassification of
+a Confounder
+Elizabeth L. Ogburn* and Tyler J. VanderWeele,
+Harvard University
+10:55 Measurement Bias in Causal Inference:
+A Graph-based Perspective
+Judea Pearl*, University of California at
+Los Angeles
+11:20 Mediation Analysis when Mediator is
+Mis-measured or Mis-classified and Outcome
+is Continuous
+Linda Valeri* and Tyler J. VanderWeele,
+Harvard University
+SCIENTIFIC PROGRAM
+49 Program & Abstracts
+11:45 Average Causal Effect Estimation Allowing
+Covariate Measurement Error
+Yi Huang* and Xiaoyu Dong, University of
+Maryland, Baltimore County; Karen Bandeen-
+Roche, Johns Hopkins University and Cunlin
+Wang, U.S. Food and Drug Administration
+12:10 Floor Discussion
+25. Two-Phase Estimation
+Columbia B | Ballroom Level
+Sponsor: ASA Survey Research and Methodology Section
+Organizer: Phillip Kott, RTI International
+Chair: Dan Liao, RTI International
+10:30 Investigating Alternative ways of Estimating
+the Proportion of a Population with Serious
+Mental Illness from a Two-Phase Sample
+Phillip S. Kott*, Dan Liao and Jeremy Aldworth,
+RTI International
+11:00 Efficient Design and Inference for Gene X
+Environment Interaction, using Sequencing Data
+Kenneth Rice*, University of Washington and
+Thomas Lumley, University of Auckland
+11:30 A Model Assisted Approach to Combining
+Data from two Independent Surveys
+Jae-kwang Kim*, Iowa State University and
+J.N.K. Rao, Carleton University, Canada
+12:00 Discussant: Fritz Scheuren, NORC
+26. Semi-Competing Risks
+Regency D | Ballroom Level
+Sponsor: ENAR
+Organizer: Qingxia Chen, Vanderbilt University
+Chair: Qingxia Chen, Vanderbilt University
+10:30 Bayesian Gamma Frailty Models for
+Survival Data with Semi-Competing Risks
+and Treatment Switching
+Yuanye Zhang and Ming-Hui Chen*, University of
+Connecticut; Joseph G. Ibrahim and Donglin Zeng,
+University of North Carolina at Chapel Hill;
+Qingxia Chen, Vanderbilt University; Zhiying Pan
+and Xiaodong Xue, Amgen Inc.
+10:55 Quantile Regression Methods
+for Semi-Competing Risks Data
+Limin Peng*, Emory University
+11:20 Nonparametric Cause-specific Association
+Analyses of Multivariate Untied or Tied
+Competing Risks Data
+Hao Wang and Yu Cheng*, University of Pittsburgh
+11:45 Estimation of Time-dependent Association
+for Bivariate Failure Times in the Presence
+of a Competing Risk
+Jing Ning*, University of Texas MD Anderson
+Cancer Center and Karen Bandeen-Roche, Johns
+Hopkins University
+12:10 Floor Discussion
+27. Graduate Student and Recent Graduate
+Council Invited Session: Careers in
+Biostatistics
+Congressional A | Lobby Level
+Sponsor: ENAR
+Organizer: Hormuzd Katki, National Cancer Institute, National
+Institutes of Health
+Chair: Reneé Moore, University of Pennsylvania
+10:30 The Graduate Student and Recent
+Graduate Council
+Hormuzd Katki*, National Cancer Institute,
+National Institutes of Health
+10:55 Are You a Hedgehog or a Fox? Brief Comments
+on a Career in Statistical Consulting
+Jennifer Schumi*, Statistics Collaborative
+11:20 Careers of Statisticians and Biostatisticians
+in the Government
+Telba Irony*, U. S. Food and Drug
+Administration/CDRH
+11:45 Living and Working in Academia
+Post Graduation
+Kimberly L. Drews*, The George Washington
+University Biostatistics Center
+12:10 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+50 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+28. TOPIC CONTRIBUTED PAPERS:
+Statistical Challenges of Spatial
+Multi-Pollutant Data in Environmental
+Epidemiology
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Stacey E. Alexeeff, Harvard School of Public Health
+Chair: Brent A. Coull, Harvard School of Public Health
+10:30 Methods for Spatially-varying Measurement
+Error in Air Pollution Epidemiology
+Stacey E. Alexeeff*, Harvard School of Public
+Health; Raymond J. Carroll, Texas A&M
+University and Brent A. Coull, Harvard School
+of Public Health
+10:50 Reduced Bayesian Hierarchical Models:
+Estimating Health Effects of Simultaneous
+Exposure to Multiple Pollutants
+Jennifer F. Bobb*, Johns Hopkins Bloomberg
+School of Public Health; Francesca Dominici,
+Harvard School of Public Health and Roger
+D. Peng, Johns Hopkins Bloomberg School
+of Public Health
+11:10 Spatial Variable Selection Methods for
+Estimating Health Effects of Speciated
+Particulate Matter
+Laura F. Boehm*, North Carolina State University;
+Francesca Dominici, Harvard School of Public
+Health; Brian J. Reich and Montserrat Fuentes,
+North Carolina State University
+11:30 Bayesian Spatially-varying Coefficient Models
+for Estimating the Toxicity of the Chemical
+Components of Fine Particulate Matter
+Yeonseung Chung*, Korea Advanced Institute
+of Science and Technology; Francesca Dominici,
+Michelle Bell and Brent Coull, Harvard School
+of Public Health
+11:50 A Bivariate Space-time Downscaler under
+Space and Time Misalignment
+Veronica J. Berrocal*, University of Michigan, Alan
+E. Gelfand, Duke University and David M. Holland,
+U.S. Environmental Protection Agency
+12:00 Floor Discussion
+29. TOPIC CONTRIBUTED PAPERS:
+Sample Size Adjustments for Clinical
+Trials with Multiple Comparisons
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Yi Tsong, U.S. Food and Drug Administration
+Chair: Jinglin Zhong, U.S. Food and Drug Administration
+10:30 Sample Sizes for Trials involving Multiple
+Correlated Must-win Comparisons
+Steven A. Julious*, University of Sheffield and
+Nikki E. McIntyre, AstraZeneca
+10:50 Sample Sizes Accounting for Multiplicity:
+Importance in Phase 2
+Brian L. Wiens*, Srichand Jasti and
+John W. Seaman, Alcon Laboratories, Inc.
+11:10 Power and Sample Size Determination in Clinical
+Trials with Two-Correlated Relative Risks
+Toshimitsu Hamasaki*, Osaka University
+Graduate School of Medicine; Scott Evans,
+Harvard University School of Public Health;
+Tomoyuki Sugimoto, Hirosaki University and
+Takashi Sozu, Kyoto University School of
+Public Health
+11:30 Test and Power Considerations for Multiple
+Endpoint Analyses using Sequentially
+Rejective Graphical Procedures
+Frank Bretz*, Willi Maurer and
+Ekkehard Glimm, Novartis
+11:50 Sample Size of Thorough QTc Clinical Trial
+Adjusted for Multiple Comparisons
+Yi Tsong*, U.S. Food and Drug Administration
+and Xiaoyu Dong, University of Maryland at
+Baltimore County
+12:10 Floor Discussion
+SCIENTIFIC PROGRAM
+51 Program & Abstracts
+30. CONTRIBUTED PAPERS:
+Adaptive Design/Adaptive Randomization
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Benjamin Saville, Vanderbuilt University
+10:30 Platform-based Clinical Trial Designs for
+Efficient Drug Development Strategies
+Brian P. Hobbs* and. J. Jack Lee, University
+of Texas MD Anderson Cancer Center
+10:45 A Bayesian Decision-Theoretic Sequential-
+Response Adaptive Randomization Design
+Fei Jiang*, Rice University; J. Jack Lee,
+University of Texas MD Anderson Cancer Center
+and Peter Mueller, University of Texas at Austin
+11:00 Extending the TITE CRM to Multiple Outcomes
+Joseph S. Koopmeiners*, University of Minnesota
+11:15 A Bayesian Adaptive Allocation Method for
+Clinical Trials with Dual Objectives
+Roy T. Sabo*, Ghalib Bello, Lauren Grant,
+Cathy Roberts, Amir A. Toor and John M. McCarty,
+Virginia Commonwealth University
+11:30 A Simulation Study to Decide the Timing of an
+Interim Analysis in a Bayesian Adaptive Dosefinding
+Studies with Delayed Responses
+Xiaobi Huang*, Merck & Co., Inc. and Haoda Fu,
+Eli Lilly and Company
+11:45 A Trivariate Continual Reassessment Method
+for Phase I/ II Trials of Toxicity, Efficacy, and
+Surrogate Efficacy
+Wei Zhong*, Joseph S. Koopmeiners and
+Bradley P. Carlin, University of Minnesota
+12:00 Floor Discussion
+31. CONTRIBUTED PAPERS:
+Biomarkers I
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Philip Westgate, University of Kentucky
+10:30 Lognormal and Gamma Models to Estimate
+Means for Skewed Biomarker Data Subject
+to Assay Pooling
+Emily M. Mitchell* and Robert H. Lyles,
+Emory University; Neil J. Perkins and Enrique F.
+Schisterman, National Institute of Child Health
+and Development, National Institutes of Health
+10:45 Prospective Pooling for Discrete Survival
+Outcome
+Paramita Saha Chaudhuri*, Duke University
+School of Medicine; David M. Umbach and Clarice
+R. Weinberg, National Institute of Environmental
+Health Sciences, National Institutes of Health
+11:00 An Application of the Rare and Weak Model
+in Biomarker Discovery in Proteomics Study
+Xia Wang*, University of Cincinnati and Nell
+Sedransk, National Institute of Statistical Sciences
+11:15 Meta-Regression Models to Detect
+Biomarkers Confounded by Study-level
+Covariates in Major Depressive Disorder
+Microarray Data
+Xingbin Wang*, Etienne Sibille and
+George C. Tseng, University of Pittsburgh
+11:30 Estimation of C-index for Censored Biomarker
+Data in Cox Proportional Hazard Model
+Yeonhee Kim*, INC Research and Lan Kong,
+Penn State Hershey College of Medicine
+11:45 Logistic Regression Analysis of Biomarker
+Data Subject to Pooling and Dichotomization
+Zhiwei Zhang*, U.S. Food and Drug Administration;
+Aiyi Liu, Eunice Kennedy Shriver National Institute
+of Child Health and Human Development,
+National Institutes of Health; Robert H. Lyles,
+Emory University and Bhramar Mukherjee,
+University of Michigan
+12:00 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+52 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+32. CONTRIBUTED PAPERS:
+Causal Inference
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: George Michailidis, University of Michigan
+10:30 Causal Inference with Treatment Delay:
+Evaluating Medication use in Women with
+High Risk for Preterm Birth via Propensity
+Score Matching
+Erinn Hade, Bo Lu* and Hong Zhu, The Ohio
+State University
+10:45 A New Distribution-free Approach for
+Longitudinal Mediation Analysis with
+Non-continuous Outcomes and Mediators
+Douglas D. Gunzler*, Case Western
+Reserve University
+11:00 Large Sample Properties of Multiplicative
+Treatment Effect Estimate using Propensity-
+Score Matching
+Diqiong Xie* and Michael P. Jones,
+Universityof Iowa
+11:15 Principal Stratification for Assessing
+Mediation with a Continuous Mediator
+Robert Gallop*, West Chester University
+11:30 Targeted Minimum Loss Based Estimation
+of Causal Effects of Multiple Time Point
+Interventions
+Mark J. van der Laan, University of California,
+Berkeley and Susan Gruber*, Harvard School of
+Public Health
+11:45 A Data-Adaptive Approach for Modeling
+Propensity Scores
+Yeying Zhu* and Debashis Ghosh, The
+Pennsylvania State University; Nandita Mitra,
+University of Pennsylvania and Bhramar
+Mukherjee, University of Michigan
+12:00 Floor Discussion
+33. CONTRIBUTED PAPERS:
+Epidemiologic Methods
+Yellowstone | Ballroom Level
+Sponsor: ENAR
+Chair: Ghideon Ghebregiorgis, U.S. Food and Drug
+Administration
+10:30 Semi-parametric Methods for Relative Risk
+Center Effect Measures
+Kevin He* and Douglas E. Schaubel,
+University of Michigan
+10:45 A General Binomial Regression Model for
+Estimating Standardized Risk Differences
+from Cohort Data
+Stephanie A. Kovalchik*, National Cancer Institute,
+National Institutes of Health; Ravi Varadhan,
+Johns Hopkins University School of Medicine;
+Barbara Fetterman and Nancy E. Poitras, Kaiser
+Permanente; Sholom Wacholder and Hormuzd A.
+Katki, National Cancer Institute, National Institutes
+of Health
+11:00 prLogistic: An R Package for Estimation of
+Prevalence Ratios using Logistic Models
+Leila D. Amorim*, University of North Carolina
+at Chapel Hill and Raydonal Ospina, Federal
+University of Pernambuco, Brazil
+11:15 Extending Matrix and Inverse Matrix Methods:
+Another Look at Barron’s Approach
+Li Tang* and Robert H. Lyles, Emory University;
+David D. Celantano, Johns Hopkins Bloomberg
+School of Public Health and Yungtai Lo,
+Montefiore Medical Center and Albert Einstein
+College of Medicine
+11:30 Pattern-Mixture Models for Addressing
+Outcome Misclassification from Proxies
+Responding on Behalf of Participants with
+Informatively Missing Self-Reports
+Michelle Shardell*, University of Maryland School
+of Medicine
+11:45 Floor Discussion
+SCIENTIFIC PROGRAM
+53 Program & Abstracts
+Monday, April 2 (continued)
+12:15 pm – 1:30 pm Roundtable Luncheons
+Capitol Room
+Lobby Level
+1:45 – 3:30 pm
+34. Recent Advances On High-Dimensional
+Medical Data Analysis
+Regency A | Ballroom Level
+Sponsor: ASA Section on Statistical Learning and Data Mining
+Organizer: Hua Liang, University of Rochester
+Chair: Hua Liang, University of Rochester
+1:45 Feature Screening via Distance Correlation
+Learning
+Runze Li*, Wei Zhong, Penn State University
+and Liping Zhu, Shanghai University of Finance
+and Economics
+2:10 Time-Varying Signal Detection for
+Correlated Data
+Annie Qu*, University of Illinois at Urbana-
+Champaign; Lan Xue, Oregon State University
+and Colin Wu, National Heart, Lung and Blood
+Institute, National Institutes of Health
+2:35 SOFARE: Selection of Fixed and Random
+Effects in High-Dimensional Longitudinal
+Data Analysis
+Yun Li, University of Michigan; Sijian Wang,
+University of Wisconsin-Madison; Peter X.K.
+Song*, Naisyin Wang and Ji Zhu, University
+of Michigan
+3:00 Variable Selection for Optimal Treatment
+Decision
+Hao Helen Zhang*, University of Arizona; Wenbin
+Lu, North Carolina State University and Donglin
+Zeng, University of North Carolina at Chapel Hill
+3:25 Floor Discussion
+35. Bayesian Approaches with Applications
+to Genomics
+Regency B | Ballroom Level
+Sponsor: ENAR
+Organizer: Steve Qin, Emory University
+Chair: Steve Qin, Emory University
+1:45 Bayesian Inference of Chromosome Local
+3D Structures from Hi-C Data
+Ming Hu* and Ke Deng, Harvard University;
+Zhaohui S. Qin, Emory University and Jun S. Liu,
+Harvard University
+2:10 Inferring Social Networks from Molecular
+and Linguistic Data
+Marc A. Suchard*, University of California at
+Los Angeles
+2:35 Bayesian Approaches for the Integration
+of Large-Scale Data
+Marina Vannucci*, Rice University
+3:00 Bayesian Hierarchical Graph-Structured
+Model with Application to Pathway Analysis
+Using Gene Expression Data
+Hui Zhou and Tian Zheng*, Columbia University
+3:25 Floor Discussion
+36. New Trends in Statistical Analysis
+of Biological Networks
+Regency C | Ballroom Level
+Sponsor: ASA Section on Statistical Learning and Data Mining
+Organizer: Ali Shojaie, University of Washington
+Chair: Peng Wei, University of Texas Health Sciences Center
+1:45 New Tools for Systems-Level Analysis of
+Regulation and Signaling Dynamics
+Alexander Franks and Alexander Blocker*,
+Harvard University
+2:10 Dynamic Models for Baboon Grooming
+Networks
+David L. Banks* and Yingbo Li, Duke University
+2:35 Biologically-Structured Latent Factor Models
+for Identification of Cellular Mechanism
+of Action
+Lisa Pham, Eric D. Kolaczyk*, Luis E. Carvalho,
+Boston University; Stephane Robin, ParisAgroTech
+and Scott E. Schaus, Boston University
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+54 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+3:00 Inferring Gene Regulatory Networks
+by Integrating Perturbation Screens
+and Steady-State Expression Profiles
+Ali Shojaie*, University of Washington;
+Alexandra Jauhiainen, Michael Kallitsis and
+George Michailidis, University of Michigan
+3:25 Floor Discussion
+37. Mathematical Modeling of Disease
+Sponsor: IMS
+Organizer: Franziska Michor, Dana-Farber Cancer Institute
+Chair: Franziska Michor, Dana-Farber Cancer Institute
+1:45 Dynamics of Treatment Responses in Chronic
+Myeloid Leukaemia
+Min Tang* and Franziska Michor, Dana-Farber
+Cancer Institute and Harvard School of Public
+Health; Mithat Gonen, Memorial Sloan-Kettering
+Cancer Center; Alfonso Quintas-Cardama, Jorge
+Cortes and Hagop Kantarjian, University of Texas
+MD Anderson Cancer Center; Chani Field, Timothy
+P. Hughes and Susan Branford, University of
+Adelaide, Adelaide, Australia
+2:15 Mathematical Modeling of Pancreatic Cancer
+Progression Reveals Dynamics of Growth
+and Dissemination and Suggests Optimum
+Treatment Strategies
+Hiroshi Haeno, Dana-Farber Cancer Institute;
+Mithat Gonen, Memorial Sloan-Kettering Cancer
+Center; Meghan Davis, Joseph Herman and
+Christine Iacobuzio-Donahue, Johns Hopkins
+University and Franziska Michor*, Dana-Farber
+Cancer Institute
+2:45 Patient-Specific Mathematical Modeling of
+Glioma Proliferation and Invasion: Informing
+Treatment Design and Patient Stratification
+Kristin Swanson*, Russ Rockne, Dave M. Corwin,
+Robert Stewart, Mark Philips, Clay Holdsworth,
+Andrew Trister, Jason Rockhill and Maciej
+Mrugala, University of Washington
+3:15 Floor Discussion
+38. High Dimensional Multi-Drug
+Combinations: from Preclinical Models to
+Clinical Trials
+Columbia B | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Hong-Bin Fang, University of Maryland
+Chair: Hong-Bin Fang, University of Maryland
+1:45 Statistical Methods for Preclinical Multi-Drug
+Combination
+Ming T. Tan*, University of Maryland School
+of Medicine
+2:15 Dose-finding Methods for Combinations
+of Agents
+Mark R. Conaway*, University of Virginia
+2:45 A Bayesian Dose-finding Design for Drug
+Combination Trials with Delayed Toxicities
+Suyu Liu and Ying Yuan*, University of Texas MD
+Anderson Cancer Center
+3:15 Discussant: Mourad Tighiouart, Samuel Oschin
+Comprehensive Cancer Institute
+39. Group Testing Methodology:
+Recent Developments and Applications
+to Infectious Disease
+Congressional A | Lobby Level
+Sponsor: ASA Health Policy Statistics Section
+Organizer: Elena Bordonali, University of North Carolina
+at Chapel Hill
+Chair: Aiyi Liu, National Institutes of Health
+1:45 Marginal Regression Models for Multiple-
+Disease Group Testing Data
+Christopher R. Bilder*, Boan Zhang, University
+of Nebraska-Lincoln and Joshua M. Tebbs,
+University of South Carolina
+2:15 System of Equations Approach to Pooled
+Nucleic Acid Testing for Failing Antiretroviral
+Therapy
+Tanya S. Granston* and Susanne May, University
+of Washington and Davey M. Smith, University of
+California at San Diego
+2:45 Two-dimensional Informative Array Testing
+Christopher S. McMahan, Joshua M. Tebbs*,
+University of South Carolina and Christopher R.
+Bilder, University of Nebraska-Lincoln
+3:15 Floor Discussion SCIENTIFIC PROGRAM
+CANCELLED
+55 Program & Abstracts
+40. TOPIC CONTRIBUTED PAPERS:
+Novel Developments In Statistical Blind
+Source Separation And Independent
+Components Analysis
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Brian Caffo, Johns Hopkins University
+Chair: Vadim Zipunnikov, Johns Hopkins University
+1:45 A New Probabilistic Group ICA Method for
+Modeling Between-Subject Variability in Brain
+Functional Networks
+Ying Guo* and Li Tang, Emory University
+2:05 Nonparametric Independent Component
+Analysis with Application to EEG Data
+Seonjoo Lee*, Henry Jackson Foundation;
+Haipeng Shen and Young Truong, University
+of North Carolina at Chapel Hill
+2:25 Independent Component Analysis for
+Functional Imaging Data
+Ani Eloyan*, Brian Caffo and Ciprian Crainiceanu,
+Johns Hopkins University
+2:45 Independent Component Analysis via
+Distance Covariance
+David S. Matteson*, Cornell University and
+Ruey S. Tsay, University of Chicago
+3:05 A Bayesian Random Shape Model for fMRI
+and MRI Data
+Lijun Zhang*, Jian Kang and F. DuBois Bowman,
+Emory University
+3:25 Floor Discussion
+41. TOPIC CONTRIBUTED PAPERS:
+Causal Inference And Survival Analysis
+Regency D | Ballroom Level
+Sponsor: ENAR
+Organizer: Min Zhang, University of Michigan
+Chair: Min Zhang, University of Michigan
+1:45 Estimating the Average Treatment Effect
+on Mean Survival Time when Treatment is
+Time-Dependent and Censoring is Dependent
+Douglas E. Schaubel* and Qi Gong,
+University of Michigan
+2:05 Matching Methods for Obtaining
+Survival Functions to Estimate the Effect
+of a Time-Dependent Treatment
+Yun Li* and Douglas E. Schaubel,
+University of Michigan
+2:25 Optimization of Dynamic Treatment Regimes
+for Recurrent Diseases
+Xuelin Huang* and Jing Ning, University of Texas
+MD Anderson Cancer Center
+2:45 Prediction of Survival and Variable
+Importance in Medical Informatics: Targeted
+Maximum Likelihood Estimation (T-MLE) and
+SuperLearning Applied to High Dimensional
+Longitudinal Data to Predict Survival Times
+among Severe Trauma Patients
+Alan Hubbard*, University of California, Berkeley;
+Mitch Cohen, University of California, San Francisco;
+Anna Decker and Ivan Diaz, University of California,
+Berkeley and Matthew Kutcher, University of
+California, San Francisco
+3:05 A Semiparametric Recurrent Events Model
+with Time-varying Coefficients
+Zhangsheng Yu*, Indiana University School of
+Medicine and Lei Liu, University of Virginia
+3:25 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+56 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+42. CONTRIBUTED PAPERS:
+Clinical Trials
+Concord | Lobby Level
+Sponsor: ENAR
+Chair: Yanlei Peng, University of South Carolina
+1:45 Estimating Covariate-Adjusted Log Hazard
+Ratios in Randomized Clinical Trials using
+Cox Proportional Hazards Models and
+Nonparametric Randomization Based
+Analysis of Covariance
+Benjamin R. Saville*, Vanderbilt University and
+Gary G. Koch, University of North Carolina at
+Chapel Hill
+2:00 A Bayesian Phase I/II Design for Oncology
+Clinical Trials of Combinational Biological
+Agents
+Chunyan Cai*, Ying Yuan and Yuan Ji,
+University of Texas MD Anderson Cancer Center
+2:15 Empirical Bayesian Methods for Enrollment
+and Event Projection in Oncology Trials
+Jingyang Zhang*, University of Iowa;
+Luyan Dai and Wei Zhang, Boehringer Ingelheim
+Pharmaceuticals, Inc.
+2:30 Analysis of Zero-Inflated Count Data from
+Clinical Trials with Potential Dropouts
+Jingyuan Yang*, Amgen Inc.; Xiaoming Li, Gilead
+Sciences, Inc. and Guanghan F. Liu, Merck & Co.
+2:45 A Generalized Continual Reassessment
+Method for Two-Agent Phase I Trials
+Thomas M. Braun and Nan Jia*,
+University of Michigan
+3:00 A Hierarchical Bayesian Design in
+Randomized Phase II Clinical Trials with
+Multiple Subgroups Using Binary Endpoints
+Qian Shi, Mayo Clinic; Jun Yin*, University of
+Iowa; Daniel J. Sargent, Charles Erlichman and
+Rui Qin, Mayo Clinic
+3:15 Variable Selection for Covariate-Adjusted
+Semiparametric Inference in Randomized
+Clinical Trials
+Shuai Yuan*, Helen Zhang and Marie Davidian,
+North Carolina State University
+43. CONTRIBUTED PAPERS:
+Competing Risks
+Congressional B | Lobby Level
+Sponsor: ENAR
+Chair: Donna McClish, Virginia Commonwealth University
+1:45 Frailty-based Competing Risks Model for
+Multivariate Survival Data
+Malka Gorfine*, Technion – Israel Institute of
+Technology and Li Hsu, Fred Hutchinson Cancer
+Research Center
+2:00 Semiparametric Estimation in the
+Proportional Subdistribution Hazards Model
+with Missing Cause of Failure
+Jonathan G. Yabes* and Chung-Chou H. Chang,
+University of Pittsburgh
+2:15 Hierarchical Likelihood Inference on
+Clustered Competing Risks Data
+Nicholas J. Christian*, University of Pittsburgh
+2:30 Subdistribution Regression with Left-
+Truncated Semi-Competing Risks Data
+Ruosha Li*, University of Pittsburgh and
+Limin Peng, Emory University
+2:45 Simulating Clustered Competing Risks Data
+Ruta Brazauskas*, John P. Klein and Jennifer G.
+Le-Rademacher, Medical College of Wisconsin
+3:00 Analysis of Dependently Censored Data
+based on Quantile Regression
+Shuang Ji* and Limin Peng, Emory University;
+Ruosha Li, University of Pittsburgh
+and Michael J. Lynn, Emory University
+3:15 Floor Discussion
+SCIENTIFIC PROGRAM
+57 Program & Abstracts
+44. CONTRIBUTED PAPERS:
+Functional Data Analysis
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Peng Wang, Bowling Green State University
+1:45 Longitudinal Survey Sampling of
+Functional Data
+David Degras*, DePaul University
+2:00 Corrected Confidence Bands for Functional
+Data using Principal Components
+n Jeff Goldsmith*, Johns Hopkins Bloomberg
+School of Public Health; Sonja Greven,
+Ludwig-Maximilians-University and Ciprian
+Crainiceanu, Johns Hopkins Bloomberg School
+of Public Health
+2:15 Optimal Smoothing Bandwidth Selection
+Methods for Functional Data
+Jingjing Yang*, David W. Scott and
+Dennis D. Cox, Rice University
+2:30 Multiscale Adaptive Composite Quantile
+Regression Models for Neuroimaging Data
+Linglong Kong* and Hongtu Zhu, University of
+North Carolina at Chapel Hill
+2:45 Estimation of Functional Curve
+Peak Locations for Detection of Cervical
+Pre-cancer
+Lu Wang* and Dennis D. Cox, Rice University
+3:00 Longitudinal Functional Regression Models
+with Structured Penalties
+Madan G. Kundu*, Jaroslaw Harezlak,
+Indiana University School of Medicine and
+Timothy W. Randolph, Fred Hutchinson Cancer
+Research Center
+3:15 Functional Mixed-Effects Models for
+Multiple Outcomes
+Stephanie A. Kliethermes* and Jacob J. Oleson,
+University of Iowa
+45. CONTRIBUTED PAPERS:
+Genome-Wide Association Studies
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: Kristen Foley, U.S. Environmental Protection Agency
+1:45 Genome-wide Association Analysis for
+Multiple Continuous Secondary Phenotypes
+Elizabeth D. Schifano*, Lin Li, David C. Christiani
+and Xihong Lin, Harvard School of Public Health
+2:00 Longitudinal Genetic Analysis of
+Quantitative Traits
+Ruzong Fan*, Eunice Kennedy Shriver
+National Institute of Child Health and Human
+Development, National Institutes of Health
+2:15 Incorporating Group Correlations in
+enome-Wide Association Studies using
+Smoothed Group LASSO
+Jin Liu*, Yale University; Jian Huang, University
+of Iowa; Shuangge Ma, Yale University and
+Kai Wang, University of Iowa
+2:30 A Penalized Likelihood Approach for
+Pharmacogenetic Studies via Understanding
+Haplotype Effect Structures for Gene and
+Gene-Drug Interactions
+Megan L. Neely*, Duke University;
+Howard D. Bondell and Jung-Ying Tzeng,
+North Carolina State University
+2:45 The Effect of Population Stratification on
+Association Studies with Next Generation
+Sequencing
+Qianying Liu*, Lin Chen and Dan L. Nicolae,
+University of Chicago
+3:00 Family-Based Association Tests using
+Genotype Data with Uncertainty
+Zhaoxia Yu*, University of California, Irvine
+3:15 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+58 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+Monday, April 2 (continued)
+3:30 pm – 3:45 pm Refreshment Break
+& Visit Our Exhibitors
+Regency Foyer
+Ballroom Level
+3:45 pm – 5:30 pm
+46. Statistical Models for OMICS Data
+Regency B | Ballroom Level
+Sponsor: ENAR
+Organizer: Yuan Ji, University of Texas MD Anderson
+Cancer Center
+Chair: Wei Sun, University of North Carolina at Chapel Hill
+3:45 Differential Principal Component Analysis of
+ChIP-seq
+Hongkai Ji* and Yang Ning, Johns Hopkins University
+Bloomberg School of Public Health
+4:10 Bayesian Hierarchical Functional Models for
+High-dimensional Genomics data
+Veera Baladandayuthapani*, Jeffrey S. Morris
+and Yuan Ji, University of Texas MD Anderson
+Cancer Center
+4:35 A Bayesian Graphical Model for ChIP-Seq Data
+on Histone Modifications
+Peter Mueller*, University of Texas at Austin;
+Riten Mitra, Shoudan Liang, Lu Yue and Yuan Ji,
+University of Texas MD Anderson Cancer Center
+5:00 A Bayesian Network Analysis for Single-Cell
+Mass Cytometry Data
+Riten Mitra and Yuan Ji*, University of Texas
+MD Anderson Cancer Center and Peter Mueller,
+University of Texas at Austin
+5:25 Floor Discussion
+47. Tweedie Award
+Regency A | Ballroom Level
+Sponsor: IMS
+Organizer: Yi Li, University of Michigan
+Chair: Yi Li, University of Michigan
+3:45 Statistical Learning with High-dimensional Data
+Hui Zou*, University of Minnesota
+4:15 Adaptive Estimation of Large Covariance
+Matrices
+Tony Cai*, University of Pennsylvania and
+Ming Yuan, Georgia Institute of Technology
+4:45 Discussant: Peter Hall, University of
+California-Davis and University of Melbourne
+5:00 Floor Discussion
+SCIENTIFIC PROGRAM
+59 Program & Abstracts
+48. Recent Development in Optimal
+Treatment Strategies — Estimation,
+Selection, And Inference
+Congressional A | Lobby Level
+Sponsor: ASA Biometrics Section
+Organizer: Wenbin Lu, North Carolina State University
+Chair: Hao Helen Zhang, North Carolina State University
+3:45 Evaluating Optimal Treatment Policies based
+on Gene Expression Profiles
+Ian McKeague* and Min Qian, Columbia University
+4:10 Iterative Outcome Weighted Learning for
+Estimating Optimal Dynamic Treatment Regime
+Donglin Zeng*, Yingqi Zhao and Michael Kosorok,
+University of North Carolina at Chapel Hill
+4:35 Up-front vs. Sequential Randomizations for
+Inference on Adaptive Treatment Strategies
+Abdus S. Wahed* and Jin.H.Ko, University
+of Pittsburgh
+5:00 Inference for Dynamic Treatment Regimes
+Eric B. Laber*, North Carolina State University;
+Daniel J. Lizotte, University of Waterloo; Min Qian,
+Columbia University and Susan A. Murphy, University
+of Michigan
+5:25 Floor Discussion
+49. Challenging Issues in Functional
+Connectivity Analysis
+Columbia B | Ballroom Level
+Sponsor: ASA Statistics in Neuroimaging
+Organizer: Hongtu Zhu, University of North Carolina at
+Chapel Hill
+Chair: Hernando Ombao, University of California at Irvine
+3:45 Persistent Homological Network Modeling
+via Graph Filtration
+Moo K. Chung*, University of Wisconsin-Madison
+4:10 Predicting Neurological Disorders using
+Functional and Structural Brain Imaging Data
+Brian S. Caffo*, Ciprian Crainiceanu, Han Liu,
+Ani Eloyan, John Muschelli, Fang Han and Tuo Zhao,
+Johns Hopkins University
+4:35 Functional Connectivity through Color
+Independent Component Analysis
+Haipeng Shen*, University of North Carolina at
+Chapel Hill
+5:00 Spatial and Adaptive Models for Brain
+Functional Connectivity
+Hongtu Zhu*, University of North Carolina at
+Chapel Hill and Japing Wang, Princeton University
+5:25 Floor Discussion
+50. Recent Developments in Subgroup
+Analysis in Randomized Clinical Trials
+Regency D | Ballroom Level
+Sponsor: ASA Biopharmaceutical Section
+Organizer: Mohammed Alosh, U.S. Food and Drug
+Administration
+Chair: Mohammed Alosh, U.S. Food and Drug Administration
+3:45 Key Statistical Considerations for Clinical Trials
+with Tailoring Objectives
+Alex Dmitrienko*, Quintiles and Brian Millen,
+Eli Lilly and Company
+4:15 Predictive Analysis of Clinical Trials
+Richard M. Simon*, National Cancer Institute,
+National Institutes of Health
+4:45 Multiplicity Considerations for Hypotheses
+Testing for a Targeted Subgroup Trial Design
+Mohammad F. Huque* and Mohammed Alosh,
+U.S. Food and Drug Administration
+5:15 Discussant: Gary Koch, University of North
+Carolina-Chapel Hill
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+60 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+51. Recent Advances in Methodology
+for the Analysis Of Failure Time Data
+Regency C | Ballroom Level
+Sponsor: ENAR
+Organizer: Doug Schaubel, University of Michigan
+Chair: Doug Schaubel, University of Michigan
+3:45 Marginal Additive Hazards Model for Case-
+Cohort Studies with Multiple Disease Outcomes
+Sangwook Kang, University of Connecticut;
+Jianwen Cai* and Lloyd Chambless, University of
+North Carolina at Chapel Hill
+4:10 Statistical Methods for Assessing Urgency and
+Transplant Benefit in the Presence of Dependent
+Censoring
+Susan Murray* and Fang Xiang, University of Michigan
+4:35 Semiparametrically Efficient Treatment Effect
+Estimation in the Analysis of Recurrent Events
+Adin-Cristian Andrei*, Northwestern University
+5:00 Estimating Treatment Effects from a
+Randomized Clinical Trial in the Presence
+of Post-study Treatment
+Min Zhang*, University of Michigan and
+Yanping Wang, Eli Lilly and Company
+5:25 Floor Discussion
+52. TOPIC CONTRIBUTED PAPERS:
+New Methods and Theory in
+Functional/Longitudinal Data Analysis
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Yehua Li, University of Georgia
+Chair: Yehua Li, University of Georgia
+3:45 Spline Confidence Bands for Functional
+Derivatives
+Guanqun Cao*, Michigan State University;
+Jing Wang, University of Illinois at Chicago;
+Li Wang, University of Georgia and David Todem,
+Michigan State University
+4:05 Generalized Functional Linear Regression
+Xiao Wang, Purdue University and Pang Du*,
+Virginia Tech
+4:25 Regularized Smoothing in Functional
+Linear Models
+Toshiya Hoshikawa* and Tailen Hsing,
+University of Michigan
+4:45 Simultaneous Variable Selection and
+Estimation in Semiparametric Modeling
+of Longitudinal / Clustered Data
+Shujie Ma, University of California-Riverside;
+Qiongxia Song, University of Texas at Dallas and
+Lily Wang*, University of Georgia
+5:05 Robust Regularized Singular Value
+Decomposition for Two Way Functional Data
+Lingsong Zhang*, Purdue University;
+Haipeng Shen, University of North Carolina at Chapel
+Hill and Jianhua Huang, Texas A&M University
+5:25 Floor Discussion
+53. TOPIC CONTRIBUTED PAPERS:
+Multivariate Methods in High
+Dimensional Data
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Abdus Sattar, Case Western Reserve University
+Chair: Abdus Sattar, Case Western Reserve University
+3:45 A Calibrated Multiclass Extension of AdaBoost
+Daniel B. Rubin*, U.S. Food and Drug Administration
+4:05 Predicting Mortality in an Elderly Population
+using Machine Learning
+Sherri Rose*, Johns Hopkins Bloomberg School
+of Public Health
+4:25 Efficient Multi-Marker Tests for Association in
+Case-Control Studies
+Margaret A. Taub*, Johns Hopkins University;
+Holger Schwender, TU Dortmund University,
+Dortmund, Germany; Ingo Ruczinski and
+Thomas A. Louis, Johns Hopkins University
+4:45 Estimation of a Non-parametric Variable
+Importance Measure of a Continuous Exposure
+Antoine Chambaz*, Université Paris Descartes
+and CNRS, Pierre Neuvial, Université d’Evry Val
+d’Essonne and Mark J. van der Laan, University
+of California, Berkeley
+SCIENTIFIC PROGRAM
+61 Program & Abstracts
+5:05 Targeted Maximum Likelihood Estimation:
+Assessing Causal Effects using High-
+Dimensional Longitudinal Data Structures
+Marco Carone* and Mark J. van der Laan,
+University of California, Berkeley
+5:25 Floor Discussion
+54. CONTRIBUTED PAPERS:
+Bayes and Other Approaches to Variable
+and Model Selection
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Xin Huang, Fred Hutchinson Cancer Research Center
+3:45 Determining Associations Among Environmental
+Chemicals, Nutrition and Health Outcomes
+Caroline Carr*, Chris Gennings and Roy Sabo,
+Virginia Commonwealth University and Pam Factor-
+Litvak, Columbia University
+4:00 Bayes Variable Selection in Semiparametric
+Linear Models
+n Suprateek Kundu*, University of North Carolina at
+Chapel Hill and David B. Dunson, Duke University
+4:15 Sure Screening for Estimating Equations in
+Ultra-High Dimensions
+n Sihai D. Zhao*, Harvard University
+4:30 Estimating Link Function Parameters in Robust
+Bayesian Binary Regression
+Vivekananda Roy*, Iowa State University
+4:45 Calibrated Bayes Factors for Model Comparison
+Xinyi Xu*, Pingbo Lu, Steven MacEachern and
+Ruoxi Xu, The Ohio State University
+5:00 A Systematic Selection Method for the
+Development of Cancer Staging Systems
+Yunzhi Lin* and Richard J. Chappell, University
+of Wisconsin-Madison and Mithat Gönen,
+Memorial Sloan-Kettering Cancer Center
+5:15 Floor Discussion
+55. CONTRIBUTED PAPERS:
+Clustered/Repeated Measures Survival
+Analysis
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Xuelin Huang, University of Texas MD Anderson
+Cancer Center
+3:45 Testing for Monotone Time Trend in Recurrent
+Event Processes
+Candemir Cigsar*, Women’s College Reserach
+Institute Princess Margaret Hospital
+4:05 Contrasting Group-specific Cumulative Mean
+Associated with Marked Recurrent Events in the
+Presence of a Terminating Event
+Yu Ma* and Douglas E. Schaubel, University
+of Michigan
+4:25 Alternating Event Processes during Lifetimes:
+Population Dynamics and Statistical Inference
+n Russell T. Shinohara* and Mei-Cheng Wang,
+Johns Hopkins University
+4:45 Semiparametric Probit Model for Clustered
+Interval-Censored Data with Unknown
+Distribution of Random Effects
+Haifeng Wu* and Lianming Wang, University
+of South Carolina
+5:05 A Flexible Copula Model for Bivariate
+Survival Data
+Zhen Chen*, David Oakes, Ollivier Hyrien
+and Changyong Feng, University of Rochester
+Medical Center
+5:25 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+62 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+56. CONTRIBUTED PAPERS:
+Genomics
+Yellowstone | 2nd Floor
+Sponsor: ENAR
+Chair: Hulin Wu, University of Rochester
+3:45 The Practical Effect of Batch on Prediction
+Hilary S. Parker* and Jeffrey T. Leek, Johns Hopkins
+School of Public Health
+4:00 Identifying and Correcting Sample Mix-ups
+in High-Dimensional Data
+Karl W. Broman*, Mark P. Keller and Aimee T.
+Broman, University of Wisconsin-Madison;
+Danielle M. Greenawalt, Merck & Co., Inc.;
+Christina Kendziorski, University of Wisconsin-
+Madison; Eric E. Schadt, Pacific Biosciences,
+Saunak Sen, University of California, San Francisco;
+Brian S. Yandell and Alan D. Attie, University of
+Wisconsin-Madison
+4:15 Detecting Differential Binding of Transcription
+Factors with ChIP-seq
+Kun Liang* and Sunduz Keles, University of
+Wisconsin-Madison
+4:30 Applying Whole Genomic Prediction
+across Populations for Predictive and
+Prognostic Purposes
+Robert Makowsky*, Kirk Yancy B. Williams,
+U.S. Food and Drug Administration and Gustavo de
+los Campos, University of Alabama at Birmingham
+4:45 Segmenting the Human Genome Based on
+Mutation Rates
+Prabhani Kuruppumullage Don*, Guruprasad
+Ananda, Francesca Chiaromonte and Kateryna
+D. Makova, Pennsylvania State University
+5:00 Identifying Protein Binding Sites from Genomic
+ChIP-seq Data Using Reversible Jump MCMC
+Rasika V. Jayatillake* and Nak-Kyeong Kim,
+Old Dominion University
+5:15 Change-point Analysis of Paired Allele-specific
+Copy Number Variation Data
+Yinglei Lai*, The George Washington University
+57. CONTRIBUTED PAPERS:
+Health Services/Health Policy
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: Yulei He, Harvard Medical School
+3:45 Identifying Individual Changes in Performance
+with Composite Quality Indicators while
+Accounting for Regression-to-the-Mean
+Byron Gajewski* and Nancy Dunton,
+University of Kansas
+4:00 Alcohol Outlets and Violence in the City
+of Philadelphia: The Role of Land Use
+Tony H. Grubesic, Loni Philip Tabb and Dominique
+Williams*, Drexel University and William Pridemore,
+Indiana University-Bloomington
+4:15 Calibrated Sensitivity Analysis for the
+Instrumental Variables Method for
+Observational Studies
+Jesse Yenchih Hsu*, Scott A. Lorch and
+Dylan S. Small, University of Pennsylvania
+4:30 A Research Agenda: Does Geocoding Positional
+Error Matter in Health GIS Studies?
+Geoffrey M. Jacquez*, BioMedware
+4:45 Methodology for Scoring the EQ-5D
+Eleanor M. Pullenayegum* and Feng Xie,
+McMaster University
+5:00 Estimating 95% Confidence Interval for
+Percentile Rank – Using Bootstrap –
+Application: RSMR & RSRR
+Yahya A. Daoud*, Yumi Y. Sembongi, Monica Anand,
+Dunlei Cheng and Edward B. De Vol, Baylor Heath
+Care System
+5:15 Optimization and Simulation of an Evolving
+Kidney Paired Donation (KPD) Program
+n Yijiang J. Li*, Peter X. K. Song, Yan Zhou and
+Alan B. Leichtman, University of Michigan;
+Michael A. Rees, University of Toledo Medical Center
+and John D. Kalbfleisch, University of Michigan
+SCIENTIFIC PROGRAM
+63 Program & Abstracts
+Tuesday, April 3
+8:30 am – 10:15 am
+58. Towards Omics-Based Predictors
+for Patient Management
+Columbia B | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Kevin Dobbin, University of Georgia
+Chair: Kevin Dobbin, University of Georgia
+8:30 Validating Clinical Performance of Predictors
+Michael L. LeBlanc*, Fred Hutchinson Cancer
+Research Center
+9:00 A Regulatory Perspective on Omics-Based
+Predictors
+Gene A. Pennello*, U.S. Food and Drug
+Administration
+9:30 Statistical Issues in the Design of Clinical Trials
+to Establish the Utility of Biomarker-based Tests
+for Guiding Therapy Decisions
+Lisa M. McShane*, National Cancer Institute,
+National Institutes of Health
+10:00 Discussant: Tracy Lively, National Cancer Institute
+59. Functional Data Analysis
+Capitol Room | Lobby Level
+Sponsor: IMS
+Organizer: Hans-Georg Muller, University of California, Davis
+Chair: Damla Senturk, UCLA
+8:30 Methodology and Theory for Partial Least
+Squares Applied to Functional Data
+Peter Hall*, The University of Melbourne and the
+University of California, Davis and Aurore Delaigle,
+The University of Melbourne
+8:55 Time-Dynamic Functional Additive Model
+Jane-Ling Wang* and Xiaoke Zhang, University
+of California at Davis and Byeong Park, Seoul
+National University
+9:20 Continuously Additive Models for Functional
+Regression
+Hans-Georg Mueller, University of California at
+Davis; Yichao Wu*, North Carolina State University
+and Fang Yao, University of Toronto
+9:45 Movelets: A Dictionary of Movement
+Bai Jiawei, Jeffrey Goldsmith and
+Ciprian M. Crainiceanu*, Johns Hopkins University
+10:10 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+64 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+60. The Analysis of Social Network Data
+in Public Health
+Columbia A | Ballroom Level
+Sponsor: ASA Section on Statistical Learning and Data Mining
+Organizers: Debashis Ghosh, Penn State University
+Chair: Yeying Zhu, Penn State University
+8:30 Network Based Methods for Accessing
+Hard-to-Reach Groups
+Tyler H. McCormick*, University of Washington and
+Tian Zheng, Columbia University
+9:00 Using Retrospective Sampling to Study Factors
+Affecting Relationships in Large Longitudinal
+Social Networks
+A James O’Malley* and Sudeshna Paul,
+Harvard Medical School
+9:30 Point Process Modeling for Directed Interaction
+Networks
+Patrick O. Perry*, New York University and Patrick
+J. Wolfe, Harvard University
+10:00 Discussant: Melanie Wall, Columbia University
+61. Novel Methodological Issues in Analyzing
+and Designing Longitudinal Biomarker
+Studies
+Regency D | Ballroom Level
+Sponsor: ASA Biopharmaceutical Section
+Organizers: Paul Albert and Enrique Schisterman, National
+Institutes of Health
+Chair: Enrique Schisterman, National Institutes of Health
+8:30 Outcome Dependent Sampling for Longitudinal
+Binary Response Data Based on a Time-Varying
+Auxiliary Variable
+Jonathan S. Schildcrout*, Vanderbilt University;
+Sunni L. Mumford and Zhen Chen, Eunice Kennedy
+Shriver National Institute of Child Health and Human
+Development, National Institutes of Health; Patrick
+J. Heagerty, University of Washington and Paul J.
+Rathouz, University of Wisconsin
+8:55 A Principal Interactions Analysis Framework
+for Repeated Measures Data on Quantitative
+Traits: Application to Longitudinal Studies of
+Gene-Environment Interactions
+Bhramar Mukherjee* and Yi-An Ko,
+University of Michigan
+9:20 Pooling Designs for Outcomes Under a Gaussian
+Random Effects Model
+Yaakov Malinovsky*, University of Maryland,
+Baltimore County; Paul S. Albert and Enrique
+F. Schisterman, Eunice Kennedy Shriver National
+Institute of Child Health and Human Development,
+National Institutes of Health
+9:45 A Bayesian Order Restricted Model for
+Hormonal Dynamics During Menstrual Cycles
+of Healthy Women
+Anindya Roy*, University of Maryland Baltimore
+County; Michelle Danaher, Eunice Kennedy Shriver
+National Institute of Child Health and Human
+Development, National Institutes of Health and
+University of Maryland Baltimore County; Zhen
+Chen, Sunni Mumford and Enrique Schiesterman,
+Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, National Institutes
+of Health
+10:10 Discussant: Paul Albert, National Institutes
+of Health
+62. Advances in Cancer Risk Prediction
+Models
+Congressional A | Lobby Level
+Sponsor: ENAR
+Organizer: Donna Ankerst, University of Munich
+Chair: Donna Ankerst, University of Munich
+8:30 Model Validation and Updating
+Ewout W. Steyerberg*, Erasmus University Medical
+Center, Rotterdam, the Netherlands
+8:55 Deploying Statistical Prediction Models
+Michael W. Kattan*, Cleveland Clinic
+9:20 On Joint Risk Prediction
+Ruth Pfeiffer*, National Cancer Institute, National
+Institutes of Health
+9:45 Dynamic Prediction: Updating Medical
+Prediction Models in Real Time Using Routinely
+Collected Clinical Data (Or: Why Can’t
+Nomograms be More Like Netflix?)
+Andrew J. Vickers*, Memorial Sloan-Kettering
+Cancer Center
+10:10 Floor Discussion
+SCIENTIFIC PROGRAM
+65 Program & Abstracts
+63. Adaptive Design in Vaccine Trials
+Columbia C | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizers: Zhi Wen and Estelle Russek-Cohen, U.S. Food and
+Drug Administration
+Chair: Zhi Wen, U.S. Food and Drug Administration
+8:30 A 2-Stage Adaptive Design for Assessing
+Vaccine Efficacy with Uncertain Incidence Rate
+Ivan SF Chan*, Merck Research Laboratories;
+Xiaoming Li, Gilead Sciences and Keaven M.
+Anderson, Merck Research Laboratories
+9:00 Adaptive Designs for Vaccine Clinical Trials
+Ghideon Ghebregiorgis*, U.S. Food and
+Drug Administration
+9:30 Determining which Subpopulations Benefit from
+a Vaccine, Using Adaptive Designs
+Michael Rosenblum*, Johns Hopkins Bloomberg
+School of Public Health
+10:00 Floor Discussion
+64. TOPIC CONTRIBUTED PAPERS:
+Mixing: Inferences Using Frequentist and
+Bayesian Methods and for Mixed Discrete
+and Continuous Data
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Gang Zheng, National Heart, Lung, and Blood
+Institute, National Institutes of Health
+Chair: Gang Zheng, National Heart, Lung, and Blood Institute,
+National Institutes of Health
+8:30 Efficient Longitudinal Estimation of Incidence
+and Prevalence rate of Major Depressive
+Disorder in HOME HEALTHCARE Study.
+Dr. Samiran Ghosh, Sr. Biostatistician Winthrop
+University Hospital and Associate Professor of
+Research, SUNY Stony Brook
+8:50 Joint Analysis of Binary and Quantitative
+Traits with Data Sharing and Outcome-
+Dependent Sampling
+Jungnam Joo*, National Cancer Center, Korea
+9:10 Bayes Factor Based on a Maximum Statistic
+for Case-Control Genetic Association Studies
+Linglu Wang*, The George Washington University
+9:30 Analysis of Case-Control Qualitative and
+Quantitative Trait Data for Genetic Association
+Minjung Kwak*, National Heart Lung and Blood
+Institute, National Institutes of Health
+9:50 Hybrid Inference for Association Studies
+Qizhai Li*, Academy of Mathematics and Systems
+Science, Chinese Academy of Sciences; Jing Qin,
+National Institute of Allergy and Infectious Diseases,
+National Institutes of Health and Ao Yuan,
+Howard University
+10:00 Floor Discussion
+65. CONTRIBUTED PAPERS:
+Bayesian Methods for Longitudinal
+and/or Survival Data
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Madan Gopal Kundu, Indiana University
+Purdue University, Indianapolis
+8:30 Posterior Predictive Model Assessment for
+Incomplete Longitudinal Data
+Arkendu Chatterjee* and Michael Daniels,
+University of Florida
+8:45 A Novel Bayesian Approach for Analyzing
+Interval-Censored Failure Time Data Under the
+Proportional Hazards Model
+Xiaoyan Lin, Bo Cai* and Lianming Wang, University
+of South Carolina and Zhigang Zhang, Memorial
+Sloan-Kettering Cancer Center
+9:00 Semiparametric Bayesian Survival Analysis
+Using Models with Log-Linear Median
+n Jianchang Lin* and Debajyoti Sinha, Florida State
+University; Stuart Lipsitz, Brigham and Women’s
+Hospital and Adriano Polpo, University of São Paulo
+9:15 A Model-based Approach to Limit of Detection
+in Studying Environmental Chemical Exposures
+and Time to Pregnancy
+Sungduk Kim*, Zhen Chen, Enrique F. Schisterman,
+Neil Perkins, Rajeshwari Sundaram and Germaine
+M. Buck Louis, Eunice Kennedy Shriver National
+Institute of Child Health and Human Development,
+National Institutes of Health
+9:30 A Semiparametric Bayesian Approach for Joint
+Modeling of Longitudinal Trait and Event Time:
+Application to Soybean Data
+Kiranmoy Das*, Temple University
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+66 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+9:45 Hierarchical Bayesian Approach for Analysis of
+Longitudinal Count Data with Overdispersion
+Parameters: A Simulation Study
+Mehreteab F. Aregay*, University of Leuven, Belgium;
+Geert Molenberghs, I-BioStat Belgium and
+Ziv Shkedy, Hasselt University, Belgium
+10:00 Bayesian Modeling Dependence in
+Longitudinal Data via Partial Autocorrelations
+and Marginal Variances
+n Yanpin Wang* and Michael Daniels,
+University of Florida
+66. CONTRIBUTED PAPERS:
+Complex Study Designs and Bias
+Corrections
+Yellowstone | 2nd Floor
+Sponsor: ENAR
+Chair: Yvonne Zubovic, Indiana University Purdue University
+Fort Wayne
+8:30 Two-Stage Designs for Adaptive Comparative
+Effectiveness Trials
+John A. Kairalla*, University of Florida;
+Mitchell A. Thomann and Christopher S. Coffey,
+University of Iowa and Keith E. Muller,
+University of Florida
+8:45 More Efficient Estimators for Case-Cohort
+Studies
+SoYoung Kim* and Jianwen Cai, University of
+North Carolina at Chapel Hill
+9:00 Estimating Multiple Treatments Effects Using
+Two-Phase Regression Estimators
+Cindy Yu, Iowa State University; Jason Legg,
+Amgen Inc. and Bin Liu*, Iowa State University
+9:15 A Semi-parametric Approach to Select Optimal
+Sampling Schedules for Measuring the Mean
+Profile and Variability in Longitudinal Studies
+Meihua Wu* and Brisa N. Sánchez, Trivellore E.
+Raghunathan and Ana V. Diez-Roux, University
+of Michigan
+9:30 An Improved Paired Availability Design for
+Historical Controls
+Stuart G. Baker*, National Cancer Institute,
+National Institutes of Health and Karen S. Lindeman,
+Johns Hopkins University
+9:45 Bias Correction and Likelihood Based Inference
+Under Model Misspecification
+n Yang Ning*, Johns Hopkins University and
+Kung-Yee Liang, National Yang-Ming University
+10:00 Floor Discussion
+67. CONTRIBUTED PAPERS:
+High Dimensional Data
+Yosemite | 2nd Floor
+Sponsor: ENAR
+Chair: Eileen Liao, University of California at Los Angeles
+8:30 Sparse Meta-Analysis With Applications
+to High-Dimensional Data
+n Qianchuan He*, University of North Carolina at
+Chapel Hill; Helen Hao Zhang, North Carolina State
+University; Danyu Lin and Christy L. Avery, University
+of North Carolina at Chapel Hill
+8:50 Universal Probabilistic Dependency Discovery:
+Theory and Application
+Hesen Peng*, Emory University; Yun Bai,
+Philadelphia College of Osteopathic Medicine
+and Tianwei Yu, Emory University
+9:10 Investigating Pyrosequence Data from
+Ecological Applications
+Karen Keating*, Gary L. Gadbury, Ari Jumpponen
+and Karen A. Garrett, Kansas State University
+9:30 Exploration of Reactant-Product Lipid Pairs in
+Mutant-Wild Type Lipidomics Experiments
+Lianqing Zheng* and Gary L. Gadbury, Kansas State
+University; Jyoti Shah, University of North Texas
+and Ruth Welti, Kansas State University
+9:50 Factor Analysis Regression for Predictive
+Modeling with High Dimensional Data
+Netsanet T. Imam*, Randy L. Carter and Russell
+W. Bessette, State University of New York at Buffalo
+10:10 Floor Discussion
+SCIENTIFIC PROGRAM
+67 Program & Abstracts
+68. CONTRIBUTED PAPERS:
+High Dimensional Data: Machine
+Learning, Multivariate Methods and
+Computational Methods
+Bryce | 2nd Floor
+Sponsor: ENAR
+Chair: Frank B Yoon, Mathematica Policy Research, Inc.
+8:30 Majorization Minimization by Coordinate
+Descent for Concave Penalized Generalized
+Linear Models
+Dingfeng Jiang* and Jian Huang, University of Iowa
+8:45 Reducing Dimension to Improve Computational
+Efficiency in High Dimensional Studies
+Kevin K. Dobbin*, University of Georgia
+9:00 Additive Kernel Machine Regression Based
+Analysis of Genomic Data
+Jennifer Clark* and Mike Wu, University of
+North Carolina at Chapel Hill
+9:15 Variable Selection for High-Dimensional
+Multivariate Outcomes with Application
+to Genetic Pathway/Network Analysis
+n Tamar Sofer*, Harvard School of Public Health;
+Lee Dicker, Rutgers University and Xihong Lin,
+Harvard School of Public Health
+9:30 Enhancements of Sparse Clustering with
+Resampling
+n Wenzhu Bi*, George C. Tseng, Julie C. Price
+and Lisa A. Weissfeld, University of Pittsburgh
+9:45 Generalized Reduced Rank Regression for
+Multivariate Response
+Zakaria S. Khondker*, University of North Carolina
+at Chapel Hill and PAREXEL International;
+Hongtu Zhu and Joseph G. Ibrahim, University
+of North Carolina at Chapel Hill
+10:00 Floor Discussion
+69. CONTRIBUTED PAPERS:
+Variable and Model Selection Methods
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Yang Feng, Columbia University
+8:30 Simultaneous Rank Determination
+and Variable Selection in Multivariate
+Reduced-rank Regression
+Kun Chen*, Kansas State University
+and Kung-Sik Chan, University of Iowa
+8:45 Variable Selection for Fixed and Random
+Effects in Multilevel Models When Missing
+Data is Present
+Miguel Marino*, Harvard University
+and Yi Li, University of Michigan
+9:00 Variable Selection in Parametric and
+Non-Parametric Regression
+Trang T. Duong*, The University of West Georgia
+9:15 Penalized Variable Selection with
+U-estimates
+Xiao Song*, University of Georgia
+and Shuangge Ma, Yale University School
+of Public Health
+9:30 Variable Selection with Iterated Penalization
+for Semiparametric Regression Models
+Ying Dai* and Shuangge Ma, Yale University School
+of Public Health
+9:45 Sparsity Recovery from Multivariate Smoothing
+Functions Using the Nonnegative Garrote Method
+Zaili Fang*, Inyoung Kim and Patrick Schaumont,
+Virginia Polytechnic Institute and State University
+10:00 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+68 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+Tuesday, April 3 (continued)
+10:15 – 10:30 am Refreshment Break
+& Visit Our Exhibitors
+Regency Foyer
+Ballroom Level
+10:15 am – 12:15 pm
+70. Presidential Invited Address
+Regency Ballroom | Ballroom Level
+Sponsor: ENAR
+Organizer/Chair: Karen Bandeen-Roche, Johns Hopkins
+Bloomberg School of Public Health
+10:30 Introduction
+10:35 Distinguished Student Paper Awards and RAB
+Poster Awards
+10:55 Engaging, Inspiring, and Training the Next
+Generation: Past Successes, Future Challenges
+and Opportunities
+Marie Davidian, Department of Statistics,
+North Carolina State University
+1:45 – 3:30 pm
+71. Recent Advances in Statistical Methods
+for Diagnostic Medicine
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Haitao Chu, University of Minnesota
+Chair: Joseph Koopmeiers, University of Minnesota
+1:45 Semiparametric Estimation of the Covariate-
+Specific ROC Curve in Presence of Ignorable
+and Non-Ignorable Verification Bias
+Xiao-Hua Andrew Zhou* and Danping Liu,
+University of Washington
+2:15 Estimation and Design for Logistic Regression
+Under an Imperfect Population Identifier
+Paul S. Albert*, Aiyi Liu and Tonia Nansel,
+Eunice Kennedy Shriver National Institute
+of Child Health and Human Development,
+National Institutes of Health
+2:45 Designing Studies to Evaluate Biomarkers
+for Selecting Patient Treatment
+Holly Janes*, Margaret Pepe, Ying Huang
+and Marshall Brown, Fred Hutchinson Cancer
+Research Center
+3:15 Floor Discussion
+72. JABES Special Session on Climate
+Change and Health
+Columbia B | Ballroom Level
+Sponsor: ENAR
+Organizer: Montserrat Fuentes, North Carolina State University
+Chair: Bo Li, Purdue University
+1:45 Estimating the Health Impact of Climate Change
+with Calibrate Climate Model Output
+Montserrat Fuentes, North Carolina State University
+2:10 Flexible Distributed Lag Models using
+Random Functions with Application to
+Estimating Mortality Displacement from
+Heat-Related Deaths
+Roger Peng, Johns Hopkins University
+2:35 A Compartmental Model for Meningitis:
+Separating Transmission from Climate
+Effects on Disease
+Roman Jandarov, Murali Haran, and
+Mathew J. Ferrari, Penn State University
+3:00 Bivariate Downscaling with Asynchronoous
+Measurements
+Yunwen Yang*, Drexel University and
+Xuming He, University of Michigan
+3:25 Floor Discussion
+SCIENTIFIC PROGRAM
+69 Program & Abstracts
+73. Grant Funding Opportunities for
+Biostatisticians
+Capitol Room | Lobby Level
+Sponsor: ASA Section for Teaching in the Health Sciences
+Organizer: Michelle Dunn, National Cancer Institute, National
+Institutes of Health
+Chair: Angela Marriotto, National Cancer Institute
+1:45 New Opportunities for Research Funding at NSF
+Haiyan Cai*, National Science Foundation
+2:10 Overview of NIH Application Processes
+Michelle C. Dunn*, National Cancer Institute,
+National Institutes of Health
+2:35 Peer Review at the National Institutes of Health
+Tomas Drgon*, Center for Scientific Review, National
+Institutes of Health
+3:00 NIH Statistical Methodological Grant Application
+and Review
+Xihong Lin*, Harvard School of Public Health
+3:25 Floor Discussion
+74. Causal Mediation Analysis: Definitions,
+Identification, Inference and
+Controversies
+Columbia A | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Eric Tchetgen Tchetgen, Harvard School of
+Public Health
+Chair: Ilya Shipster, Harvard School of Public Health
+1:45 Alternative Graphical Causal Models and the
+Identification of Direct Effects
+Thomas Richardson*, University of Washington and
+James Robins, Harvard School of Public Health
+2:10 Why is Mediation Analysis Not Easy?
+Vanessa Didelez*, University of Bristol, UK
+2:35 Causal Mediation Analysis for Dichotomous and
+Time-to-event Outcomes
+Tyler VanderWeele*, Harvard School of Public Health
+3:00 Semiparametric Theory for Causal Mediation
+Analysis: Robustness, Efficiency and Sensitivity
+Eric J. Tchetgen Tchetgen* and Ilya Shpitser,
+Harvard University
+3:25 Floor Discussion
+75. Advances in Brain Imaging and Signal
+Biomarkers For Behavior
+Congressional A | Lobby Level
+Sponsor: IMS
+Organizer: Hernando Ombao, University of California at Irvine
+Chair: Dipak Dey, University of Connecticut
+1:45 How Restful is Resting State fMRI? —
+A Population Functional Change-Point
+Analysis Investigation
+John A.D. Aston*, University of Warwick and
+Claudia Kirch, Karlsruhe Institute of Technology
+2:10 Predicting Disease Status Using a Novel
+Support Vector Classifier for Longitudinal
+Neuroimaging Data
+DuBois Bowman* and Shuo Chen, Emory University
+2:35 Developing fMRI-based Biomarkers for Pain
+Martin A. Lindquist*, Columbia University
+3:00 Novel Measures of Dependence in Time Series
+as Biomarkers
+Hernando Ombao* and Mark Fiecas, Brown
+University and Cristina Gorrostieta, University
+of California at Irvine
+3:25 Floor Discussion
+76. Recent Development in Imputation
+Methods and Their Applications
+Regency D | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Qixuan Chen, Columbia University
+Chair: Sijian Wang, University of Wisconsin
+1:45 A Multiple Imputation Approach to Misreporting
+and Mismeasurement from Multiple Sources
+Yulei He*, Mary Beth Landrum and Alan Zaslavsky,
+Harvard Medical School
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+70 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+2:10 Doubly Robust Nonparametric Multiple
+Imputation for Ignorable Missing Data
+Qi Long*, Emory University; Chiu-Hsieh Hsu,
+University of Arizona and Yisheng Li, University
+of Texas MD Anderson Cancer Center
+2:35 Why are There Multiple Hypothesis
+Testing Combining Rules for Multiply
+Imputed Data Sets?
+Xiao-Li Meng*, Harvard University and Xianchao Xie,
+Two Sigma Investments, LLC
+3:00 Imputing Modes for Missing Data Based on
+the Laplace Approximation to the Marginal
+Likelihood
+Myunghee Cho Paik*, Columbia University
+3:25 Floor Discussion
+77. TOPIC CONTRIBUTED PAPERS:
+Joint Modeling and Its Applications
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Yangxin Huang, University of South Florida
+Chair: Yangxin Huang, University of South Florida
+1:45 An Estimation Method of Marginal
+Treatment Effects on Correlated Longitudinal
+and Survival Outcomes
+Qing Pan, George Washington University and
+Grace Y. Yi*, University of Waterloo
+2:00 A Semiparametric Marginalized Model for
+Longitudinal Data with Informative Dropout
+Mengling Liu*, New York University School of
+Medicine and Wenbin Lu, North Carolina
+State University
+2:15 Bayesian Semiparametric Nonlinear Mixed-
+Effects Joint Models for Data with Skewness,
+Missing Responses and Measurement Errors
+in Covariates
+Yangxin Huang* and Getachew A. Dagne,
+University of South Florida
+2:30 Bayesian Hybrid Inference for Longitudinal and
+Survival Joint Models
+Gang Han*, Moffitt Cancer Center & Research
+Institute; Yangxin Huang, University of South Florida
+and Catherine Phelan, Moffitt Cancer Center &
+Research Institute
+2:45 Joint Spatial Modeling of Recurrent Infection
+and Growth in Forest Ecology
+Farouk S. Nathoo*, University of Victoria
+3:00 Bayesian Joint Model of Multivariate Ordinal
+Data with Competing Risks Survival Time
+Satrajit Roychoudhury*, Novartis Pharmaceuticals
+Corporation
+3:15 A Joint Latent Class Model of Survival and
+Longitudinal Data
+Yue Liu*, Lei Liu and Jianhui Zhou,
+University of Virginia
+78. CONTRIBUTED PAPERS:
+Bayesian Methods I
+Yellowstone | 2nd Floor
+Sponsor: ENAR
+Chair: Jung-Ying Tzeng, North Carolina State University
+1:45 Bayesian Kappa Regression
+Elande Baro*, University of Maryland Baltimore
+County; Zhen Chen, Sung Duk Kim and Bo Zhang,
+Eunice Kennedy Shriver National Institute of
+Child Health and Human Development,
+National Institutes of Health
+2:00 Sparse Data in Safety Data Analyses
+Xiaowen Hu*, Southern Methodist University;
+Luyan Dai and Tom Tang, Boehringer Ingelheim
+Pharmaceutivals
+2:15 Minkowski-Weyl Priors for Models with
+Parameter Constraints: An Analysis of the
+BioCycle Study
+n Michelle R. Danaher*, University of Maryland,
+Baltimore County and Eunice Kennedy Shriver
+National Institute of Child Health and Human
+Development, National Institutes of Health;
+Anindya Roy, University of Maryland Baltimore
+County; Zhen Chen, Sunni L. Mumford and Enrique
+F. Schisterman, Eunice Kennedy Shriver National
+Institute of Child Health and Human Development,
+National Institutes of Health
+2:30 A Predictive Bayesian Approach to the Design
+and Analysis of Bridging Studies
+A. Lawrence Gould*, Jin Tian, Li Xin Zhang and
+William W. B. Wang, Merck Research Laboratories
+2:45 Bayesian Semiparametric Regression for
+Evaluating Pathway Effects on Zero Inflated
+Clinical Outcomes
+Lulu Cheng* and Inyoung Kim, Virginia Tech
+SCIENTIFIC PROGRAM
+71 Program & Abstracts
+3:00 Bayesian Sampling-Based Methods for Inverse
+Prediction from Longitudinal CD4 Profile Data
+Miranda L. Lynch* and Victor DeGruttola,
+Harvard School of Public Health
+3:15 Robust Bayesian Inference for Longitudinal
+Multivariate Data with Normal/Independent
+Distributions
+Sheng Luo* and Junsheng Ma, University of Texas
+at Houston; Karl D. Kieburtz, University of Rochester
+Medical Center and Barbara C. Tilley, University of
+Texas at Houston
+79. CONTRIBUTED PAPERS:
+Correlated / Longitudinal Data
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Hongjie Zhu, Duke University
+1:45 A Semiparametric Latent Variable
+Transformation Approach for Modeling Multiple
+Outcomes of Mixed Types
+Anna Snavely*, Harvard University and Yi Li,
+Harvard University and University of Michigan
+2:00 Analysis of Asynchronous Longitudinal
+Observations
+Hongyuan Cao*, University of Chicago; Donglin Zeng
+and Jason P. Fine, University of North Carolina at
+Chapel Hill
+2:15 Hierarchical Multiple Informant Models
+Jonggyu Baek* and Brisa N. Sanchez, University
+of Michigan and Emma V. Sanchez-Vaznaugh,
+San Francisco State University
+2:30 Measures of Discrimination for Latent
+Group-Based Trajectory Models
+Nilesh Shah* and Chung-Chou Chang,
+University of Pittsburgh
+2:45 Challenges in Estimation of Genetic Effects
+from Family-based Case-Control Data
+Roula Tsonaka* and
+Jeanine J. Houwing-Duistermaat,
+Leiden University Medical Center
+3:00 The Analysis of Correlated Non-Gaussian
+Outcomes from Clusters of Size Two:
+Non-Multilevel-Based Alternatives?
+Tom Loeys*, Ghent University and
+Geert Molenberghs, University of Leuven
+3:15 Conditional Inference Functions for
+Mixed-Effects Models with Unspecified
+Random-Effects Distribution
+Peng Wang*, Bowling Green State University;
+Guai-feng Tsai, U.S. Food and Drug Administration
+and Annie Qu, University of Illinois at
+Urbana-Champaign
+80. CONTRIBUTED PAPERS:
+Imaging
+Bryce | 2nd Floor
+Sponsor: ENAR
+Chair: Ani Eloyan, Johns Hopkins University
+1:45 A Bayesian Hierarchical Framework for Modeling
+Brain Connectivity of Neuroimaging Data
+Shuo Chen*, F. DuBois Bowman and
+Lijun Zhang, Emory University
+2:00 Simple Modifications of a t-test for Improved
+Power with FDR Control in fMRI
+Shuzhen Li, Medtronic, Inc.; Lynn E. Eberly*,
+University of Minnesota and Brian S. Caffo,
+Johns Hopkins University
+2:15 Adaptive Thresholding for fMRI Data
+Joke Durnez* and Beatrijs Moerkerke,
+Ghent University, Belgium
+2:30 Application of Cluster Analysis in Dementia
+Research
+Jay Mandrekar*, Mayo Clinic
+2:45 Three-dimensional Recognition of Stem
+Cells Using an Entropy Based Nonparametric
+Hypothesis Testing Approach
+Ran Liu* and Dipak K. Dey, University of Connecticut
+3:00 A Bayesian Approach to Determining Functional
+Connectivity in the Human Brain with
+Incorporation of Structural Connectivity
+Wenqiong Xue* and F. DuBois Bowman,
+Emory University
+3:15 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+72 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+81. CONTRIBUTED PAPERS:
+Longitudinal and Time Series Data
+Analysis
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Raymond Hoffmann, Medical College of Wisconsin
+1:45 State-Space Time Series Clustering Using
+Discrepancies Based on the Kullback-Leibler
+Information and the Mahalanobis Distance
+Eric D. Foster* and Joseph E. Cavanaugh,
+University of Iowa
+2:00 Developmental Trajectories of Marijuana Use
+from Adolescence to Adulthood: Personality and
+Social Role Outcomes
+Judith S. Brook, Jung Yeon Lee* and Elaine
+N. Brown, NYU School of Medicine; Stephen J.
+Finch, State University of NewYork, Stony Brook
+and David W. Brook, New York University School
+of Medicine
+2:15 Modeling the Evolution of Neurophysiological
+Signals
+Mark Joseph A. Fiecas* and Hernando Ombao,
+Brown University
+2:30 Markov Regression Models for Count
+Time Series with Excess Zeros: A Partial
+Likelihood Approach
+Ming Yang*, Gideon Zamba and Joseph Cavanaugh,
+University of Iowa
+2:45 Semiparametric Approach to a Non-linear
+Random Effects Quantile Regression Model
+Mi-Ok Kim* and Rhonda Vandyke, Cincinnati
+Children’s Hospital Medical Center
+3:00 Building a New Control Chart for Biosurveillance
+Yiying Fan*, Cleveland State University
+3:15 Robust Estimation of Mixed Effects Model for
+Finite Normal Mixtures
+Tingting Zhan*, Temple University; Inna Chervoneva,
+Thomas Jefferson University and Boris Iglewicz,
+Temple University
+82. CONTRIBUTED PAPERS:
+Survival Analysis and Risk Prediction
+Yosemite | 2nd Floor
+Sponsor: ENAR
+Chair: Hilary Parker, Johns Hopkins School of Public Health
+1:45 Partly Conditional Estimation of the Effect of
+a Time-Dependent Factor in the Presence of
+Dependent Censoring
+n Qi Gong* and Douglas E. Schaubel,
+University of Michigan
+2:00 Regression Analysis of Clustered
+Interval-Censored Failure Time Data with
+the Additive Hazards Model
+Junlong Li*, University of Missouri; Chunjie Wang,
+Mathematics School and Institute of Jilin University
+and Jianguo Sun, University of Missouri
+2:15 Landmark Risk Prediction of Residual Life for
+Breast Cancer Survival
+Layla Parast* and Tianxi Cai, Harvard University
+2:30 Estimating Restricted Mean Job Tenures
+for Compensatory Damages in Promotion
+Discrimination Cases: Application to
+Alexander vs. Milwaukee
+Qing Pan* and Joseph Gastwirth,
+George Washington University
+2:45 Statistical Methods of Time-Conditional Survival
+Victoria Gamerman* and Phyllis A. Gimotty,
+University of Pennsylvania
+3:00 100 Years On: A New Look at Survivorship
+on the Titanic
+Stephen D. Walter*, Hedy Jiang, McMaster
+University and Corinne A. Riddell, McGill University
+3:15 Adjusted Survival Analysis with Inverse
+Probability Weights in Community-based
+Primary Care Practices
+Zugui Zhang*, Edward Ewen and Paul Kolm,
+Christiana Care Health System
+SCIENTIFIC PROGRAM
+73 Program & Abstracts
+Tuesday, April 3 (continued)
+3:30 pm – 3:45 pm Refreshment Break
+& Visit Our Exhibitors
+Regency Foyer
+Ballroom Level
+3:45 – 5:30 pm
+83. Statistical Methods and Applications in
+Rare Variant Sequencing Studies
+Columbia B | Ballroom Level
+Sponsor: ENAR
+Organizers: Xihong Lin, Harvard School of Public Health and
+Michael Wu, University of North Carolina at Chapel Hill
+Chair: Xihong Lin, Harvard School of Public Health
+3:45 Joint Moment Test for Rare Variants
+Daniel J. Schaid*, Mayo Clinic
+4:10 A Novel Permutation Strategy to Correct for
+Confounders in Case-Control Studies of Rare
+Variation
+Michael P. Epstein*, Richard Duncan, Yunxuan Jiang
+and Karen N. Conneely, Emory University; Andrew
+S. Allen, Duke University and Glen A. Satten,
+Centers for Disease Control and Prevention
+4:35 Investigating the Impact of the Rare
+Spectrum of Variation on Drug Repositioning
+and Drug Response
+Matthew R. Nelson*, GlaxoSmithKline
+5:00 Kernel Machine Based Testing of Rare Variant
+by Environment Interactions
+Michael C. Wu*, University of North Carolina
+at Chapel Hill
+5:25 Floor Discussion
+84. Causal Inference Methods for HIV
+Research
+Columbia A | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Miguel Hernan, Harvard School of Public Health
+Chair: Miguel Hernan, Harvard School of Public Health
+3:45 Practical Applications of Principal Stratification
+in HIV Research
+Bryan E. Shepherd*, Vanderbilt University
+4:15 Estimation of Joint Effects of Multiple
+Time-Varying Exposures in Infectious Disease
+Research
+Stephen R. Cole*, University of North Carolina at
+Chapel-Hill and Chanelle J. Howe, Brown University
+4:45 Mediation Analysis for Observational Event
+Time Data
+Jing Zhang and Joseph W. Hogan*, Brown
+University; Catherine Gichunge, Edwin Sang
+and Abraham Siika, Moi University
+5:15 Discussant: James Robbins, Harvard University
+85. Modern Statistical Machine Learning for
+Complex and High Dimensional Data
+Capitol Room | Lobby Level
+Sponsor: ASA Section on Statistical Learning and Data Mining
+Organizer: Yufeng Liu, University of North Carolina at
+Chapel Hill
+Chair: Yufeng Liu, University of North Carolina at Chapel Hill
+3:45 High-Dimensional Pharmacoepidemiology
+David Madigan*, Columbia University
+4:10 HDLSS Discrimination with Adaptive Data Piling
+Myung Hee Lee, Colorado State University;
+Jeongyoun Ahn*, University of Georgia
+and Yongho Jeon, Yonsei University
+4:35 Likelihood Adaptive Modified Penalty and
+Its Properties
+Tengfei Li, Fudan University, Yang Feng*
+and Zhiliang Ying, Columbia University
+5:00 Regularized Multiple-Index Model for Group
+Variable Selection
+Sijian Wang*, University of Wisconsin, Madison
+5:25 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+74 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+86. Statistical Challenges in Reproductive
+and Environmental Epidemiology
+Congresional A | Lobby Level
+Sponsor: ASA Section on Statistics and the Environment
+Organizer: Raji Sundaram, National Institute of Child Health
+and Development, National Institutes of Health
+Chair: Raji Sundaram, National Institute of Child Health
+and Development, National Institutes of Health
+3:45 Conceptual & Methodologic Challenges
+Underlying the Assessment of Environmental
+Reproductive and Developmental Toxicants:
+An Overview
+Germaine M. Louis*, National Institute of Child
+Health and Development, National Institutes
+of Health
+4:10 Modeling Time-To-Pregnancy in Terms of
+Variability of Menstrual Length
+Amita Manatunga*, Emory University; Huichao Chen,
+Harvard University; Limin Peng and Michele Marcus,
+Emory University
+4:35 Analysis of In-Vitro Fertilization Data
+with Multiple Outcomes Using Discrete
+Time to Event Analysis
+Arnab Maity*, North Carolina State University;
+Paige Williams, Harvard School of Public Health;
+Louise Ryan, Commonwealth Scientific and
+Industrial Research Organisation; Stacey Missmer,
+Brent Coull and Russ Hauser, Harvard School of
+Public Health
+5:00 Bayesian Borrowing of Information Across
+High-Dimensional Exposures and Outcomes
+Amy H. Herring*, University of North Carolina
+at Chapel Hill; David B. Dunson, Duke University
+and Andrew F. Olshan, University of North Carolina
+at Chapel Hill
+5:25 Floor Discussion
+87. Combining Population Data from
+Multiple Sources
+Columbia C | Lobby Level
+Sponsor: ASA Survey Research and Methodology Section
+Organizer: Michael Elliott, University of Michigan
+Chair: Trivellore Raghunathan, University of Michigan
+3:45 Combining Information from Multiple
+Complex Surveys
+Qi Dong*, Trivellore Raghunathan and Michael Elliott,
+University of Michigan
+4:10 Estimating Effectiveness of Health Care Combing
+Information from Different Surveys
+Trivellore Raghunathan and Irina Bondarenko*,
+University of Michigan
+4:35 Longitudinal Analysis of Linked Data: A Case Study
+Guangyu Zhang*, Jennifer Parker and Nathaniel
+Schenker, National Center for Health Statistics
+5:00 Combining Data from Probability and
+Non-probability Surveys
+Michael R. Elliott*, Alexa Resler, Carol Flannagan
+and Jonathan Rupp, University of Michigan
+5:25 Floor Discussion
+88. Spatial Uncertainty in Public Health
+Problems
+Regency D | Ballroom Level
+Sponsor: ASA Section on Statistics and the Environment
+Organizer: Li Zhu, National Cancer Institute, National Institutes
+of Health
+Chair: Li Zhu, National Cancer Institute, National Institutes
+of Health
+3:45 Spatial Uncertainty in Health Data: Does It
+Matter and Why Should I Worry About It?
+Geoffrey Jacquez*, Biomedware
+4:10 Relating Public Health to Environmental
+Factors: Quantifying Uncertainty when Exposure
+is Predicted
+Linda J. Young* and Kenneth K. Lopiano, University
+of Florida and Carol A. Gotway, U.S. Centers for
+Disease Control and Prevention
+SCIENTIFIC PROGRAM
+75 Program & Abstracts
+4:35 Spatial Uncertainty and Spatial Measures
+of Performance
+Lance Waller*, Emory University
+5:00 Visualizing Statistics and Uncertainty Patterns
+with Micromaps
+Daniel B. Carr*, George Mason University and Linda
+W. Pickle, StatNet Consulting LLC
+5:25 Floor Discussion
+89. TOPIC CONTRIBUTED PAPERS:
+New Statistical Tools for High
+Dimensional Problems
+Congressional B | Lobby Level
+Sponsor ENAR
+Organizer: Yichao Wu, North Carolina State University
+Chair: Yichao Wu, North Carolina State University
+3:45 Discovering Graphical Granger Causality
+in Sparse High-dimensional Networks with
+Inherent Grouping Structure
+George Michailidis* and Sumanta Basu, University of
+Michigan and Ali Shojaie, University of Washington
+4:05 Quantile Regression in Ultra-high Dimension
+Lan Wang*, University of Minnesota; Yichao Wu,
+North Carolina State University and Runze Li,
+The Pennsylvania State University
+4:25 Statistical Tools for Identifying and Predicting
+Multiple Pathways
+Joseph S. Verducci*, Samuel Handelman and
+Steven Bamattre, The Ohio State University
+4:45 Selecting the Number of Principal Components
+in Functional Data
+Yehua Li*, University of Georgia; Naisyin Wang,
+University of Michigan and Raymond J. Carroll,
+Texas A&M University
+5:05 Robust Estimation of Large Gaussian
+Graphical Model
+Peng Tang, Georgia Institute of Technology;
+Huijing Jiang, IBM T.J. Watson Research Center
+and Xiwnei Deng*, Virginia Tech
+5:25 Floor Discussion
+90. CONTRIBUTED PAPERS:
+Bayesian Methods II
+Yellowstone | 2nd Floor
+Sponsor: ENAR
+Chair: Kyu Ha Lee, Harvard School of Public Health
+3:45 A Bayesian Approach for Rank Aggregation
+Ke Deng* and Xuxin Liu, Harvard University;
+Jiong Du, Peking University and Jun S. Li,
+Harvard University
+4:00 Bayesian Inference for Case-Control Studies
+with Multiple Non-Gold Standard Exposure
+Assessments: With an Application in
+Occupational Health
+Jing Zhang*, University of Minnesota
+4:15 A Nonparametric Bayesian Model for
+Local Clustering
+Juhee Lee*, University of Texas MD Anderson
+Cancer Center; Peter Mueller, University of Texas at
+Austin and Yuan Ji, University of Texas MD Anderson
+Cancer Center
+4:30 A Bayesian Characterization for a Weighted Sum
+of Environmental Chemicals
+Stephanie M. Pearson* and Roy T. Sabo, Virginia
+Commonwealth University
+4:45 Estimating Reproductive Inhibition Potency
+in Aquatic Toxicity Testing When Excess
+Zeros Observed
+Jing Zhang*, A. John Bailer and James T. Oris,
+Miami University
+5:00 Bayesian Armitage-Doll Multistage
+Carcinogenesis Model in Estimating
+Cancer Mortality
+Zhiheng Xu* and Vicki Hertzberg, Emory University
+5:15 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+76 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+91. CONTRIBUTED PAPERS:
+Diagnostic and Screening Tests
+Bryce | 2nd Floor
+Sponsor: ENAR
+Chair: Patrick Perry, New York University
+3:45 Discrete Survival Analysis with
+Misclassified Events
+Abidemi Adeniji*, University of Pittsburgh
+4:00 A New Approach to Adjust for Verification Bias
+in Assessment of Binary Diagnostic Tests
+Qingxia Chen*, Vanderbilt University
+4:15 Diagnostic Tests Based on Multiple Cutpoints for
+Not Proper ROC Curves
+Peter R. Dawson* and Phyllis A. Gimotty,
+University of Pennsylvania
+4:30 Estimation of the Volume Under the ROC Surface
+with Three Ordinal Diagnostic Categories Using
+Kernel Smoothing
+Le Kang* and Lili Tian, University at Buffalo
+4:45 Soft ROC Curves
+Yixin Fang, New York University; Narayanaswamy
+Balakrishnan, McMaster University and Xin Huang*,
+Fred Hutchinson Cancer Research Center
+5:00 Evaluating Incomplete Multiple
+Imperfect Diagnostic Tests with a Probit
+Latent Class Model
+Yi Zhang*, University of North Carolina at Chapel
+Hill; Haitao Chu, University of Minnesota and Donglin
+Zeng, University of North Carolina at Chapel Hill
+5:15 Floor Discussion
+92. CONTRIBUTED PAPERS:
+Meta-Analysis
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Brian Neelon, Duke University
+3:45 Meta-Analysis of Binary Rare Adverse Event
+Dulal K. Bhaumik, University of Illinois at Chicago;
+Anup K. Amatya*, New Mexico State University;
+Sharon-Lise Normand, Harvard University;
+Joel Greenhouse, Carnegie Mellon University;
+Eloise Kaizar, The Ohio State University; Brian
+Neelon, Duke University and Robert Gibbons,
+University of Chicago
+4:00 Regulatory Network Analysis by Meta-Analysis
+of Multiple Transcriptomic Studies in Major
+Depressive Disorder
+Ying Ding*, Etienne Sibille and George Tseng,
+University of Pittsburgh
+4:15 Meta-Analysis Framework for the Dimension
+Reduction of Genomic Data
+Dongwan D. Kang* and George C. Tseng,
+University of Pittsburgh
+4:30 Meta-Analysis of Observational Studies with
+Unmeasured Confounders
+Lawrence C. McCandless*, Simon Fraser University,
+Canada
+4:45 Comprehensive Comparative Study of
+Microarray Meta-Analysis Methods
+Lun-Ching Chang*, Hui-Min Lin and
+George C. Tseng, University of Pittsburgh
+5:00 Imputation of Truncated p-values for
+Meta-Analysis Methods and Its Genomic
+n Shaowu Tang* and George C. Tseng,
+University of Pittsburgh
+5:15 Merging Clustered or Longitudinal Cohort Data
+with Cohort-specific Missing Covariates
+Fei Wang*, Lu Wang and Peter X.-K. Song,
+University of Michigan
+SCIENTIFIC PROGRAM
+77 Program & Abstracts
+93. CONTRIBUTED PAPERS:
+Missing Data I
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Zhi (Kevin) He, University of Michigan
+3:45 A Multiple Imputation Based Approach
+to Sensitivity Analyses and Effectiveness
+Assessments in Longitudinal Clinical Trials
+Teshome Birhanu*, I-BioStat, Universiteit Hasselt,
+Belgium; Ilya Lipkovich, Eli Lilly & Company;
+Geert Molenberghs, I-BioStat, Universiteit
+Hasselt, Belgium and I-BioStat, Katholieke
+Universiteit Leuven, Belgium and Craig H.
+Mallinckrodt, Eli Lilly & Company
+4:00 Estimation of Rate of Change in Longitudinal
+Studies with Varying Degrees of Missingness
+and Informative Dropout: A Simulation Study
+Jamie E. Collins*, Boston University; Robin Bliss
+and Elena Losina, Brigham and Women’s Hospital
+4:15 On Cluster Size, Ignorability, Ancillarity,
+Completeness, Separability, and Degeneracy:
+Sequential Trials, Random Sample Sizes, and
+Missing Data
+Geert Molenberghs*, I-BioStat, Universiteit Hasselt
+& Katholieke Universiteit Leuven, Belgium;
+Michael G. Kenward, London School of Hygiene and
+Tropical Medicine; Marc Aerts, I-BioStat, Universiteit
+Hasselt, Belgium; Geert Verbeke, I-BioStat, Katholieke
+Universiteit Leuven & Universiteit Hasselt, Belgium;
+Anastasios A. Tsiatis and Marie Davidian, North
+Carolina State University and Dimitris Rizopoulos,
+Erasmus University Rotterdam
+4:30 Diagnostic Plots for Evaluation of Bias in
+Missing Data from Clinical Trials
+Gerry W. Gray*, U.S. Food and Drug Administration
+4:45 Time-to-event Analysis with Partial Adjudication
+of Potential Events Using Fractional Imputation
+Jason C. Legg*, Amgen Inc. and Jae Kwang Kim,
+Iowa State University
+5:00 Multiple Imputation for Generalized Linear
+Models with Censored Covariates
+Paul W. Bernhardt*, Huixia Wang and Daowen
+Zhang, North Carolina State University
+5:15 Multiple Imputation for Measurement Error with
+Internal and External Calibration Samples
+Roderick J. Little*, University of Michigan
+94. CONTRIBUTED PAPERS:
+Semiparametric and Nonparametric
+Methods for Survival Analysis
+Yosemite | 2nd Floor
+Sponsor: ENAR
+Chair: Lily Wang, University of Georgia
+3:45 A Family of Weighted Generalized Inverse
+Weibull Distribution
+Broderick O. Oluyede*, Georgia Southern University
+and Jing Kersey, East Georgia College
+4:00 Stratified and Unstratified Log-Rank Tests in
+Survival Analysis
+Changyong Feng*, David Oakes and Yao Yu,
+University of Rochester Medical Center
+4:15 Nonparametric Estimation of the Mean
+Function for Recurrent Events Data with
+Missing Event Category
+Feng-Chang Lin*, Jianwei Cai and Jason P. Fine,
+University of North Carolina at Chapel Hill and
+HuiChuan J. Lai, University of Wisconsin-Madison
+4:30 Median Tests for Censored Survival Data:
+Contingency Table Approach
+Shaowu Tang and Jong-Hyeon Jeong*,
+University of Pittsburgh
+4:45 Pointwise Confidence Intervals for a Survival
+Distribution for Right Censored Data with Small
+Samples or Heavy Censoring
+Michael P. Fay*, Erica Brittain and Michael A.
+Proschan, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health
+5:00 Further Thoughts on the Proportional Mean
+Residual Life Model
+David Oakes*, University of Rochester
+Medical Center
+5:15 Frailty Models with Covariates Subject to
+Limit of Detection
+Abdus Sattar*, Case Western Reserve University;
+Liang Li, Cleveland Clinic Foundation and Pingfu Fu,
+Case Western Reserve University
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+78 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+Wednesday, April 4
+8:30 – 10:15 am
+95. New Statistical Challenges in Functional
+Data Analysis
+Yellowstone | 2nd Floor
+Sponsor: ASA Biometrics Section
+Organizer: Ana-Maria Staicu, North Carolina State University
+Chair: Michele Guindani, University of Texas MD Anderson
+Cancer Center
+8:30 Bayesian Variable Selection for Identifying
+Genetic Effects on Functional Connectivity
+Brian J. Reich*, North Carolina State University;
+Michele Guindani, University of Texas MD Anderson
+Cancer Center; Abel Rodriguez, University of
+California at Santa Cruz and Vince Calhoun,
+University of New Mexico
+8:55 Regression Models for Spatially Correlated
+Multilevel Functional Data
+Ana-Maria Staicu*, North Carolina State
+University; Damla Sentürk, University of California
+at Los Angeles and Raymond J. Carroll, Texas
+A&M University
+9:20 Varying Coefficient Models for Sparse
+Noise-Contaminated Longitudinal Data
+Damla Senturk*, University of California, Los Angeles
+and Danh Nguyen, University of California, Davis
+9:45 Longitudinal High Dimensional Data Analysis
+Vadim Zipunnikov*, Johns Hopkins University;
+Sonja Greven, Ludwig-Maximilians-University; Brian
+Caffo, Johns Hopkins University; Daniel S. Reich,
+Johns Hopkins University and National Institute
+of Neurological Disorders and Stroke, National
+Institutes of Health and Ciprian M. Crainiceanu,
+Johns Hopkins University
+10:10 Floor Discussion
+96. Estimation of Covariance Matrices
+with Applications to Longitudinal Data
+and Graphical Models
+Columbia B | Ballroom Level
+Sponsor: IMS
+Organizer: Michael Daniels, University of Florida
+Chair: Dhiman Bhadra, Worcester Polytechnic Institute
+8:30 Estimating Large Correlation Matrices by
+Banding the Partial Autocorrelation Matrix
+Yanpin Wang and Michael Daniels*,
+University of Florida
+9:00 Antedependence Models for Normal and
+Categorical Longitudinal Data
+Dale L. Zimmerman*, University of Iowa
+9:30 Doubly Regularized Estimation and
+Selection in Linear Mixed-Effects Models
+for High-Dimensional Longitudinal Data
+Yun Li, University of Michigan; Sijian Wang,
+University of Wisconsin; Peter X.K. Song,
+Naisyin Wang and Ji Zhu*, University of Michigan
+10:00 Floor Discussion
+97. Analyses of Incomplete Longitudinal Data
+– How Robust are the Results?
+Capitol Room | Lobby Level
+Sponsor: ASA Biometrics Section
+Organizer: Donna Kowalski, Astellas Pharma Global
+Development, Inc
+Chair: Donna Kowalski, Astellas Pharma Global
+Development, Inc
+8:30 Bayesian Influence Measures for Joint Models
+for Longitudinal and Survival Data
+Joseph G. Ibrahim* and Hongtu Zhu, University of
+North Carolina at Chapel Hill and Niansheng Tang,
+Yunnan University, China
+9:00 Robust Analyses of Randomized Clinical Trials
+with Incomplete Longitudinal Data
+Devan V. Mehrotra*, Merck Research Laboratories
+9:30 On the Usefulness of Sensitivity Analyses
+James M. Robins*, Harvard School of Public Health
+10:00 Floor Discussion
+SCIENTIFIC PROGRAM
+79 Program & Abstracts
+98. Statistics in Mental Health Research:
+A Memorial to Dr. Andrew Leon
+Columbia A | Ballroom Level
+Dr. Andrew Leon, originally scheduled to participate in this
+session, passed away unexpectedly on Sunday, February 19,
+2012. The remaining participants would like to dedicate their
+s ession to his memory.
+Sponsor: ENAR
+Organizers: Naihua Duan, Columbia University and
+Robert Gibbons, University of Chicago
+Chair: Naihua Duan, Columbia University
+8:30 Efficient Longitudinal Estimation of Incidence
+and Prevalence Rate of Major Depressive
+Disorder in Home Healthcare Study
+Samiran Ghosh*, Winthrop University Hospital
+and SUNY Stony Brook, Marty Bruce, Weill Cornell
+Medical College
+8:55 Modeling Between- and Within-Subject
+Mood Variance in Ecological Momentary
+Assessment (EMA) Data using Mixed-Effects
+Location-Scale Models
+Donald Hedeker*, Robin J. Mermelstein and Hakan
+Demirtas, University of Illinois at Chicago
+9:20 Are Antidepressants Effective and Do They
+Cause Suicidal Thoughts and Behavior?
+Methodology and Findings for Synthesizing
+Findings Across Multiple Randomized
+Antidepressant Trials
+Hendricks Brown*, University of Miami; Robert
+D. Gibbons, University of Chicago; Kwan Hur,
+University of Chicago and Hines VA Hospital Center
+for Medication Safety; John J. Mann, Columbia
+University and Bengt O. Muthen, University of
+California at Los Angeles
+9:45 The Future of Mental Health Measurement
+Robert D. Gibbons*, University of Chicago
+12:00 Floor Discussion
+99. High-Impact Statistical Methods
+and the Fight Against HIV in the
+Developing World
+Congressional A | Lobby Level
+Sponsor: ENAR
+Organizer: Joseph Hogan, Brown University
+Chair: Joseph Hogan, Brown University
+8:30 Using Auxiliary Biomarkers to Improve Pooling
+Strategies for HIV Viral Load Testing
+Tao Liu*, Joseph W. Hogan, Shangxuan Zhang
+and Rami Kantor, Brown University
+8:55 The Role of Network Analyses in Research
+on Prevention of HIV Infection
+Ravi Goyal, Joseph Blitzstein and Victor DeGruttola*,
+Harvard University
+9:20 Estimation from Double-Sampled
+Semi-Competing Risk Data
+Constantin T. Yiannoutsos*, Menggang Yu
+and Hai Liu, Indiana University School of Medicine
+9:45 Traditional and ‘Causal’ Models for Evaluating
+the Effectiveness of the Switch to Second Line
+Therapy in a Large, Ongoing HIV/AIDS Treatment
+and Care Program in a Resource Limited Setting
+Sehee Kim and Donna Spiegelman*, Harvard School
+of Public Health; Claudia Hawkins, Northwestern
+University; Aisa Muya and Eric Aris, Management
+and Development for Health Dar es Salaam,
+Tanzania; Ester Mungure and Aveika Akum, Harvard
+School of Public Health; Guerino Chalamilla,
+Management and Development for Health Dar es
+Salaam, Tanzania and Wafaie W. Fawzi, Harvard
+School of Public Health
+10:10 Floor Discussion
+100. Memorial Session for Tom Ten Have
+Regency A | Ballroom Level
+Sponsor: ENAR
+Organizers: Dylan Small and Marshall Joffe,
+University of Pennsylvania
+Chair: Dylan Small, University of Pennsylvania
+8:30 Celebrating the Life of Thomas R. Ten Have
+J. Richard Landis*, University of Pennsylvania
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+80 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+8:55 Sizing Sequential, Multiple Assignment,
+Randomized Trials for Survival Analysis
+Zhiguo Li, Duke University and Susan Murphy*,
+University of Michigan
+9:20 Post-Randomization Modification of Intent-to-
+Treat Effects in Randomized Clinical Trials
+Rongmei Zhang*, U.S. Food and Drug Administration;
+Marshall Joffe and Thomas Ten Have, University
+of Pennsylvania
+9:45 Mediation Analysis on the Basis of Initial
+Randomization
+Marshall Joffe, University of Pennsylvania
+10:10 Floor Discussion
+101. TOPIC CONTRIBUTED PAPERS:
+Advanced Statistical Modeling
+for Complex OMICS Data
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Hua Zhou, North Carolina State University
+Chair: Hua Zhou, North Carolina State University
+8:30 Bayesian Model for Identifying Spatial
+Interactions of Chromatins
+Shili Lin* and Liang Niu, The Ohio State University
+8:50 Testing and Estimation of Partial
+Correlation Networks
+Fred A. Wright* and Min Jin Ha, University of North
+Carolina at Chapel Hill
+9:10 Statistical Methods for Inference from Multiple
+ChIP-seq Samples
+Sunduz Keles*, University of Wisconsin, Madison
+9:30 Statistical Models for Analyzing Sequencing
+Applications
+Zhaohui S. Qin*, Emory University
+9:50 A Gene-Trait Similarity Regression Method
+for Common and Rare Variants with General
+Trait Values
+Jung-Ying Tzeng*, North Carolina State University
+10:10 Floor Discussion
+102. CONTRIBUTED PAPERS:
+Biomarkers II
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Margaret A. Taub, Johns Hopkins University
+8:30 The Application of Non-Linear Models to
+Understanding Sociodemographic Distributions
+of Health Over Time
+David Rehkopf*, Stanford University
+8:45 Adjusting for Matching and Covariates in Linear
+Discriminant Analysis
+Josephine K. Asafu-Adjei*, Harvard School of Public
+Health; Allan R. Sampson and Robert A. Sweet,
+University of Pittsburgh
+9:00 Adjustment for Measurement Error in Evaluating
+Diagnostic Biomarkers by Using an Internal
+Reliability Sample
+n Matthew T. White* and Sharon X. Xie,
+University of Pennsylvania
+9:15 Integrating Multiple Modalities of High
+Throughput Assays Using Item Response Theory:
+An Application to Identify Genes Altered in
+Ovarian Cancer
+Pan Tong*, University of Texas Health Science
+Center at Houston and Kevin R. Coombes,
+University of Texas MD Anderson Cancer Center
+9:30 Estimating the Correlation Between Two
+Variables Subject to Limit of Detection
+Courtney E. McCracken, Emory University
+and Stephen W. Looney*, Georgia Health
+Sciences University
+9:45 Modeling Complex Structures in
+Neuropsychiatric Testing Data for Subjects
+with Pediatric Disorders
+Vivian H. Shih*, Laurie A. Brenner, Carrie E. Bearden,
+Catherine A. Sugar and Steve S. Lee, University of
+California at Los Angeles
+10:00 Floor Discussion
+SCIENTIFIC PROGRAM
+81 Program & Abstracts
+103. CONTRIBUTED PAPERS:
+Dynamic Treatment Regimens
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Douglas Gunzler, Case Western Reserve University
+8:30 Q-learning for Estimating Optimal Dynamic
+Treatment Rules from Observational Data
+Erica E. Moodie*, McGill University and
+Bibhas Chakraborty, Columbia University
+8:50 Weighted Log-rank Statistic to Compare
+Shared-Path Adaptive Treatment Strategies
+Kelley M. Kidwell* and Abdus S. Wahed,
+University of Pittsburgh
+9:10 A Comparison of Q- and A-Reinforcement
+Learning Methods for Estimating Optimal
+Treatment Regimes
+Phillip J. Schulte*, Marie Davidian and
+Anastasios A. Tsiatis, North Carolina State University
+9:30 Estimating Individualized Treatment Rules Using
+Outcome Weighted Learning
+n Yingqi Zhao* and Donglin Zeng, University of North
+Carolina at Chapel Hill; A. John Rush and Michael
+R. Kosorok, University of North Carolina at Chapel Hill
+9:50 Choice of Optimal Estimators in Structural
+Nested Mean Models With Application to
+Initiating HAART in HIV Positive Patients After
+Varying Duration of Infection
+Judith J. Lok*, Victor DeGruttola, Ray Griner and
+James M. Robins, Harvard School of Public Health
+10:10 Floor Discussion
+104. CONTRIBUTED PAPERS:
+Missing Data II
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Chair: R. Lakshmi Vishnuvajjala, U.S. Food and
+Drug Administration
+8:30 A Joint Longitudinal-Survival Model to Analyze
+Risk Factors for Death of Patients on the Liver
+Transplant Waiting List
+Arwin Thomasson*, Peter Reese, David Goldberg
+and Sarah Ratcliffe, University of Pennsylvania
+8:45 Missing Covariates and the Plausibility of the
+Missing at Random Assumption
+Jonathan W. Bartlett* and James R. Carpenter,
+London School of Hygiene & Tropical Medicine,
+UK; Kate Tilling, University of Bristol, UK; Michael
+G. Kenward, London School of Hygiene & Tropical
+Medicine, UK and Stijn Vansteelandt, Ghent
+University, Belgium
+9:00 Missing Value Imputation in Phenome Data
+Ge Liao* and George C. Tseng,
+University of Pittsburgh
+9:15 Weighted Semiparametric Estimation of
+the Cox Model for Interval-Censored Data
+with Missing Covariates
+Lu Wang* and Bin Nan, University of Michigan;
+Peng Zhang, Peking University and Andrew Zhou,
+University of Washington
+9:30 Goodness-of-Fit Test to Distribution-Free
+Models for Longitudinal Studies with
+Informative Missing Data
+Pan Wu* and Xin M. Tu, University of Rochester
+9:45 Joint Empirical Likelihood Confidence Regions
+for the Evaluation of Continuous-Scale Diagnostic
+Tests in the Presence of Verification Bias
+Binhuan Wang* and Gengsheng Qin,
+Georgia State University
+10:00 Floor Discussion
+105. CONTRIBUTED PAPERS:
+Multiple Testing
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: Elizabeth L. Ogburn, Harvard University
+8:30 Step-up-down Multiple Testing Procedures
+and Their Control of False Rejections
+Alexander Y. Gordon*, University of North Carolina
+at Charlotte
+8:45 An Improved Hochberg Procedure for Multiple
+Tests of Significance
+Dror M. Rom*, PSI Center for Statistical Research
+SCIENTIFIC PROGRAM
+n = Student Award Winner | * = Presenter
+82 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+9:00 Robust Identification of Conditional Gene
+Expression in Development of Onthophagus
+Beetles
+Guilherme V. Rocha*, Karen Kafadar and Armin
+Moczek, Indiana University; Emilie Snell-Rood,
+University of Minnesota; Teiya Kijimoto and Justen
+Andrews, Indiana University
+9:15 Estimating the Number of Genes that are
+Differentially Expressed in Both of Two
+Independent Experiments
+Megan C. Orr*, Peng Liu and Dan Nettleton, Iowa
+State University
+9:30 An Adaptive Resampling Test for Detecting the
+Presence of Significant Predictors
+Ian W. McKeague and Min Qian*, Columbia
+University
+9:45 Joint Modeling of Multiple Partially Observed
+Outcomes from Clinical Trials
+Nicholas J. Horton*, Smith College; Kypros Kypri,
+University of Newcastle, Australia; Frank B. Yoon,
+Mathematica Policy Research; Garrett M. Fitzmaurice
+and Stuart R. Lipsitz, Harvard Medical School and
+Sharon-Lise T. Normand, Harvard Medical School
+and Harvard School of Public Health
+10:00 A Tight Prediction Interval for False Discovery
+Proportion under Dependence
+Shulian Shang*, Mengling Liu and Yongzhao Shao,
+New York University
+106. CONTRIBUTED PAPERS:
+Power / Sample Size Calculations
+Bryce | 2nd Floor
+Sponsor: ENAR
+Chair: Gerry W. Gray, U.S. Food and Drug Administration
+8:30 Sample Size Estimation in Randomized
+Clinical Trials (RCTs) Designed to Establish
+the Interaction Between Prognostic Factor
+and Treatment: Impact of Prognostic Factor
+Distribution Misspecification
+William M. Reichmann*, Boston University School
+of Public Health and Brigham and Women’s Hospital;
+Michael P. LaValley and David R. Gagnon, Boston
+University School of Public Health and Elena Losina,
+Brigham and Women’s Hospital and Boston
+University School of Public Health
+8:45 Comparison of Four-Period and Two- Period
+Crossover Studies for Comparing Within-Subject
+Variances of Two Treatments
+Donald J. Schuirmann*, U.S. Food and Drug
+Administration
+9:00 Use of Longitudinal Registry Data for
+Optimal Design of Clinical Trials: An Example
+in Huntington’s Disease
+Elizabeth L. Turner* and Chris Frost, London School
+of Hygiene and Tropical Medicine
+9:15 Assessing Probability of Success for Clinical
+Trials with Correlated Binary Endpoints
+Michael Dallas*, Guanghan Liu, Ivan Chan and
+Joseph Heyse, Merck Research Laboratories
+9:30 Interim Design Resampling for Sample
+Size Re-estimation
+Sergey Tarima*, Peng He, Tao Wang and
+Aniko Szabo, Medical College of Wisconsin
+9:45 A General Approach for Estimating Stopping
+Probability of Large Confirmatory Group
+Sequential Clinical Trial in Life-Threatening
+Conditions Monitoring Binary Efficacy and
+Safety Outcomes
+Yanqiu Weng*, Wenle Zhao and Yuko Y. Palesch,
+Medical University of South Carolina
+10:00 GEE Method for Longitudinal Data Analysis
+in SMART Trials and the Associated Sample
+Size Formula
+Zhiguo Li*, Duke University
+SCIENTIFIC PROGRAM
+83 Program & Abstracts
+Wednesday, April 4 (continued)
+10:15 – 10:30 am Refreshment Break
+& Visit Our Exhibitors
+Regency Foyer
+Lobby Level
+10:30 – 12:15 pm
+107. Imaging, Omics, and High-
+Dimensionality
+Columbia B | Ballroom Level
+Sponsor: IMS
+Organizer: Bin Nan, University of Michigan
+Chair: Bin Nan, University of Michigan
+10:30 Multiple Comparison Procedures for
+iQTL analysis
+Debashis Ghosh* and Wen-Yu Hua, Penn
+State University and Thomas E. Nichols,
+University of Warwick
+10:55 Test for SNP-set Effects with Applications
+to Sequencing Association Studies
+Xihong Lin*, Harvard School of Public Health
+11:20 Analyzing Joint and Individual Variation
+in Multiple Data Sets
+Andrew B. Nobel*, Eric S. Lock and J. S. Marron,
+University of North Carolina at Chapel Hill
+11:45 What is in the News: Automatic and Sparse
+Summarization of Large Document Corpora
+Luke Miratrix*, University of California
+at Berkeley; Jinzhu Jia, Peking University;
+Brian Gawalt, Laurent El Ghaoui and Jas Sekhon,
+University of California at Berkeley
+12:10 Floor Discussion
+108. Statistical Methods for Modeling SEER
+Population-Based Cancer Data
+Congressional A | Lobby Level
+Sponsor: ASA Section on Statistics and the Environment
+Organizer: Kathy Cronin, National Cancer Institute, National
+Institutes of Health
+Chair: Kathy Cronin, National Cancer Institute, National
+Institutes of Health
+10:30 Introduction: An Overview of Population-based
+SEER Cancer Registry Data
+Hyunsoon Cho* and Nadia Howlader, National
+Cancer Institute, National Institutes of Health
+10:55 Using SEER Data to Develop Models of
+Absolute Cancer Risk
+Mitchell H. Gail*, National Cancer Institute,
+National Institutes of Health
+11:20 Detecting Multiple Change Points in Piecewise
+Constant Hazard Functions
+Yi Li*, University of Michigan and
+Melody Goodman, Washington University St. Louis
+11:45 Mammography, Modeling and Politics
+Jeanne Mandelblatt*, Lombardi Cancer Center
+at Georgetown University; Kathy Cronin, National
+Cancer Institute, National Institutes of Health;
+Don Berry, University of Texas MD Anderson Cancer
+Center; Harry DeKoning, Erasmus University
+Medical Center; Sandra Lee, Harvard University;
+Sylvia Plevritis, Stanford University; Clyde Schechter,
+Albert Einstein College of Medicine; Natasha Stout,
+Harvard Pilgrim Healthcare; Marvin Zelen, Harvard
+University and Eric Feuer, National Cancer Institute,
+National Institutes of Health
+12:10 Floor Discussion
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+84 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+109. Powerful Statistical Models and
+Methods in Next Generation Sequencing
+Columbia A | Ballroom Level
+Sponsor: ASA Biometrics Section
+Organizer: Lin Chen, University of Chicago
+Chair: Pei Wang, Fred Hutchinson Cancer Research Center
+10:30 Analytical Challenges in Association Studies
+with Whole-Genome Sequencing
+Dan L. Nicolae*, University of Chicago
+11:00 Association Analysis of Genome-wide
+Genetic Data
+Li Hsu*, Fred Hutchinson Cancer Research Center
+11:30 Exponential Combination Procedure for
+Set-Based Tests in Sequencing Studies
+Lin S. Chen*, University of Chicago; Li Hsu,
+Fred Hutchinson Cancer Research Center and
+Dan L. Nicolae, University of Chicago
+12:00 Floor Discussion
+110. Recent Advances in Clinical Trial Design:
+Utilities And Pitfalls
+Yellowstone | 2nd Floor
+Sponsor: ASA Biopharmaceutical Section
+Organizer: Yeh-Fong Chen, U.S. Food and Drug
+Administration
+Chair: Yeh-Fong Chen, U.S. Food and Drug Administration
+10:30 Complex Clinical Trial Designs: An Overview
+H.M. James Hung*, U.S. Food and Drug
+Administration
+10:55 A Doubly Enriched Clinical Trial Design Merging
+Placebo Lead-in and Randomized Withdrawal
+Roy N. Tamura*, Eli Lilly and Company and Anastasia
+Ivanova, University of North Carolina at Chapel Hill
+11:20 Utility and Pitfalls with Adaptive Selection
+Design
+Sue-Jane Wang*, U.S. Food and Drug Administration
+11:45 A Two Part Design for Evaluating Antiepileptic
+Drugs
+Eugene Laska*, New York University School
+of Medicine
+12:10 Floor Discussion
+111. Individualized Risk Prediction Using
+Joint Models of Longitudinal and
+Survival Data
+Columbia C | Ballroom Level
+Sponsor: ENAR
+Organizer: Hormuzd Katki, National Cancer Institute,
+National Institutes of Health
+Chair: Raji Sundaram, National Institute of Child Health and
+Development, National Institutes of Health
+10:30 A Joint Model of Cervical Cancer, PAP Smears,
+and HPV Tests for Use in Developing Cancer
+Screening Guidelines
+Hormuzd A. Katki*, National Cancer Institute,
+National Institutes of Health and Rajeshwari
+Sundaram, National Institute of Child Health and
+Human Development, National Institutes of Health
+10:55 Prediction of Multivariate Binary Data
+with Multi-Scale Informative Dropout—
+A Joint Modeling Approach
+Alexander C. McLain* and Rajeshwari Sundaram,
+Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, National Institutes
+of Health
+11:20 Different Parameterizations for Joint Models
+for Longitudinal and Survival Data, and How
+They Affect Individualized Predictions
+Dimitris Rizopoulos*, Erasmus University
+Medical Center
+11:45 Joint Latent Class Models of Longitudinal
+and Time-to-Event Data in the Context of
+Individual Dynamic Predictions
+Cécile Proust-Lima* and Mbéry Séne, INSERM,
+France; Jeremy MG Taylor, University of Michigan
+and Hélène Jacqmin-Gadda, INSERM, France
+12:10 Floor Discussion
+SCIENTIFIC PROGRAM
+85 Program & Abstracts
+112. Recent Advances in Dynamic Treatment
+Regimes Research
+Capitol A | Lobby Level
+Sponsor: ENAR
+Organizer: Bibhas Chakraborty, Columbia University
+Chair: Bibhas Chakraborty, Columbia University
+10:30 Practical Issues in the Design, Conduct,
+and Analysis of Randomized Oncology Trials
+Comparing Dynamic Treatment Regimes
+Peter Thall*, University of Texas MD Anderson
+Cancer Center
+10:55 A Policy Search Method for Estimating
+Treatment Policies
+Xi Lu* and Susan A. Murphy, University of Michigan
+11:20 Comparing Dynamic Treatment Regimes Via
+the G-Formula
+Miguel A. Hernan*, Harvard School of Public Health
+11:45 Realistic as Treated Dynamic Treatment Regimes
+Andrea Rotnitzky*, Universidad Di Tella and Harvard
+University and Sebastien Haneuse, Harvard School
+of Public Health
+12:00 Floor Discussion
+113. TOPIC CONTRIBUTED PAPERS:
+A Review of Established and New
+Methods of Multiple Imputation of
+Missing Data with the Emphasis on
+Available Software Packages
+Congressional B | Lobby Level
+Sponsor: ENAR
+Organizer: Victoria Liublinska, Harvard University
+Chair: Donald B. Rubin, Harvard University
+10:30 Flexible Imputation with MICE
+Stef van Buuren*, TNO
+10:50 Multiple Imputation by Ordered
+Monotone Blocks with Application to
+the Anthrax Vaccine Adsorbed Trial
+Fan Li*, Duke University; Michela Baccini and
+Fabrizia Mealli, University of Florence; Constantine
+Frangakis, Johns Hopkins University; Elizabeth Zell,
+Centers for Disease Control and Prevention and
+Donald B. Rubin, Harvard University
+11:10 New Multiple Imputation Methods in SOLAS,
+Including a Combination of Two Hot-Deck
+Methods with Appealing Properties
+Donald B. Rubin and Victoria Liublinska*,
+Harvard University
+11:30 Convergence Properties of Sequential
+Regression Multiple Imputation Approach
+Trivellore Raghunathan* and Jian Zhu,
+University of Michigan
+11:50 Making Multiple Imputation Accessible
+to Non-Statisticians
+Leland Wilkinson*, University of Illinois at Chicago
+12:10 Floor Discussion
+114. CONTRIBUTED PAPERS:
+Accelerated Failure Time Models
+Congressional C/D | Lobby Level
+Sponsor: ENAR
+Chair: Michael Fay, NIAID
+10:30 Accelerated Failure Time Model for
+Case-Cohort Design with Longitudinal
+Covariates Measured with Error
+Xinxin Dong*, University of Pittsburgh;
+Lan Kong, Penn State Hershey College of Medicine
+and Abdus S. Wahed, University of Pittsburgh
+10:45 Accelerated Failure Time Modeling of
+Genetic Pathway Data Using Kernel Machines
+for Risk Prediction
+Jennifer A. Sinnott* and Tianxi Cai,
+Harvard University
+11:00 A Semiparametric Accelerated Failure
+Time Partial Linear Model and Its Application
+to Breast Cancer
+Yubo Zou and Jiajia Zhang*, University of South
+Carolina and Guoyou Qin, Fudan University,
+Shanghai, PR China
+11:15 Parametric Inference on Accelerated Failure
+Time Model with Random Effects
+KyungAh Im* and Jong-Hyeon Jeong, University
+of Pittsburgh and Rhonghui Xu, University of
+California-San Diego
+n = Student Award Winner | * = Presenter
+SCIENTIFIC PROGRAM
+86 ENAR 2 012 S PRING ME E T ING A PRI L 1– 4
+11:30 Bayesian Semiparametric Accelerated Failure
+Time Model for Arbitrarily Censored Data Subject
+to Covariate Measurement Error
+Xiaoyan Lin* and Lianming Wang,
+University of South Carolina
+11:45 Subsample Ignorable Maximum Likelihood
+for Accelerated Failure Time Models with
+Missing Predictors
+Nanhua Zhang*, University of South Florida and
+Roderick J. Little, University of Michigan
+12:15 Floor Discussion
+115. CONTRIBUTED PAPERS:
+Environmental and Ecological
+Applications
+Lexington | Ballroom Level
+Sponsor: ENAR
+Chair: Eleanor Pullenayegum, McMaster University
+10:30 The Effect of Air Pollution Control on Life
+Expectancy in the United States: An Analysis of
+545 U.S. Counties for the Period 2000 to 2007
+Andrew W. Correia* and Francesca Dominici,
+Harvard University
+10:45 Modeling Space-Time Quantile Surfaces for
+Nonstationary Random Fields
+Dana Sylvan*, Hunter College of the City University
+of New York
+11:00 Fast Copula-Based Spatial Regression for
+Discrete Geostatistical Data
+John Hughes*, University of Minnesota
+11:15 Mortality Effects of Particulate Matter
+Constituents in a National Study of U.S.
+Urban Communities
+Jenna R. Krall*, Johns Hopkins Bloomberg School of
+Public Health; Francesca Dominici, Harvard School
+of Public Health; Michelle L. Bell, Yale University and
+Roger D. Peng, Johns Hopkins Bloomberg School of
+Public Health
+11:30 Estimating Covariance Parameters and
+Generalized Least Squares Estimators in Linear
+Models with Spatially Misaligned Data
+Kenneth K. Lopiano* and Linda J. Young,
+University of Florida and Carol A. Gotway, Centers
+for Disease Control
+11:45 Comparing Maps Across Time: Spatio-Temporal
+Moran’s I in STARMA Models
+Nathan M. Holt* and Linda J. Young, University of
+Florida and Carol A. Gotway, Centers for Disease
+Control and Prevention
+12:00 Modeling Low-rank Spatially Varying
+Cross-covariances using Predictive Process
+with Application to Soil Nutrient Data
+n Rajarshi Guhaniyogi*, University of Minnesota;
+Andrew O. Finley and Rich Kobe, Michigan State
+University and Sudipto Banerjee, University
+of Minnesota
+116. CONTRIBUTED PAPERS:
+Next Generation Sequencing
+Concord | Ballroom Level
+Sponsor: ENAR
+Chair: Simone Gray, U.S. Environmental Protection Agency
+10:30 Statistical Modeling of Closely Located Protein
+Binding Sites using Paired-End Tag (PET)
+ChIP-Seq Data, with Application to the Study of
+sigma70 Factor in Escherichia coli
+Dongjun Chung*, Jeff Grass, Kevin Myers, Patricia
+Kiley, Robert Landick and Sunduz Keles, University
+of Wisconsin, Madison
+10:50 A Generalized Linear Model for Peak Calling
+in ChIP-Seq Data
+Jialin Xu* and Yu Zhang, The Pennsylvania
+State University
+11:10 A Dynamic Signal Profile Algorithm
+Combined with a Bayesian Hidden Ising
+Model for ChIP-seq Data Analysis
+Qianxing Mo*, Baylor College of Medicine
+11:30 Determining Probability of Rare Variants:
+Design Implications for Family-based
+Sequencing Studies
+Wenyi Wang* and Gang Peng, University of Texas
+MD Anderson Cancer Center
+SCIENTIFIC PROGRAM
+87 Program & Abstracts
+11:50 A Powerful Test for Multiple Rare Variants
+Association Studies that Incorporate Sequencing
+Qualities
+Z. John Daye*, Hongzhe Li, University of
+Pennsylvania School of Medicine and Zhi Wei,
+New Jersey Institute of Technology
+12:10 Floor Discussion
+117. CONTRIBUTED PAPERS:
+Nonparametric Methods
+Yosemite | 2nd Floor
+Sponsor: ENAR
+Chair: Ruosha Li, University of Pittsburgh
+10:30 Bounded Influence Nonlinear Signed-Rank
+Regression
+Huybrechts Frazier Bindele*, Auburn University
+10:45 Asymptotic Optimality and Efficient Computation
+of the Leave-subject-out Cross-Validation
+n Ganggang Xu* and Jianhua Huang,
+Texas A&M University, College Station
+11:00 Unconditional Tests to Measure Agreement
+for Categorial Data in Applications to a Brain
+Trauma Study
+Guogen Shan*, Brain Trauma Foundation;
+Gregory Wilding and Changxing Ma, University at
+Buffalo; Alison Schonberger and Jamshid Ghajar,
+Brain Trauma Foundation
+11:15 General Pivotal Goodness of Fit Test Based on
+Kernel Density Estimation
+Hani M. Samawi* and Robert Vogel,
+Georgia Southern University
+11:30 Berry-Esseen-Type Bounds for General Nonlinear
+Statistics, with Applications to Pearson’s and
+Non-Central Student’s and Hotelling’s
+Iosif Pinelis*, Michigan Technological University
+11:45 Bayesian Quantile Regression using Mixture
+of Polya Trees
+Minzhao Liu* and Michael Daniels,
+University of Florida
+12:00 Confidence Intervals Under Order Restriction
+Yong Seok Park*, John D. Kalbfleisch and
+Jeremy MG Taylor, University of Michigan
+118. CONTRIBUTED PAPERS:
+Semi-Parametric and Non-Parametric
+Models
+Bryce | 2nd Floor
+Sponsor: ENAR
+Chair: Jing Zhang, University of Minnesota
+10:30 Locally Efficient Estimation of Marginal
+Treatment Effects Using Auxiliary Covariates in
+Randomized Trials with Correlated Outcomes
+Alisa J. Stephens*, Eric Tchetgen Tchetgen and
+Victor De Gruttola, Harvard University
+10:45 Kernel Machine Quantile Regression of
+Multi-Dimensional Genetic Data
+Dehan Kong*, Arnab Maity and Jung-Ying Tzeng,
+North Carolina State University
+11:00 An Improved Method for Choosing the
+Smoothing Parameter in a Semi-Parametric
+Change-point Model
+Sung Won Han*, Theresa Busch and Mary Putt,
+University of Pennsylvania
+11:15 Semiparametric Bayesian Joint Modeling
+of a Binary and Continuous Outcome
+Beom Seuk Hwang* and Michael L. Pennell,
+The Ohio State University
+11:30 Semiparametric Single Index Interaction Model
+in 1-m Matched Case-Crossover Studies
+Chongrui Yu* and Inyoung Kim, Virginia Polytechnic
+Institute and State University
+11:45 Generalized Method of Weighted
+Moments: A Robust Estimator of Polytomous
+Logistic Model
+Xiaoshan Wang* and Pranab K. Sen, University
+of North Carolina at Chapel Hill
+12:00 Floor Discussion

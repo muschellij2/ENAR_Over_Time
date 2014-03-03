@@ -1,0 +1,3277 @@
+Monday, March 17
+8:30 a.m. - 10:15 a.m.
+12. STATISTICAL MONITORING OF CLINICAL TRIALS:
+WHERE THE RUBBER MEETS THE ROAD (Regency A)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Biopharmaceutical Section
+Organizer: Craig B. Borkowf, Centers for Disease Control
+and Prevention
+Chair: Laura Lee Johnson, National Center for
+Complementary and Alternative Medicine
+8:30 Disobeying Rules: Unplanned Early Stopping of a
+Non-inferiority Trial
+Janet T. Wittes*, Statistics Collaborative
+8:55 A Constrained Boundaries Approach for Flexibly
+Monitoring Time to Event Outcomes
+Sean Brummel and Daniel L. Gillen*, University of
+California-Irvine
+9:20 Spending Functions and the Updating of
+Information Fractions
+Michael A. Proschan*, National Institute of Allergy
+and Infectious Diseases
+9:45 A Conditional Power Approach to the Evaluation
+of Predictive Power
+Kuang-Kuo G. Lan* and Peter Hu, Johnson &
+Johnson, Michael A. Proschan, National Institute of
+Allergy and Infectious Diseases, National Institutes
+of Health
+10:10 Floor Discussion
+13. STATISTICAL ISSUES IN GENOMIC STUDIES IN
+POPULATION SCIENCES (Regency B)
+Sponsor: IMS and ASA Biometrics Section
+Organizer: Xihong Lin, Harvard University
+Chair: Xihong Lin, Harvard University
+8:30 Gene-Environment Interaction Studies
+Raymond J. Carroll*, Texas A&M University,
+Nilanjan Chatterjee, National Cancer Institute, Yi-
+Hau Chen, Academia Sinica, Bhramar
+Mukherjee, University of Michigan
+9:00 Powerful Multilocus Association Testing of
+Complex Traits
+Michael P. Epstein*, Emory University
+9:30 Incorporating Prior Biological Knowledge in
+Genome-Wide Association Studies
+Hongyu Zhao*, Yale University
+10:00 Floor Discussion
+14. HIERARCHICAL MODELING IN ENVIRONMENTAL
+EXPOSURE AND TOXICOLOGICAL RISK ASSESSMENT
+(Regency C)
+Sponsors: ASA Section on Statistics and the Environment,
+ASA Section on Risk Analysis and ASA Section on
+Statistics in Epidemiology
+Organizer: Michael Pennell, University of Rhode Island
+Chair: Michael Pennell, University of Rhode Island
+8:30 Bayesian Hierarchical Regression for Model
+Selection and Clustering
+Amy H. Herring*, The University of North Carolina
+at Chapel Hill, David B. Dunson, National Institute
+of Environmental Health Sciences, Stephanie M.
+Engel, Mount Sinai School of Medicine
+9:00 Regional Spatial Modeling of Arsenic in
+Environmental Media: Implications for Human
+Exposure Assessment
+Catherine A. Calder* and Peter F. Craigmile, The
+Ohio State University, Hongfei Li, IBM Corporation,
+Rajib Paul, The Ohio State University, Jian Zhang,
+Freddie Mac
+
+
+Sunday, March 16 continued
+ARLINGTON, VIRGINIA 27
+28 ENAR 2008 Spring Meeting
+Scientific Program
+9:30 Using Hierarchical PK/PD Models for Probabilistic
+Dose-Response Assessment
+Ralph L. Kodell*, University of Arkansas for
+Medical Sciences
+10:00 Floor Discussion
+15. MODEL VALIDATION AND MODEL SELECTION IN
+LONGITUDINAL DATA ANALYSIS (Regency D)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Peter X.K. Song, University of Waterloo
+Chair: Annie Qu, Oregon State University
+8:30 Quadratic Inference Functions in Marginal Models
+for Longitudinal Data
+Peter X K Song*, University of Waterloo
+8:55 Reducing the Bias of Between- / Within- cluster
+Covariate Methods when Data are Missing at
+Random
+John M. Neuhaus*, University of California-San
+Francisco, Charles E. McCulloch, University of
+Chicago
+9:20 Regularization Parameter Selection for Penalized
+Likelihood Variable Selection Procedures
+Runze Li*, Penn State University
+9:45 A BIC Criterion for Longitudinal Data Model
+Selection
+Lan Wang*, University of Minnesota, Annie Qu,
+Oregon State University
+10:10 Floor Discussion
+16. NEW STATISTICAL METHODS IN DIAGNOSTIC
+MEDICINE (Washington A)
+Sponsors: ASA Health Policy Statistics Section and ENAR
+Organizer: Yueh-Yun Chi, University of Florida
+Chair: Yueh-Yun Chi, University of Florida
+8:30 Bootstrap and Empirical Likelihood-based
+Nonparametric Inference For the Difference
+between Two Partial AUCs
+Gengsheng Qin* and Yan Yuan, Georgia State
+University, Xiao-Hua Zhou, University of
+Washington
+9:00 Estimating Diagnostic Accuracy from Designs
+with no Gold Standard, Partial Gold Standard, or
+Imperfect Gold Standard Evaluation
+Paul S. Albert*, National Cancer Institute
+9:30 Semiparametric Least Squares ROC Analysis of
+Correlated Biomarker Data
+Liansheng Tang*, George Mason University,
+Xiao-Hua Zhou, University of Washington
+10:00 Discussant: Constantine Gatsonis, Brown
+University
+17. REGULARIZATION AND HIERARCHICAL MODELING:
+TWO PHILOSOPHIES FOR VARIABLE SELECTION
+(Washington B)
+Sponsors: ENAR, ASA Section on Statistics and the
+Environment and ASA Biometrics Section
+Organizer: Samiran Ghosh, Indiana University, Purdue
+University-Indianapolis
+Chair: Dipankar Bandyopadhyay, Medical University of
+South Carolina
+8:30 Model Selection and Diagnostics for Genetic
+Markers
+Dipak K. Dey*, University of Connecticut, Feng
+Guo, Virginia Tech University, Kent E. Holsinger,
+University of Connecticut
+9:00 Detecting Differentially Expressed Genes via
+Multilevel Nonlinear Mixture Dirichlet Models for
+High-Dimensional EST Data
+Fang Yu, University of Nebraska Medical Center,
+Ming-Hui Chen* and Lynn Kuo, University of
+Connecticut, Peng Huang, Medical University of
+South Carolina, Wanling Yang, The University of
+Hong Kong
+9:30 Variable Selection via Adaptive Elastic Net and its
+Consistency Property
+Samiran Ghosh*, Indiana University, Purdue
+University-Indianapolis
+10:00 Floor Discussion
+18. CONTRIBUTED PAPERS:METHODS FOR VARIABLE
+SELECTION AND MODEL BUILDING (Potomac 1)
+Sponsor: ENAR
+Chair: Jane F. Pendergast, University of Iowa
+8:30 Bayesian Variable Selection Under Heredity
+Woncheol Jang*, University of Georgia, Johan
+Lim, Yonsei University
+8:45 A Cp Statistic for Fixed Effects Variable Selection
+in the Linear Mixed Model for Longitudinal Data
+Anita A. Abraham* and Lloyd J. Edwards,
+University of North Carolina at Chapel Hill
+9:00 A Bayesian Approach to Effect Estimation
+Accounting for Adjustment Uncertainty
+Chi Wang*, Giovanni Parmigiani, Ciprian Crainiceanu and
+Francesca Dominici, Johns Hopkins University
+9:15 Nonparametric Bayes Conditional Distribution
+Modeling with Variable Selection
+Yeonseung Chung*, University of North
+Carolina, David B. Dunson, National Institute of
+Environmental Health Sciences
+9:30 The Adaptive Dantzig Selector for Variable
+Selection
+Lee Dicker* and Xihong Lin, Harvard University
+9:45 Bivariate Dimension Reduction and Variable
+Selection When n<<p
+Lexin Li, North Carolina State University, Xuerong
+Wen*, University of Missouri-Rolla
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+10:00 A Link-Free Method for Testing the Significance of
+Predictors
+Peng Zeng*, Auburn University
+19. CONTRIBUTED PAPERS: RESEARCH METHODS
+(Potomac 2)
+Sponsors: ENAR and ASA Section on Statistics in
+Epidemiology
+Chair: Sung-joon Min, University of Colorado Health
+Sciences Center
+8:30 Outcome-dependent Sampling in the Survival
+Analysis Setting
+Denise Esserman*, University of North Carolina
+at Chapel Hill, Yanyan Liu, Wuhan University of
+Peoples Republic of China, Haibo Zhou, University
+of North Carolina at Chapel Hill
+8:45 Marginal Hazards Model for Case-Cohort Studies
+with Multiple Disease Outcomes
+Sangwook Kang*, University of Georgia, Jianwen
+Cai, University of North Carolina at Chapel Hill
+9:00 Estimating Family Relationships using DNA
+Fingerprints within the NHANES-III Household
+Survey
+Hormuzd A. Katki*, National Cancer Institute,
+Christopher Sanders, National Center for Health
+Statistics, Barry I. Graubard, National Cancer
+Institute, Andrew Bergen, SRI International
+9:15 Flexible Modelling of Age-Dependent Infectious
+Disease Parameters Using Seroprevalence Data in
+Combination With Social Contact Data
+Marc Aerts*, Niel Hens, Nele Goeyvaerts, Kaatje
+Bollaerts, Ziv Shkedy and Christel Faes, Hasselt
+University-Belgium, Benson Ogunjimi, Olivier
+Lejeune, Pierre Van Damme and Philippe Beutels,
+University of Antwerp-Belgium
+9:30 Benchmark Analysis for Two Predictor Variables
+Roland C. Deutsch*, University of North Carolina-
+Greensboro, John M. Grego and Brian T. Habing,
+University of South Carolina, Walter W. Piegorsch,
+University of Arizona
+9:45 Quantifying Treatment Effect when Flexibly
+Modeling Individual Change in a Nonlinear Mixed
+Effects Model
+Robert J. Gallop*, West Chester University
+10:00 Covariate-adjusted Putative Placebo Analysis in
+Active-controlled Clinical Trials
+Zhiwei Zhang*, U.S. Food and Drug Administration
+20. CONTRIBUTED PAPERS: GENOMICS AND
+MICROARRAY ANALYSES (Potomac 3)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Yu Shyr, Vanderbilt University
+8:30 Inferring the True Correlation in Cross-species
+Microarray Data
+Sunghee Oh and George C. Tseng*, University of
+Pittsburgh
+8:45 A Linear Mixed Effects Clustering Model for
+Multi-species Time Course Gene Expression Data
+Kevin H. Eng*, Sunduz Keles and Grace Wahba,
+University of Wisconsin - Madison
+9:00 Reconstruction of Genetic Association Networks
+from Microarray Data: A Partial Least Squares
+Approach
+Vasyl Pihur*, Somnath Datta and Susmita Datta,
+University of Louisville
+9:15 Modeling Spatial Correlation in Gene Regulation
+Guanghua Xiao*, University of Texas,
+Southwestern Medical Center, Cavan Reilly and
+Arkady B. Khodursky, University of Minnesota
+9:30 A Visualization of Normality Transformations
+Glen Satten, Centers for Disease Control and
+Prevention, Somnath Datta, Bart Brown and Guy
+Brock*, University of Louisville
+9:45 Statistical Test for the ChIP-chip Tiling Arrays
+Without Replication
+Youngchul Kim* and Taesung Park, Seoul National
+University, Seungyeoun Lee, Sejong University,
+Jae K. Lee, University of Virginia
+10:00 A Meta-Analysis Approach for Gene Association
+Network Reconstruction
+YounJeong Choi* and Christina M. Kendziorski,
+University of Wisconsin-Madison
+21. CONTRIBUTED PAPERS:EPIDEMIOLOGIC METHODS
+(Potomac 4)
+Sponsors: ASA Section on Statistics in Epidemiology, ASA
+Section on Risk Analysis and ASA Section on Statistics and
+the Environment
+Chair: Jesse A. Berlin, Johnson & Johnson Pharmaceutical
+Research and Development
+8:30 Estimating Disease Prevalence Indirectly Using
+Incidence and Survival Data
+Kent R. Bailey*, Mayo Clinic
+8:45 Inference for Multinomial Parameters and Odds
+Ratio Under Order Restrictions
+Broderick O. Oluyede*, Georgia Southern
+University, Mavis Pararai, Indiana University of
+Pennsylvania
+9:00 Estimation of Incidence and Remission Rates
+From Cross-Sectional Survey Data
+Jason Roy* and Walter Stewart, Geisinger Center
+for Health Research
+9:15 Bayesian Inference for Non-Isotropic Changes in
+Risk about a Fixed Point
+Ronald E. Gangnon*, University of Wisconsin,
+Jane A. McElroy, University of Missouri
+9:30 Using Matching Estimators to Explore the
+Potential Influence of Unmeasured Smoothly
+Time-Varying Confounders
+Yun Lu* and Scott L. Zeger, Johns Hopkins
+University
+ARLINGTON, VIRGINIA 29
+30 ENAR 2008 Spring Meeting
+Scientific Program
+9:45 Identifying Effect Modifiers in Air Pollution Timeseries
+Studies using a Two-stage Analysis
+Sandrah P. Eckel* and Thomas A. Louis, Johns
+Hopkins Bloomberg School of Public Health
+10:00 An Algorithm for Optimal Tapered Matching, With
+Application to Disparities in Survival
+Shoshana R. Daniel*, Katrina Armstrong, Jeffrey
+H. Silber and Paul R. Rosenbaum, Univeristy of
+Pennsylvania
+22. CONTRIBUTED PAPERS:BAYESIAN METHODS
+(Potomac 5)
+Sponsors: ENAR, ASA Section on Statistics and the
+Environment, and ASA Biometrics Section
+Chair: Timothy D. Johnson, University of Michigan
+8:30 Hierarchical Bayes Estimation For Bivariate
+Binary Data with Applications to Small Area
+Estimation
+Malay Ghosh, University of Florida, Ananya Roy*,
+University of Nebraska-Lincoln, Ming-Hui Chen,
+University of Connecticut, Myron Katzoff and Van
+L. Parsons, National Center for Heath Statistics
+8:45 Bayesian Assessment of Hierarchical Models
+Ying Yuan* and Valen Johnson, University of Texas
+MD Anderson Cancer Center
+9:00 Joint Effect from Environmental and Behavior
+Risk Factors to Cancer Death Rates using
+Bayesian Multi-level Modeling
+Hongmei Zhang*, University of South Carolina
+9:15 Bayesian Generalized Product Partition Model
+Ju-Hyun Park*, University of North Carolina at
+Chapel Hill, David B. Dunson, National Institute of
+Environmental Health Sciences
+9:30 Bayesian Mixture Labelling by Highest Posterior
+Density
+Weixin Yao*, Kansas State University, Bruce G.
+Lindsay, The Pennsylvania State University
+9:45 A Practical Procedure to Find Matching Priors for
+Frequentist Inference
+Juan Zhang* and John E. Kolassa, Rutgers
+University
+10:00 How to Choose Hyperparameter Values in Normal
+Models
+Susan Alber* and J. Jack Lee, University of Texas,
+MD Anderson Cancer Center
+23. CONTRIBUTED PAPERS:LATENT VARIABLES AND
+STRUCTURAL EQUATIONS MODELING (Potomac 6)
+Sponsor: ENAR
+Chair: Knashawn Morales, University of Pennsylvania
+8:30 Exploratory Structural Equation Modeling
+Bengt Muthen*, University of California Los
+Angeles, Tihomir Asparouhov, Mplus
+8:45 Incorporating Structural Equation Modeling to
+Fecundability models
+Sung Duk Kim* and Rajeshwari Sundaram,
+National Institute of Child Health and Human
+Development
+9:00 Structural Equation Models with Functional
+Latent Variables
+Mingan Yang*, David B. Dunson and Pablo
+Nepomnaschy, National Institute of Environmental
+Health Sciences-NIH
+9:15 Multilevel Latent Class Models with Dirichlet
+Mixing Distribution
+Chongzhi Di* and Karen Bandeen-Roche, Johns
+Hopkins University
+9:30 Hierarchical Mixed Membership Models for
+Honey Bee Genomes
+Tanzy M. Love*, Carnegie Mellon University
+9:45 Confounding Effects in Genetic Analysis
+Mariza de Andrade*, Brooke L. Fridley and
+Stephen T. Turner, Mayo Clinic
+10:00 A Genomic Imprinting Test for Ordinal Traits in
+Pedigree Data
+Rui Feng*, University of Alabama at Birmingham,
+Heping Zhang, Yale University
+Monday, March 17
+10:15 a.m.-10:30 a.m. Refreshment Break and Visit the
+Exhibitors
+10:30 a.m.-12:15 p.m.
+24. NON-INFERIORITY CLINICAL TRIALS - FIXED MARGIN
+OR NO FIXED MARGIN (Regency A)
+Sponsors: ASA Biopharmaceutical Section and ASA
+Section on Statistics in Epidemiology
+Organizer: Sue-Jane Wang, U.S. Food and Drug
+Administration
+Chair: H.M. James Hung, U.S. Food and Drug
+Administration
+10:30 Controlling the Type 1 Error Rate in the Presence
+of Departures From the Assumptions of Assay
+Sensitivity and Constancy
+Steven Snapinn* and Qi Jiang, Amgen
+11:00 Assessing the Evidence for Non-Inferiority: A
+Likelihood Approach
+Sue-Jane Wang, U.S. Food and Drug
+Administration, Jeffrey Blume*, Brown University
+11:30 Empirical Data on the Choice of Irrelevance
+Margins Results from a Systematic Review
+Stefan Lange* and Guido Skipka, Institute for
+Quality and Efficiency in Health Care-Germany
+12:00 Discussant:
+Robert O’Neill, U.S. Food and Drug Administration
+25. MODEL SELECTION FOR HIGH DIMENSIONAL DATA
+WITH PRACTICAL SOLUTIONS (Regency B)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Annie Qu, Oregon State University
+Chair: Annie Qu, Oregon State University
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+10:30 Spline Estimation of Single Index Models
+Lijian Yang*, Michigan State University, Li Wang,
+University of Georgia
+10:55 Parsimonious Models for Correlation Matrices
+using Ordered Partial Correlations
+Michael J. Daniels*, University of Florida, Mohsen
+Pourahmadi, Northern Illinois University
+11:20 Semiparametric Modeling of Clustered
+Biomedical Data
+Naisyin Wang*, Texas A&M University, Annie Qu,
+Oregan State University
+11:45 Generalization Error Estimation in
+Semisupervised Learning
+Junhui Wang*, Columbia University, Xiaotong
+Shen, University of Minnesota
+12:10 Floor Discussion
+26. SPATIAL AND SPATIO-TEMPORAL LATENT
+STRUCTURE MODELING (Regency C)
+Sponsors: ENAR and ASA Section on Statistics and the
+Environment
+Organizer: Andrew Lawson, University of South Carolina
+Chair: Linda Young, University of Florida
+10:30 A Spatial Latent Class Model for Multivariate
+Spatial Data
+Melanie M. Wall*, University of Minnesota
+11:00 Spatial Dynamic Factor Analysis
+Hedibert F. Lopes, University of Chicago, Esther
+Salazar and Dani Gamerman*, Universidade
+Federal do Rio de Janeiro
+11:30 Mixture- and GAM-based Models for Space-time
+Latent Structure in Health Data
+Bo Cai, Andrew B. Lawson* and Kun Huang,
+University of South Carolina
+12:00 Floor Discussion
+27. NEW ADVANCES IN SURVIVAL ANALYSIS FOR
+LARGE DIMENSIONAL BIOMEDICAL DATA (Regency D)
+Sponsors: IMS and ASA Biometrics Section
+Organizer: Yi Li, Dana-Farber Cancer Institute
+Chair: Yi Li, Dana-Farber Cancer Institute
+10:30 Inverse Regression for Censored Data
+Nivedita Nadkarni and Michael R. Kosorok*,
+University of North Carolina-Chapel Hill
+10:55 Analyzing Event Time Data in the Presence of
+High-dimensional Confounders
+Donglin Zeng* and Danyu Lin, University of North
+Carolina
+11:20 Survival Analysis of Case-Control Family Data
+with General Semi-Parametric Shared Frailty
+Model and Missing Genetic Information
+Anna Graber* and Malka Gorfine, Technion - Israel
+Institute of Technology, Li Hsu, Fred Hutchinson
+Cancer Research Center
+11:45 Survival Analysis With Large Dimensional
+Covariates: An Application In Microarray Studies
+David Engler*, Brigham Young University, Yi Li,
+Dana-Farber Cancer Institute
+12:10 Floor Discussion
+28. ON THE UTILITY OF DETERMINISTIC MODELS FOR
+CAUSAL EFFECTS (Washington A)
+Sponsor: ENAR
+Organizer: Marshall Joffe, University of Pennsylvania
+School of Medicine
+Chair: Marshall Joffe, University of Pennsylvania School of
+Medicine
+10:30 Causal Inference for Continuous Time Processes
+Observed Only at Discrete Times
+Mingyuan Zhang*, Marshall M. Joffe and Dylan
+Small, University of Pennsylvania
+10:55 Comparison of Deterministic versus Stochastic
+Monotonicity Assumptions for Instrumental
+Variables Method
+Dylan S. Small*, University of Pennsylvania
+11:20 Mimicking Counterfactual Outcomes to Avoid
+Deterministic Treatment Effects
+Judith J. Lok*, Harvard School of Public Health
+11:45 Causal Models for the Effects of Weight Gain on
+Mortality
+James M. Robins*, Harvard University
+12:10 Floor Discussion
+29. ESTIMATING THE DISTRIBUTION OF USUAL INTAKES
+OF NUTRIENTS AND FOODS, AND RELATING USUAL
+INTAKE TO HEALTH PARAMETERS IN A NATIONAL
+HEALTH SURVEY (Washington B)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Survey Research Methods Section
+Organizer: Janet A. Tooze, Wake Forest University School
+of Medicine
+Chair: Phillip S. Kott, U.S. Department of Agriculture,
+National Agricultural Statistical Service
+10:30 Challenges in the Estimation of Usual Intake of
+Foods and Nutrients
+Patricia M. Guenther*, U.S. Department of
+Agriculture, Dennis W. Buckman, Information
+Management Services, Inc., Raymond J. Carroll,
+Texas A&M University, Kevin W. Dodd, National
+Cancer Institute, Laurence S. Freedman, Gertner
+Institute for Epidemiology and Health Policy
+Research, Victor Kipnis, Susan M. Krebs-Smith,
+Douglas Midthune and Amy F. Subar, National
+Cancer Institute, Janet A. Tooze, Wake Forest
+University School of Medicine
+ARLINGTON, VIRGINIA 31
+32 ENAR 2008 Spring Meeting
+Scientific Program
+10:45 A Two-part Mixed Effects Model with Correlated
+Random Effects to Model Food and Nutrient
+Intake
+Janet A. Tooze*, Wake Forest University School
+of Medicine, Doug Midthune and Kevin W. Dodd,
+National Cancer Institute, Laurence S. Freedman,
+Gertner Institute for Epidemiology and Health
+Policy Research, Susan M. Krebs-Smith and
+Amy F. Subar, National Cancer Institute, Patricia
+M. Guenther, U.S. Department of Agriculture,
+Raymond J. Carroll, Texas A&M University, Victor
+Kipnis, National Cancer Institute
+11:00 Estimation of Usual Food and Nutrient Intake
+Distributions in the National Health and Nutrition
+Examination Survey (NHANES)
+Kevin W. Dodd*, National Cancer Institute, Dennis
+W. Buckman, Information Management Services,
+Inc., Raymond J. Carroll, Texas A&M University,
+Laurence S. Freedman, Gertner Institute for
+Epidemiology and Health Policy Research, Patricia
+M. Guenther, U.S. Department of Agriculture,
+Victor Kipnis, Susan M. Krebs-Smith, Douglas
+Midthune and Amy F. Subar, National Cancer
+Institute, Janet A. Tooze, Wake Forest University
+School of Medicine
+11:30 Modeling the Relationship Between Usual Food
+Intake and Health Parameters in the National
+Health and Nutrition Examination Survey
+(NHANES)
+Laurence S. Freedman*, Gertner Institute for
+Epidemiology and Health Policy Research, Douglas
+Midthune, National Cancer Institute, Dennis W.
+Buckman, Information Management Services,
+Inc., Kevin W. Dodd, National Cancer Institute,
+Raymond J. Carroll, Texas A&M University, Janet
+A. Tooze, Wake Forest University School of
+Medicine, Patricia M. Guenther U.S. Department
+of Agriculture, Susan M. Krebs-Smith, Amy F.
+Subar and Victor Kipnis, National Cancer Institute
+12:00 Discussant: Lester (Randi) Curtin, National Center
+for Health Statistics, Centers for Disease Control
+and Prevention
+30. CONTRIBUTED PAPERS:MULTIPLE TESTING
+(Potomac 1)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Jimin Choi, H. Lee Moffitt Cancer Center & Research
+Institute
+10:30 General Gatekeeping Procedures with Logical
+Restrictions
+Alex Dmitrienko, Eli Lilly & Company, Lingyun Liu
+and Ajit C. Tamhane*, Northwestern University
+10:45 A Unified Approach for Constructing a Closed
+Multiple Testing Procedure for a Fixed Sequence
+of Families with Multiple Null Hypotheses
+Hanjoo Kim*, University of Pennsylvania School
+of Medicine, Richard A. Entsuah, Wyeth Research,
+Justine Shults, University of Pennsylvania School
+of Medicine
+11:00 Extension of Piegorsch and Casella Simultaneous
+Intervals to Generalized Linear Models and
+Functions of Their Parameters
+Amy E. Wagler* and Melinda McCann, Oklahoma
+State University
+11:15 A Bayesian Approach to Large Scale
+Simultaneous Inference
+Bing Han*, RAND Corporation, Steven F. Arnold
+and Naomi Altman, Penn State Univeristy
+11:30 Considering P-Value Dependence in a Stepwise
+Multiplicity Adjustment Method
+Richard E. Blakesley*, Sati Mazumdar and Patricia
+R. Houck, University of Pittsburgh
+11:45 On Consonance of Closed Testing in Combination
+Drug Efficacy Trials
+Julia Soulakova*, University of Nebraska
+12:00 Fast FSR and Inference in Regression
+Dennis D. Boos* and Leonard A. Stefanski, North
+Carolina State University
+31. CONTRIBUTED PAPERS:BIOMARKERS (Potomac 2)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Tomasz Burzykowski, University of Hasselt, Belgium
+10:30 Identifying High-dimensional Biomarkers for
+Personalized Medicine via Variable Importance
+Ranking
+Hojin Moon*, California State University-Long
+Beach, Songjoon Baek, U.S. Food and Drug
+Administration, Hongshik Ahn, Stony Brook
+University, Ralph L. Kodell, University of Arkansas
+for Medical Sciences, Chien-Ju Lin and James J.
+Chen, U.S. Food and Drug Administration
+10:45 Convex Hull Ensemble Method for Class
+Prediction with Application to Personalized
+Medicine
+Songjoon Baek*, U.S. Food and Drug
+Administration, Ralph L. Kodell, University of
+Arkansas for Medical Sciences, Hojin Moon,
+California State University, James J. Chen, U.S.
+Food and Drug Administration
+11:00 Dynamic Optimal Strategy for Monitoring
+Disease Recurrence
+Hong Li*, Brown University
+11:15 Identifying Genes That Respond to Abiotic Stress
+Haiyan Wang*, Kansas State University
+11:30 Enhanced Endpoint Analysis Using Auxiliary
+Information in Clinical Trials
+Linda Sun* and Cong Chen, Merck & Company
+11:45 A Study of Logic Regression with Application to
+Bladder Cancer
+Bethany J. Wolf*, Omar Moussa, James Klein
+Dennis K. Watson and Elizabeth H. Slate, Medical
+University of South Carolina
+12:00 Use of a Pseudo Maximum Likelihood Estimator
+to Simplify Computations for a Multivariate Left-
+Censored Longitudinal Model
+Ghideon S. Ghebregiorgis* and Lisa Weissfeld,
+University of Pittsburgh
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+32. CONTRIBUTED PAPERS:JOINT MODELS- SURVIVAL
+AND LONGITUDINAL (Potomac 3)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Chair: Kaushik Ghosh, University of Nevada- Las Vegas
+10:30 Joint Model of Longitudinal Process and Statechange
+Process
+Caitlin Ravichandran*, McLean Hospital and
+Harvard University, Victor DeGruttola,
+Harvard University
+10:45 Joint Modeling of Longitudinal Outcomes and
+Event Time Data in a Rheumatoid Arthritis Study
+Li Zhu*, University of California-Davis, Juan Li and
+Eric Chi, Amgen Inc.
+11:00 Fully Exponential Laplace Approximations for the
+Joint Modeling of Survival and Longitudinal Data
+Dimitris Rizopoulos*, Geert Verbeke and
+Emmanuel Lesaffre, Catholic University,
+Leuven-Belgium
+11:15 Joint Analysis of Generalized Longitudinal
+Measurements and Survival Data with Multiple
+Failure Types
+Ning Li*, Robert Elashoff and Gang Li, University
+of California Los Angeles
+11:30 Prediction of Event Risk Using Joint Models for
+Longitudinal Measurements and Event Times
+Nicholas J. Salkowski* and Melanie M. Wall,
+University of Minnesota
+11:45 Simultaneous Modeling of Longitudinal Data and
+Dropout Process in Clinical Studies
+Qinfang Xiang*, Endo Pharmaceuticals
+12:00 Bayeisan Joint Analysis of Longitudinal
+Measurements and Competing Risks Failure Time
+Data via Modeling of Multivariate Random Effects
+Covariances
+Xin Huang*, Gang Li and Robert M. Elashoff,
+Univeristy of California, Los Angeles, Jianxin Pan,
+University of Manchester-UK
+33. CONTRIBUTED PAPERS:DATA MINING AND
+MACHINE LEARNING (Potomac 4)
+Sponsor: ENAR
+Chair: Yoonkyung Lee, Ohio State University
+10:30 Carrying Prediction Models Across Microarray
+Data Sets Generated by Different Labs and
+Different Platforms
+Chunrong Cheng* and George C. Tseng, University
+of Pittsburgh
+10:45 Variable Selection in Penalized Model-based
+Clustering via Regularization on Grouped
+Parameters
+Benhuai Xie*, Wei Pan and Xiaotong Shen,
+University of Minnesota
+11:00 Principal Component Analysis for Interval-valued
+Symbolic Data
+Jennifer Le-Rademacher*, University of Georgia
+11:15 LASSO-Patternsearch Algorithm
+Weiliang Shi*, Grace Wahba, Stephen Wright,
+Kristine Lee, Ronald Klein and Barbara Klein,
+University of Wisconsin-Madison
+11:30 Identifying Represenative Trees in Random Forest
+for Survival Data
+Mousumi Banerjee, Ying Ding* and Anne-Michelle
+Noone, University of Michigan
+11:45 Data Mining for Medical Research: Identifying
+Relationships That Cannot Be Identified In Any
+Other Way
+Shenghan Lai*, Johns Hopkins University
+12:00 Sparse Distance Weighted Discrimination
+Lingsong Zhang* and Xihong Lin, Harvard
+University
+34. CONTRIBUTED PAPERS:GENETIC EPIDEMIOLOGYASSOCIATIONS
+(Potomac 5)
+Sponsor: ENAR and ASA Biopharmaceutical Section
+Chair: Hongzhe Li, University of Pennsylvania
+10:30 Estimating Odds Ratios in Genome Scans: An
+Approximate Conditional Likelihood Approach
+Arpita Ghosh*, Fei Zou and Fred A. Wright, The
+University of North Carolina at Chapel Hill
+10:45 Ranges of Measures of Association for Pedigree
+Binary Variables
+Yihao Deng*, Indiana University-Purdue University-
+Fort Wayne, N. Rao Chaganty, Old Dominion
+University
+11:00 Score Statistics for Family-based Association
+Mapping of Quantitative Traits
+Samsiddhi Bhattacharjee* and Eleanor Feingold,
+University of Pittsburgh
+11:15 A Semiparametric Association Test in
+Structured Populations
+Meijuan Li* and Tim Hanson, University of
+Minnesota
+11:30 A Bayesian Semiparametric Framework for
+Genetic Association Studies in the Presence of
+Population Structure
+Nicholas M. Pajewski* and Purushottam W. Laud,
+Medical College of Wisconsin
+11:45 A Joint Test for Haplotype-based Association in
+Case-Control Studies
+Tao Wang*, Howard Jacob, Soumitra Ghosh and
+Xujing Wang, Medical College of Wisconsin,
+Zhao-Bang Zeng, North Carolina State University
+12:00 Efficient Multivariate Polygenic and Association
+Analysis
+Wei-Min Chen*, University of Virginia
+35. CONTRIBUTED PAPERS:GENERALIZED LINEAR
+MODELS (Potomac 6)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Dirk F. Moore, University of Medicine and Dentistry
+of New Jersey
+ARLINGTON, VIRGINIA 33
+34 ENAR 2008 Spring Meeting
+Scientific Program
+10:30 Pseudo-Score Inference for Parameters in
+Discrete Statistical Models
+Alan Agresti*, University of Florida, Euijung Ryu,
+Mayo Clinic
+10:45 Simultaneous Confidence Intervals for Comparing
+Binomial Parameters
+Alan Agresti, University of Florida, Matilde Bini
+and Bruno Bertaccini, University of Florence-Italy,
+Euijung Ryu*, Mayo Clinic
+11:00 Bayesian Generalized Linear Models for Genomewide
+QTL Analysis
+Nengjun Yi* and Samprit Banerjee, University of
+Alabama at Birmingham
+11:15 Regression Splines for Threshold Selection with
+Application to a Random Effects Logistic Doseresponse
+Model
+Daniel L. Hunt*, St. Jude Children’s Research
+Hospital, Chin-Shang Li, University of California-
+Davis
+11:30 Diagnosis of Model Misspecification For Random
+Effects in Generalized Linear Mixed Models
+Xianzheng Huang*, University of South Carolina
+11:45 Estimation of Treatment Effects by Combining
+Two or More Design Plans
+Yvonne M. Zubovic* and Chand K. Chauhan,
+Indiana University Purdue University-Fort Wayne
+12:00 Approaches for Estimating and Testing
+Conditional Correlations
+Xueya Cai*, Gregory, E. Wilding and Alan Hutson,
+SUNY-Buffalo
+Monday, March 17
+12:15-1:30 p.m. Roundtable Luncheons
+(Registration Required)
+1:45-3:30 p.m.
+36. STATISTICAL ISSUES IN ANALYSIS OF GENOMICS
+DATA (Regency A)
+Sponsors: ASA Biopharmaceutical Section and ENAR
+Organizers: Boris Zaslavsky and Jawahar Tiwari, U.S. Food
+& Drug Administration
+Chair: Jawahar Tiwari, U.S. Food and Drug Administration
+1:45 Overcoming Adverse Effects of Correlations in
+Microarray Data Analysis
+Lev Klebanov, Charles University-Czech Republic,
+Andrei Yakovlev*, University of Rochester
+2:15 A Gene Expression Barcode for Microarray Data
+Rafael A. Irizarry* and Michael J. Zilliox, Johns
+Hopkins University
+2:45 A Systematic Framework of Whole-genome
+SNP Screening Seeking a Predictive
+Genomic Biomarker for Potential Treatment
+Individualization
+Sue-Jane Wang*, U.S. Food and Drug
+Administration
+3:15 Discussant: Xing Qui, University of Rochester
+37. RECENT DEVELOPMENTS IN NON-SMOOTH
+ESTIMATING FUNCTIONS FOR CENSORED DATA (Regency B)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Menggang Yu, Indiana University
+Chair: Bin Nan, University of Michigan
+1:45 Estimation in the Semiparametric Accelerated
+Failure Time Model with Missing Data
+Bin Nan and John D. Kalbfleisch*, University of
+Michigan, Menggang Yu, Indiana University
+2:10 Accelerated Recurrence Time Models
+Yijian Huang* and Limin Peng, Emory University
+2:35 On Combining Multiple Estimating Equations
+Lu Tian*, Northwestern University
+3:00 Variance Estimation in Censored Linear Regression
+Zhezhen Jin*, Columbia University
+3:25 Floor Discussion
+38. BAYESIAN METHODS IN EPIDEMIOLOGY (Regency C)
+Sponsors: ASA Section on Statistics in Epidemiology
+and ENAR
+Organizer: Bhramar Mukherjee, University of Michigan
+Chair: Samiran Sinha, Texas A&M University
+1:45 Novel Bayesian Approaches to Model-robust
+Inference
+Kenneth M. Rice*, Adam Szpiro and Thomas
+Lumley, University of Washington
+2:10 Bayesian Modeling of Complex Traits
+Paola Sebastiani*, Boston University
+2:35 A Bayesian Approach for Estimating the Effect
+of Exposure to Air Pollution on Cardiovascular
+Disease Risk Factors
+Trivellore E. Raghunathan* and Yun Bai, University
+of Michigan
+3:00 Empirical Bayes-Type Shrinkage Estimation in
+Genetic Epidemioloy
+Bhramar Mukherjee*, University of Michigan,
+Nilanjan Chatterjee, National Cancer Institute
+3:25 Floor Discusssion
+39. LONGITUDINAL DATA ANALYSIS IN THE PRESENCE
+OF MORTALITY (Regency D)
+Sponsor: ENAR, ASA Section on Statistics in Epidemiology
+and ASA Biometrics Section
+Organizer: Daniel Scharfstein, Johns Hopkins University
+Chair: Daniel Scharfstein, Johns Hopkins University
+1:45 Analysis of Longitudinal Data Subject to
+Truncation due to Death
+Patrick J. Heagerty*, University of Washington
+2:15 Identification and Estimation of the Survivor
+Average Causal Effect
+Brian L. Egleston*, Fox Chase Cancer Center
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+2:45 Using an Intervention-Based Framework to
+Address Input Data Missing Due to Death
+Constantine E. Frangakis*, Johns Hopkins
+University, Donald B. Rubin, Harvard University,
+Ming-Wen An and Ellen MacKenzie, Johns Hopkins
+University
+3:15 Floor Discussion
+40. IMPROVING MEASUREMENT IN PROFILING
+PROVIDERS OF HEALTHCARE (Washington A)
+Sponsors: ASA Health Policy Statistics Section and ENAR
+Organizer: Marc Elliott, RAND Corporation
+Chair: Yulei He, Harvard University
+1:45 Findings from the HCAHPS Mode Experiment
+Marc N. Elliott*, RAND Corporation, Elizabeth
+Goldstein and William G. Lehrman, Centers
+for Medicare and Medicaid Services, Alan
+M. Zaslavsky, Harvard University, Katrin
+Hambarsoomians, RAND Corporation, Mary Anne
+Hope and Laura A. Giordano, Health Services
+Advisory Group
+2:10 Ensuring the Reliability of Consumer
+Assessments of Clinicians and Groups in the
+CAHPS 4.0 Clinician and Group Survey
+Dana Safran*, Tufts University, Marc N. Elliott, Julie
+Brown and Ron D. Hays, RAND Corporation
+2:35 Improving Subgroup Comparisons of Consumer
+Reports by Adjusting for Differences in Extreme
+Response Tendency
+Amelia Haviland*, Marc N. Elliott and Katrin
+Hambarsoomians, RAND Corporation
+3:00 Optimal Survey Design When Nonrespondents
+are Subsampled for the Follow-Up
+A. James O’Malley* and Alan M. Zaslavsky,
+Harvard University
+3:25 Floor Discussion
+41. BAYESIAN VARIABLE SELECTION WITH HIGH
+DIMENSIONAL COVARIATE DATA (Washington B)
+Sponsors: IMS and ASA Biometrics Section
+Organizer: Joseph Ibrahim, University of North Carolina at
+Chapel Hill
+Chair: Debajyoti Sinha, Medical University of South
+Carolina
+1:45 A Stochastic Partitioning Method to Associate
+High-dimensional Datasets
+Stefano Monni, University of Pennsylvania, Mahlet
+G. Tadesse*, Georgetown University
+2:15 Bayesian Variable Selection and Monte Carlo
+Computation for High Dimensional Data in
+Regression Models
+Faming Liang, Texas A&M University, Ming Hui
+Chen, University of Connecticut, Joseph G.
+Ibrahim, University of North Carolina at Chapel Hill,
+Mayetri Gupta*, Boston University
+2:45 Variable Selection via a Bayesian Ensemble
+Hugh A. Chipman, Acadia University, Edward I
+George*, University of Pennsylvania, Robert E.
+McCulloch, University of Chicago
+3:15 Floor Discussion
+42. CONTRIBUTED PAPERS: CLUSTERED AND
+HIERARCHICAL MODELS (Potomac 1)
+Sponsors: ASA Section on Statistics and the Environment,
+ASA Section on Statistics in Epidemiology, and ASA
+Biometrics Section
+Chair: Hernando Ombao, Brown University
+1:45 Vaccine Efficacy Trials using Stepped Wedge
+Design
+JoAnna Scott*, University of Washington
+2:00 A General Class of Agreement Coefficients for
+Categorical Responses
+Wei Zhang* and Vernon M. Chinchilli, The
+Pennsylvania State University
+2:15 Comparison of Parametric, Nonparametric and
+Smooth Nonparametric Mixed Effect Models
+Tihomir Asparouhov*, Mplus, Bengt Muthen,
+University fo California Los Angeles
+2:30 Analysis of Group Randomized Trials with
+Multiple Binary Endpoints and Small Number
+of Groups
+Ji-Hyun Lee* and Michael, J. Schell, H. Lee Moffitt
+Cancer Center & Research Institute, Richard
+Roetzheim, University of South Florida
+2:45 Hierarchical Spatial Modeling of Additive and
+Dominance Genetic Variance for Large Spatial
+Trial Datasets
+Andrew O. Finley*, Michigan State University,
+Sudipto Banerjee, University of Minnesota, Patrik
+Waldmann, and Tore Ericsson, Swedish University
+of Agricultural Sciences
+3:00 Bayesian Groundwater Contamination Model
+Yongsung Joo*, University of Florida, Keunbaik
+Lee and Donald Mercante, Louisiana State
+University
+3:15 A Positive Stable Frailty Model for
+Clustered Failure Time Data with Covariate
+Dependent Frailty
+Dandan Liu*, John D. Kalbfleisch and Doug
+E. Schaubel, University of Michigan
+43. CONTRIBUTED PAPERS:STATISTICAL GENETICS
+(Potomac 2)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Guoqing Diao, George Mason University
+1:45 Binary Trait Mapping in Experimental Crosses
+with Selective Eenotyping
+Ani Manichaikul*, Johns Hopkins University, Karl
+W. Broman, University of Wisconsin-Madison
+ARLINGTON, VIRGINIA 35
+36 ENAR 2008 Spring Meeting
+Scientific Program
+2:00 A Time-Dependent Poisson Random Field Model
+for Polymorphism Within and Between Two
+Related Species
+Amei Amei*, University of Nevada Las Vegas,
+Stanley Sawyer, Washington University in St. Louis
+2:15 An Incomplete-Data Quasi-likelihood Framework
+with Application to Genetic Association Studies
+on Related Individuals
+Zuoheng Wang* and Mary Sara McPeek,
+University of Chicago
+2:30 An Epistatic Model for Mapping Phenotypic
+Plasticity of a Count Trait
+Arthur Berg*, Derek Drost, Evandro Novaes,
+Matias Kirst and Rongling Wu, University of Florida
+2:45 Genotyping Error Detection in Samples of
+Unrelated Individuals
+Nianjun Liu*, University of Alabama at Birmigham,
+Dabao Zhang, Purdue University, Hongyu Zhao,
+Yale University
+3:00 Genetic Mapping by Minimizing Integrated
+Square Errors
+Song Wu*, Guifang Fu, Yunmei Chen and Rongling
+Wu, University of Florida
+3:15 Multilocus Estimation of the Recombination
+Fraction, Outcrossing Rate and Linkage
+Disequilibrium in Wild Populations
+Wei Hou* and Jiahan Li, University of Florida,
+Kun Han, Zhejiang Forestry University, Song Wu,
+University of Florida, Yanchun Li, Zhejiang Forestry
+University, Rongling Wu, University of Florida
+44. CONTRIBUTED PAPERS:CLINICAL TRIAL ADAPTIVE
+DESIGN AND RANDOMIZATION (Potomac 3)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Thomas Braun, University of Michigan
+1:45 An Efficient Clinical Trial Design Investigating
+Treatment by Covariate Interaction
+Ayanbola O. Elegbe*, Bristol Myers Squibb, David
+T. Redden, University of Alabama at Birmingham
+2:00 Estimation of Treatment Difference in Proportions
+in Clinical Trials With Blinded Sample Size Reestimation
+Xiaohui Luo*,Merck & Co., Peng-Liang Zhao,
+Sanofi-Aventis
+2:15 Nonlinear Bayesian Prediction Model
+Haoda Fu*, and David Manner, Eli Lilly & Company
+2:30 Internal Pilot with Interim Analysis for Single
+Degree of Freedom Hypothesis Tests
+John A. Kairalla* and Keith E. Muller, University
+of Florida, Christopher S. Coffey, University of
+Alabama at Birmingham
+2:45 Optimal and Adaptive Designs in Dose Ranging
+Studies Based on Both Efficacy and Safety
+Responses
+Olga V. Marchenko*, i3 Statprobe
+3:00 Adaptive Designs for Dose Finding Based on the
+Emax Model
+S. Krishna Padmanabhan*, Wyeth, Francis Hsuan,
+Temple University, Vladimir Dragalin, Wyeth
+3:15 Optimal Adaptive Designs for Binary Response
+Trials
+Youngsook Jeon* and Feifang Hu, University
+of Virginia
+45. CONTRIBUTED PAPERS:GENOME-WIDE
+ASSOCIATION STUDIES (Potomac 4)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Eleanor Feingold, University of Pittsburgh
+1:45 A Bayesian Approach for Incorporating Prior
+Knowledge in Genome-wide Association Studies
+Haojun Ouyang* and Jung-Ying Tzeng, North
+Carolina State University
+2:00 Stepwise Forward Multiple Regression for
+Complex Traits in High Density Genome-wide
+Association Studies
+Xiangjun Gu*, Christopher I. Amos and Gary
+Rosner, M.D. Anderson Cancer Center, Mary
+Relling, St. Jude Children’s Research Hospital,
+Ralph F. Frankowski, University of Texas School
+of Public Health at Houston
+2:15 Probability of Detecting Disease-Associated
+SNPs in Case-Control Genome-Wide Association
+Studies
+Ruth Pfeiffer* and Mitchell Gail, National Cancer
+Institute
+2:30 Shrinkage Estimation for Robust and Efficient
+Screening of single SNP Association from Case-
+Control Genome-wide Association Studies
+Sheng Luo*, Johns Hopkins University, Nilanjan
+Chatterjee, National Cancer Institute, Bhramar
+Mukherjee, University of Michigan
+2:45 Genome-wide Association Studies with Related
+Individuals
+Weihua Guan*, Liming Liang, Michael Boehnke
+and Gonçalo R. Abecasis, University of Michigan
+3:00 A Mixture of Expert Model for Population
+Stratification in Genomic Association Study
+Yulan Liang*, University at Buffalo, The State
+University of New York
+3:15 A Hierarchical Bayesian Model for Genome-wide
+Association Studies of SNPs with Missingness
+Zhen Li* and George Casella, University of Florida
+46. CONTRIBUTED PAPERS:SPATIAL MODELING
+APPLICATIONS (Potomac 5)
+Sponsors: ENAR and ASA Section on Statistics in Defense
+and National Security
+Chair: Andrew Lawson, University of South Carolina
+1:45 Repeated Measures Methodology for Spatial
+Cluster Detection while Accounting for Moving
+Locations
+Andrea J. Cook*, University of Washington, Diane
+R. Gold, Brigham and Women’s Hospital and
+Harvard University, Yi Li, Harvard University and
+The Dana Farber Cancer Institute
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+2:00 Seasonal/Regional Effect Estimates for PM2.5 and Hospital Admissions Rates
+Keita Ebisu* and Michelle L. Bell, Yale University,
+Roger D. Peng and Francesca Dominici, Johns
+Hopkins University
+2:15 Models for Spatial Bivariate Binary Data
+Petrutza C. Caragea and Emily J. Berg*, Iowa State
+University
+2:30 Weighted Normal Spatial Scan Statistic for
+Heterogeneous Population Data
+Lan Huang*, Information Management Services,
+Inc., Ram C. Tiwari, National Cancer Institute,
+Zhaohui Zou, Information Management Services,
+Inc., Martin Kulldorff, Harvard University and
+Harvard Pilgrim Health Care, Eric J. Feuer, National
+Cancer Institute
+2:45 Spatio-Temporal Model for Irregularly Spaced
+Aerosol Optical Depth Data
+Jacob J. Oleson* and Naresh Kumar, University of
+Iowa
+3:00 Introducing the S-value: An Exploratory Tool for
+Detecting Spatial Dependence on a Lattice
+Petrutza C. Caragea* and Mark S. Kaiser, Iowa
+State University
+3:15 Spatial Processes with Stochastic
+Heteroscedasticity
+Wenying Huang*, Ke Wang and Frank J. Breidt,
+Colorado State University, Richard A. Davis,
+Columbia University
+47. CONTRIBUTED PAPERS:MISSING OR INCOMPLETE
+DATA (Potomac 6)
+Sponsors: ASA Section on Statistics in Defense and
+National Security, ASA Survey Research Methods Section,
+ASA Section on Statistics in Epidemiology and ASA
+Biometrics Section
+Chair: David Todem, Michigan State University
+1:45 Dynamic Graphics and Sensitivity Analysis for
+Dropout Data
+Edward C. Chao*, Data Numerica Institute
+2:00 New Methods for Estimating Stage Distribution
+in Cancer Registry Data
+Guoliang Tian* and Ming T. Tian, University of
+Maryland
+2:15 Weighted Estimating Equations for Longitudinal
+Studies with Death and Non-monotone Missing
+Time-dependent Covariates and Outcomes
+Michelle Shardell* and Ram R. Miller, University of
+Maryland
+2:30 Nonparametric Regression with Missing
+Outcomes Using Weighted Kernel Estimating
+Equations
+Lu Wang*, Xihong Lin, and Andrea Rotnitzky,
+Harvard University
+2:45 Marginalized Semi-Parametric Shared Parameter
+Models for Incomplete Ordinal Responses
+Roula Tsonaka*, Dimitris Rizopoulos, Geert
+Verbeke and Emmanuel Lesaffre, Catholic
+University-Belgium
+3:00 Information Attainable in Some Randomly
+Incomplete Multivariate Response Models
+Tejas A. Desai*, The Indian Institute of
+Management at Ahmedabad, Pranab K. Sen, The
+University of North Carolina at Chapel Hill
+3:15 When NMAR is Almost MAR
+Yan Zhou*, Roderick Little and John D. Kalbfleisch,
+University of Michigan
+Monday, March 17
+3:30—3:45 p.m. Refreshment Break and Visit the
+Exhibitors
+3:45—5:30 p.m.
+48. FDA ADVISORY COMMITTEES: A STATISTICIAN’S
+ROLE IN DECIDING PUBLIC POLICY (A PANEL
+DISCUSSION) (Regency A)
+Sponsors: ENAR, ASA Biopharmaceutical Section and
+ASA Section on Statistics in Epidemiology
+Organizer: Alvin Van Orden, U.S. Food and Drug
+Administration
+Chair: Scott Evans, Harvard University
+An Introduction to FDA Advisory Committees
+Gregory Campbell*, U. S. Food and Drug Administration
+Role of an Industry Statistician in an FDA Advisory
+Committee Meeting
+Frank W. Rockhold*, GlaxoSmithKline R&D
+A Statistician’s Role in Food and Drug Administration
+Advisory Committees
+David A. Schoenfeld*, Massachusetts General Hospital
+Seeking Advice from Statisticians: A Clinician’s
+Perspective
+Celia M. Witten*, U.S. Food and Drug Administration
+49. NEW DIRECTIONS IN SAFETY PLANNING AND
+ANALYSIS FOR CLINICAL DEVELOPMENT (Regency B)
+Sponsors: ASA Biopharmaceutical Section and ENAR
+Organizers: Brenda Crowe, Eli Lilly & Co. and Eileen King,
+Procter & Gamble Co.
+Chair: Eileen King, Procter & Gamble Co.
+3:45 Regulatory Perspectives on Planning for
+Pre-marketing Safety
+George C. Rochester*, U.S. Food and Drug
+Administration
+4:10 Planning for Meta-analysis
+Jesse A. Berlin*, Johnson & Johnson
+Pharmaceutical Research and Development
+ARLINGTON, VIRGINIA 37
+38 ENAR 2008 Spring Meeting
+Scientific Program
+4:35 Analysis of Clinical Adverse Event Data Using
+False Discovery Rate Methods
+Devan V. Mehrotra* and Joseph F. Heyse, Merck
+Research Laboratories
+5:00 Detecting Safety Signals in Clinical Trials: A
+Bayesian Perspective
+H. Amy Xia* and Haijun Ma, Amgen, Inc.
+5:25 Floor Discussion
+50. VALIDATION OF GENOMIC CLASSIFIERS (Regency C)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Organizer: Gene Pennello, U.S. Food and Drug
+Administration
+Chair: Lakshmi Vishnuvajjala, U.S. Food and Drug
+Administration
+3:45 The Microarray Quality Control Consortium:
+Experiences in the Development and Validation
+of Genomic Predictive Models for Clinical and
+Toxicogenomic Data Sets
+Russell D. Wolfinger*, SAS Institute Inc.
+4:10 Developing and Validating Genomic Classifiers
+Kevin K. Dobbin*, National Cancer Institute
+4:35 Gene Expression Profiling Devices for Cancer
+Prognosis: FDA Clearance Process
+Reena Philip*, U.S. Food and Drug Administration
+5:00 Drug-Diagnostic Co-development: Simultaneous
+Validation of a New Therapeutic and a
+Pharmacogenetic Diagnostic Biomarker for
+Selecting Patients Most Likely Benefit from It
+Gene A. Pennello*, U.S. Food and Drug
+Administration
+5:25 Floor Discussion
+51. METHODS FOR ANALYZING MULTI-READER
+RECEIVER OPERATING CHARACTERISTIC (ROC) DATA
+(Regency D)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Biometrics Section
+Organizer: Stephen Hillis, Iowa City VA Medical Center
+Chair: Michael Berbaum, University of Chicago-Illinois
+3:45 Using Marginal ANOVA Models to Motivate,
+Generalize, and Derive Properties for the
+Obuchowski-Rockette Procedure for Multi-Reader
+ROC Data Analysis
+Stephen L. Hillis*, Iowa City VA Medical Center
+4:15 Ensemble Variance for Binormal Model of MRMC
+AUC
+Brandon D. Gallas*, U.S. Food and Drug
+Administration
+4:45 Comparisons of Methods for Analysis of Multireader
+Multi-modality ROC Studies
+Xiao-Hua A. Zhou*, University of Washington, VA
+Puget Sound Health Care System
+5:15 Floor Discussion
+52. RECENT ADVANCES IN THE MODELING OF
+COMPETING RISKS (Washington A)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Section on Defense and National Security
+Organizer: Abdus Wahed, University of Pittsburgh
+Chair: Abdus Wahed, University of Pittsburgh
+3:45 Cause-Specific Relative Risk Models for
+Estimating Absolute Risk
+Mitchell H. Gail*, National Cancer Institute
+4:15 Parametric Inference on Competing Risks Data
+Jong-Hyeon Jeong*, University of Pittsburgh
+4:45 Quantile Inference for Competing Risks Data
+Jason P. Fine*, University of Wisconsin, Madison
+5:15 Discussant:
+John P. Klein, Medical College of Wisconsin
+53. ANALYSIS OF MARKED POINT PATTERNS WITH
+SPATIAL AND NONSPATIAL COVARIATE INFORMATION
+(Washington B)
+Sponsors: IMS, ASA Section on Statistics in Defense
+and National Security and ASA Section on Statistics in
+Epidemiology
+Organizers: Bradley P. Carlin and Sudipto Banerjee,
+University of Minnesota
+Chair: Alan F. Gelfand, Duke University
+3:45 Analysis of Marked Point Patterns with Spatial
+and Nonspatial Covariate Information
+Shengde Liang and Bradley P. Carlin*, University of
+Minnesota, Alan E. Gelfand, Duke University
+4:15 Bayesian Spatial Scan Statistic Adjusted for
+Overdispersion and Spatial Correlation.
+Deepak Agarwal*, Yahoo! Research
+4:45 Estimating Functions for Inhomogeneous Spatial
+Point Processes with Incomplete Covariate Data
+Rasmus P. Waagepetersen*, Aalborg University
+5:15 Discussant:
+Sudipto Banerjee, University of Minnesota
+54. CONTRIBUTED PAPERS:STATISTICAL INFERENCE
+(Potomac 1)
+Sponsors: ENAR and ASA Section on Statistics in
+Epidemiology
+Chair: Pamela Shaw, National Institute of Allergy and
+Infectious Diseases
+3:45 Approximate P-Values From Monte Carlo
+Hypothesis Testing
+Allyson M. Abrams*, Martin Kulldorff and Ken
+P. Kleinman, Harvard Pilgrim Health Care and
+Harvard University
+4:00 An Application of Exact Tests using Two
+Correlated Binomial Variables in Clinical Trials
+Jihnhee Yu*, University at Buffalo, James L.
+Kepner, American Cancer Society
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+4:15 Improving Efficiency of Inferences in Randomized
+Clinical Trials using Auxiliary Covariates
+Min Zhang*, Anastasios, A. Tsiatis and Marie
+Davidian, North Carolina State University
+4:30 Inference Following an Adaptive Design -
+Practical Issues Arising From a Large Study in
+Oncology
+Lothar T. Tremmel*, Cephalon
+4:45 Modeling Infectivity Rates and Attack Windows
+for Two Viruses
+Jian Wu, A. John Bailer* and Stephen E. Wright,
+Miami University
+5:00 Comparing Statistical Interval Estimates
+Michelle Quinlan*, University of Nebraska-
+Lincoln, James Schwenke, Boehringer Ingelheim
+Pharmaceuticals, Inc., Walt Stroup, University of
+Nebraska-Lincoln
+5:15 Exact Bayesian Inference in 2 by 2 Contingency
+Tables
+Yong Chen* and Sining Chen, Johns Hopkins
+University, Haitao Chu, The University of North
+Carolina at Chapel Hill
+55. CONTRIBUTED PAPERS:STATISTICAL
+METHODS- GENERAL (Potomac 2)
+Sponsor: ENAR
+Chair: Sumithra Mandrekar, Mayo Clinic
+3:45 A Novel Moment-based Dimension Reduction
+Approach in Multivariate Regression
+Jae Keun Yoo*, University of Louisville
+4:00 One-Sided Coverage Intervals for a Proportion
+Estimated from a Stratified Simple Random
+Sample
+Phillip S. Kott*, National Agricultural Statistics
+Service, U.S. Department of Agriculture
+4:15 Robust Estimation of the Spectral Envelope
+Mark A. Gamalo*, University of Missouri - Kansas
+City
+4:30 Restricted Likelihood Ratio Testing for Zero
+Variance Components in Linear Mixed Models
+Sonja Greven*, Ludwig-Maximilians-Universität
+Munich, Ciprian M. Crainiceanu, Johns Hopkins
+University, Helmut Küchenhoff, Ludwig-
+Maximilians-Universität Munich, Annette Peters,
+GSF-National Research Center for Environment
+and Health
+4:45 One-Sided Tests and Confidence Bounds for the
+Difference between Probabilities for Matched
+Pairs Dichotomous Data
+Donald J. Schuirmann*, U.S. Food and Drug
+Administration
+5:00 Spatial Models with Applications in Computer
+Experiments
+Ke Wang*, Wenying Huang and Frank J. Breidt,
+Colorado State University, Richard A. Davis,
+University of Columbia
+5:15 Graphical Tool for Bayesian Network
+Reconstruction
+Peter Salzman* and Anthony Almudevar,
+University of Rochester
+56. CONTRIBUTED PAPERS:CLINICAL TRIALS DESIGN
+(Potomac 3)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Biopharmaceutical Section
+Chair: Rickey Carter, Medical University of South Carolina
+3:45 Design and Interim Monitoring of a Clinical Trial
+based on the Gompetz Distribution
+Arzu Onar*, Robert P. Sanders, Amar Gajjar and
+James M. Boyett, St Jude Children’s Research
+Hospital
+4:00 Optimal Cost-effective Design Strategies in Latestage
+Clinical Trials
+Cong Chen* and Robert A. Beckman, Merck & Co.,
+Inc.
+4:15 Resolving a Clinical Trial When Accrual has
+Slowed or Stopped
+David N. Stivers* and Scott M. Berry, Berry
+Consultants, Donald A. Berry, University of Texas,
+M. D. Anderson Cancer Center
+4:30 The Influence of Different Designs for Survival
+Trials on the Type I Error Rate of the Logrank
+Statistic
+Jitendra Ganju* and Julia Ma, Amgen, Inc.
+4:45 Optimal Enrichment Strategies for the
+Randomized Discontinuation Design
+Peter Müller, Gary L. Rosner and Lorenzo Trippa*,
+The University of Texas, M.D. Anderson Cancer
+Center
+5:00 Crossover Designs for Mortality Trials
+Martha C. Nason* and Dean Follmann, National
+Institute of Allergy and Infectious Diseases
+5:15 A Comparison of Test Statistics for the Sequential
+Parallel Design
+Xiaohong Huang, Sanofi-Aventis Corporation, Roy
+N. Tamura*, Eli Lilly and Company
+57. CONTRIBUTED PAPERS:STATISTICAL METHODS FOR
+GENOMICS (Potomac 4)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Chair: Alina Andrei, University of Wisconsin-Madison
+3:45 Harnessing Naturally Randomized Transcription
+to Infer Causal Regulatory Relationships Among
+Genes
+Lin S. Chen*, Frank Emmert-Streib and John D.
+Storey, University of Washington
+4:00 Incorporating Gene Networks into Statistical
+Tests for Genomic Data
+Peng Wei* and Wei Pan, University of Minnesota
+4:15 Prediction of Survival Time using Gene
+Expression Profiles of Multiple Myeloma Patients
+Jimin Choi*, Jimmy Fulp and Dan Sullivan, H.
+Lee Moffitt Cancer Center & Research Institute,
+Choongrak Kim, Pusan National University
+ARLINGTON, VIRGINIA 39
+40 ENAR 2008 Spring Meeting
+Scientific Program
+4:30 Analysis of Gene Sets Based on the Underlying
+Regulatory Network
+Ali Shojaie* and George Michailidis, University of
+Michigan
+4:45 A Model-based Approach for Combining
+Heterogeneous High Throughput Genomic Data
+to Improve Detection of Regulatory Motifs
+Heejung Shim*, Adam Hinz and Sunduz Keles,
+University of Wisconsin-Madison
+5:00 Nonparametric Meta-analysis for Identifying
+Signature Genes in the Integration of Multiple
+Genomic Studies
+Jia Li* and George C. Tseng, University of
+Pittsburgh
+5:15 A Genome-wide Study of Nucleosome Free
+Region in Yeast
+Wei Sun*, Wei Xie, Feng Xu, Michael Grunstein
+and Ker-Chau Li, University of North Carolina
+58. CONTRIBUTED PAPERS:SURVIVAL ANALYSIS -
+NONPARAMETRIC METHODS (Potomac 5)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Suddhasatta Acharyya, Brown University
+3:45 Bezier Curve Smoothing of the Kaplan-Meier
+Estimator
+Choongrak Kim*, Eunyoung Yun and Mina Baek,
+Pusan National University-Korea
+4:00 Nonparametric Estimation of State Occupation,
+Entry and Exit Times with Multistate Current
+Status Data
+Ling Lan* and Somnath Datta, University of
+Louisville
+4:15 Using the Seminonparametric Density to
+Estimate Survival Functions in the presence of
+Censored Data
+Kirsten Doehler*, University of North Carolina at
+Greensboro, Marie Davidian, North Carolina State
+University
+4:30 Estimation for Censored Heteroscedastic Linear
+Regression
+Xuewen Lu* and Zhulin He, University of Calgary
+4:45 Local Linear Estimation of Conditional Hazard
+Function
+Jinmi Kim*, Hyunmi Hwang and Choongrak Kim,
+Pusan National University-Korea
+5:00 Examining Model Fit for Penalized Splines: A
+Simulation Study
+Elizabeth J. Malloy*, American University, Donna
+Spiegelman, Harvard University, Ellen A. Eisen,
+Harvard University and University of California-
+Berkeley
+5:15 Inference for a Change-point Cox Model with
+Current Status Data
+Rui Song* and Michael R. Kosorok, University of
+North Carolina, Shuangge Ma, Yale University
+59. CONTRIBUTED PAPERS:FUNCTIONAL DATA
+ANALYSIS (Potomac 6)
+Sponsor: ENAR
+Chair: Brisa Sanchez, University of Michigan
+3:45 Functional Mixed Registration Models
+Donatello Telesca*, University of Texas, M.D.
+Anderson Cancer Center, Lurdes YT Inoue,
+University of Washington
+4:00 Principal Differential Analysis: Estimating
+Coefficients and Linearly Independent Solutions
+of a Linear Differential Operator with Covariates
+for Functional Data
+Seoweon Jin*, Southern Methodist University,
+Joan G. Staniswalis, University of Texas at El Paso,
+Anu Sharma, University of Colorado at Boulder
+4:15 Identifying Temporally Differentially Expressed
+Genes through Functional Principal Components
+Analysis
+Xueli Liu* and Mark C.K. Yang, University of
+Florida
+4:30 Functional Sliced Inverse Regression in
+Lipoprotein Profile Data
+Yehua Li*, University of Georgia, Tailen Hsing,
+University of Michigan
+4:45 A Generalized Akaike’s Information Criterion for
+Selecting Penalty Function in Spatially Adaptive
+Smoothing Splines
+Ziyue Liu* and Wensheng Guo, University of
+Pennsylvania
+5:00 Bootstrapping Sums of Independent but not
+Identically Distributed Continuous Processes with
+Applications to Functional Data
+Chung Chang* and Robert T. Ogden, Columbia
+University
+5:15 Directed Spatio-temporal Monitoring of Disease
+Incidence Rates
+Dan J. Spitzner*, University of Virginia, Brooke
+Marshall, Virginia Tech University
+Tuesday, March 18
+8:30—10:15 a.m.
+60. ADAPTIVE DESIGNS: PERSPECTIVES FROM
+ACADEMIA, INDUSTRY AND REGULATORY (Regency A)
+Sponsors: ASA Biopharmaceutical Section and ENAR
+Organizers: Ghanshyam Gupta and Weishi Yuan, U.S. Food
+& Drug Administration
+Chair: Aiyi Liu, National Institute of Child Health and
+Human Development
+8:30 Adaptive Designs: Why, How and When?
+Christopher Jennison*, University of Bath-U.K.
+9:00 Design and Implementation of Adaptive Trials:
+Experiences of an Industry Consultant
+Cyrus R. Mehta*, Cytel Inc.
+Monday, March 17 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+9:30 Adaptability of Clinical Trial Design: A Larger
+Context
+H.M. James Hung*, U.S. Food and Drug
+Administration
+10:00 Discussant: Ralph D’Agostino, Boston University
+61. THE EDUCATION OF CLINICAL TRIAL STATISTICIANS:
+DO WE NEED TO CHANGE WITH THE TIMES? (Regency B)
+Sponsors: ASA Section on Teaching Statistics in the
+Health Sciences, ASA Statistical Education Section, ASA
+Biopharmaceutical Section and ASA Section on Statistics
+in Epidemiology
+Organizer/Chair: Scott Evans, Harvard School of Public
+Health
+Panelists: David L. DeMets, University of Wisconsin
+Naitee Ting, Pfizer Inc., Global R&D
+Karl E. Peace, Georgia Southern University
+Walter Offen, Eli Lilly & Company
+Marvin Zelen, Harvard University
+62. CRITICAL DESIGN AND STATISTICAL
+CONSIDERATIONS WITH USE OF (GENOMIC)
+BIOMARKER FOR PREDICTION OR OPTIMIZING THERAPY
+(Regency C)
+Sponsors: ENAR and ASA Biophamaceutical Section
+Organizer: Sue-Jane Wang, U.S. Food and Drug
+Administration
+Chair: Sue-Jane Wang, U.S. Food and Drug Administration
+8:30 Prediction of Clinical Outcomes with High
+Dimensional Markers
+Tianxi Cai*, Harvard University, Lu Tian and Jie
+Huang, Northwestern University, Samuel McDaniel
+and Rebecca Betensky, Harvard University
+8:55 Use of Clinical Reclassification to Assess Risk
+Prediction Models
+Nancy R. Cook*, Brigham & Women’s Hospital and
+Harvard University
+9:20 Uncertainties in the Multiple-Biomarker Classifier
+Problem and a Proposed Strategy for Study
+Design and Analysis
+Robert F. Wagner* and Weijie Chen, U.S. Food and
+Drug Administration, Waleed A. Yousef, Helwan
+University-Cairo, Egypt
+9:45 PREDICT-1: The First Powered, Prospective,
+Randomised Trial of Pharmacogenetic Screening
+to Reduce Drug Adverse Events
+Sara H. Hughes*, GlaxoSmithKline
+10:10 Floor Discussion
+63. ADVANCED SEMIPARAMETRIC MODELING OF
+GENETICS/GENOMIC DATA (Regency D)
+Sponsors: IMS, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Organizer: Naisyin Wang, Texas A&M University
+Chair: Naisyin Wang, Texas A&M University
+8:30 Semiparametric Methods for Case-Control
+Association Studies
+Danyu Lin*, University of North Carolina
+8:55 Biomarker Discovery for Genomics and
+Proteomics Data Using Functional Mixed Models
+Jeffrey S. Morris*, The University of Texas-M.D.
+Anderson Cancer Center
+9:20 Testing the Significance of Cell-Cycle Patterns in
+Time-Course Microarray Data
+Guei-Feng Tsai, Center for Drug Evaluation-Taipei,
+Taiwan , Annie Qu*, Oregon State University
+9:45 A Forest-based Approach to Identifying Gene and
+Gene-gene Interactions
+Xiang Chen, Ching-Ti Liu, Meizhuo Zhang and
+Heping Zhang*, Yale University
+10:10 Floor Discussion
+64. THE USE OF SURVEY SAMPLES IN
+EPIDEMIOLOGICAL FOLLOW-UP STUDIES (Washington A)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Survey Research Methods Section
+Organizer: Barry Graubard, National Cancer Institute
+Chair: Barry Graubard, National Cancer Institute
+8:30 The Hispanic Community Health Study
+Lisa LaVange, University of North Carolina Chapel
+Hill
+8:55 The NCS: Establishment and Protection of the
+Inferential Base
+Jonas H. Ellenberg*, University of Pennsylvania
+9:20 Discussant:
+Roderick J. Little, University of Michigan
+9:35 Discussant:
+Sholom Wacholder, National Cancer Institute
+9:50 Discussant:
+William Kalsbeek, University of North Carolina
+10:05 Floor Discussion
+65. ANALYSIS OF RECURRENT MARKER DATA (Washington
+B)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Lei Liu, University of Virginia
+Chair: Xuelin Huang, M.D. Anderson Cancer Center
+8:30 Forward and Backward Recurrent Marker
+Processes
+Mei-Cheng Wang*, Johns Hopkins University
+9:00 Analysis of Longitudinal Data in the Presence of
+Informative Observational Times
+Lei Liu*, University of Virginia, Xuelin Huang,
+M.D. Anderson Cancer Center, John O’ Quigley,
+University of Virginia
+9:30 Regression Analysis of Longitudinal Data with
+Dependent Observation Process
+(Tony) Jianguo Sun* and Liuquan Sun, University
+of Missouri, Dandan Liu, University of Michigan
+10:00 Floor Discussion
+ARLINGTON, VIRGINIA 41
+42 ENAR 2008 Spring Meeting
+Scientific Program
+66. Contributed Papers: Joint Modeling (Potomac 1)
+Sponsor: ENAR
+Chair: Ji-Hyun Lee, H. Lee Moffitt Cancer Center
+& Research Institute
+8:30 Predicting Outcomes from Later-Stage
+Longitudinal Trials with Potential Withdrawals
+Using Findings from Early Stage Trials : A Case
+History
+A. Lawrence Gould* and Kenneth Liu, Merck
+Research Laboratories
+8:45 A Bayesian Approach to Clustering Trajectories in
+the Presence of Multiple Changepoints
+Pulak Ghosh, Georgia State University, Kaushik
+Ghosh*, University of Nevada-Las Vegas, Ram C.
+Tiwari, National Cancer Institute
+9:00 Hierarchical models for spatially-referenced
+longitudinal data with applications to crop
+growth
+Haowen Cai*, Sudipto Banerjee, Ryan T.
+Thelemann and Gregg A. Johnson, University of
+Minnesota
+9:15 Incorporating Libido into Human Fecundability
+Models
+Kirsten Lum*, National Institutes of Health and
+American University, Rajeshwari Sundaram and
+Germaine Buck Louis, National Institutes of Health
+9:30 Joint Modeling of Cluster Size and Clustered
+Failure Times
+Hanna Yoo*, Yang-Jin Kim, Jae Won Lee and Shin-
+Jae Lee, Korea University
+9:45 Semiparametric Analysis of Panel Count Data
+with Correlated Observation and Follow-up
+Times
+Xin He*, The Ohio State University, Xingwei Tong,
+Beijing Normal University-Peoples Republic of
+China, Jianguo Sun, University of Missouri
+10:00 Latent Class Transition Models for Chronic
+Disability Survey Data with Censoring and
+Staggered Entry
+Toby A. White*, University of Washington
+67. CONTRIBUTED PAPERS:APPLICATIONS IN CAUSAL
+INFERENCE (Potomac 2)
+Sponsors: ENAR, ASA Health Policy Statistics Section and
+ASA Section on Statistics in Epidemiology
+Chair: Lan Huang, National Cancer Institute
+8:30 Identification of Causal Treatment Effects using
+Reference Stratification
+Booil Jo*, Stanford University
+8:45 Estimation and Inferenece for the Causal Effect of
+Receiving Treatment on a Multinominal Outcome
+Jing Cheng*, University of Florida College of
+Medicine
+9:00 Estimation of Treatment Efficacy in Randomized
+Clinical Trials Which Involve Non-trial Departures
+Tingting Ge* and Stanley P. Azen, University of
+Southern California
+9:15 Bounds on ATE and Unmeasured Confounding
+Bias in Observational Studies
+Tao Liu*, Joseph W. Hogan and Allison K. DeLong,
+Brown University
+9:30 Direct and Indirect Effects for Clustered and
+Longitudinal Data
+Tyler J. VanderWeele*, University of Chicago
+9:45 Correcting for Survivor Treatment-Selection Bias
+with a Structural Failure Time Model:Survival in
+Oscar Award Winning Performers
+Xu Han*, Dylan Small, Dean Foster and Vishal
+Patel, University of Pennsylvania
+10:00 A Systematic Review of Propensity-score
+Matching in the Medical Literature from 1996 to
+2003
+Peter C. Austin*, Institute for Clinical Evaluative
+Sciences
+68. CONTRIBUTED PAPERS:PROTEOMICS AND
+GENOMICS (Potomac 3)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Mimi Y. Kim, Albert Einstein College of Medicine
+8:30 Finding the Optimum Number of Probes to
+Interrogate Transcripts Using Affymetrix
+GeneChip Technology
+Fenghai Duan*, University of Nebraska
+8:45 Comparison of Resampling Methods on
+Validation of the Procedure for Constructing a
+Survival Prediction Model for Proteomic Studies
+Heidi Chen* and Ming Li, Vanderbilt University,
+Dean Billheimer, University of Utah, Yu Shyr,
+Vanderbilt University
+9:00 Quality Assessment and Reproducibility Analysis
+of Mass Spectrometry Data
+Shuo Chen*, Emory University
+9:15 A Novel Wavelet-based Approach for the Preprocessing
+of Mass Spectrometry Data
+Deukwoo Kwon*, National Cancer Institute, Joon
+Jin Song, University of Arkansas, Jaesik Jeong,
+Texas A&M University, Ruth M. Pfeiffer, National
+Cancer Institute, Marina Vannucci, Rice Univeristy
+9:30 Testing for Treatment Effects on Gene Ontology
+Taewon Lee* and Varsha G. Desai, National
+Center for Toxicological Research, Robert R.
+Delongchamp, University of Arkansas, Cruz
+Velasco, Louisiana State University
+9:45 A Model for the Analysis of Proteolytic 18O
+Stable-isotope Labeled Peptides in MALDI-TOF
+Mass-spectra
+Dirk Valkenborg and Tomasz Burzykowski*, Hasselt
+University-Belgium
+Tuesday, March 18 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+10:00 Background Correction, Normalization and
+Summaries of Bead Level Expression Data from
+Illumina Beadarray
+10:00 Yang Xie*, Guanghua Xiao, Lianghao Ding,
+University of Texas, Jeff Allen, Southern Methodist
+University, Michael D. Story, University of Texas
+69. CONTRIBUTED PAPERS:SAMPLE SIZE (Potomac 4)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology, ASA Biopharmaceutical Section
+Chair: Mary Putt, University of Pennsylvania
+8:30 Sample Sizes for Pilot Studies
+Rickey E. Carter* and Robert F. Woolson, Medical
+University of South Carolina
+8:45 Evaluation of Ten Events Per Covariate
+Recommendation for Cox Proportional Hazards
+Regression Models
+Mehmet Kocak* and Arzu Onar, St. Jude Children’s
+Research Hospital, Seok P. Wong, University of
+Memphis
+9:00 Design and Sample Size for Evaluating
+Combinations of Drugs of Linear and Loglinear
+Dose Response Curves
+Hongbin Fang* and Guo-Liang Tian, University
+of Maryland, Wei Li, University of Tennessee at
+Memphis, Ming Tan, University of Maryland
+9:15 Sample Size Formula for Time-to-Event Data with
+Incomplete Event Adjudication Using Generalized
+Logrank Statistic
+Shanhong Guan*, Merck & Co., Michael Kosorok,
+University of North Carolina-Chapel Hill, Tom Cook,
+University of Wisconsin-Madison
+9:30 Inverse-Probability-Weighting Based Sample
+Size Formula for Two-Stage Adaptive Treatment
+Strategies
+Abdus S. Wahed* and Wentao Feng, University of
+Pittsburgh
+9:45 Sample Size Calculation for a Mixture of Discrete
+and Continuous Endpoints:An Application of the
+Poisson-Binomial Distribution
+Yolanda Munoz Maldonado*, Sarah M. Baraniuk
+and Lemuel A. Moye, University of Texas-Houston,
+Schoo of Public Health
+10:00 Sample Size Calculation for Thorough QT/QTc
+Study
+Zhaoling Meng*, Xun Chen, Robert Kringle and
+Peng-Liang Zhao, Sanofi Aventis
+70. CONTRIBUTED PAPERS:IMAGING ANALYSIS
+(Potomac 5)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Mulugeta Gebregziabher, Medical University of
+South Carolina
+8:30 Correlation Coefficient from Data with Missing
+Covariates: Method Comparison
+Dana L. Tudorascu* and Lisa Weissfeld, University
+of Pittsburgh
+8:45 Adjusted Exponentially Tilted Empirical Likelihood
+with Applications to Neuroimaging Data
+Xiaoyan Shi*, Hongtu Zhu, Joseph G. Ibrahim
+and Martin Styner, Unversity of North Carolina at
+Chapel Hill
+9:00 FDR Thresholding in a Neuroimaging Context
+Lynn E. Eberly*, University of Minnesota, Brian S.
+Caffo, Johns Hopkins University
+9:15 A Bayesian Image Analysis of the Change
+in Tumor/Brain Contrast Uptake Induced by
+Radiation
+Xiaoxi Zhang*, Timothy D. Johnson and Roderick
+J. A. Little, University of Michigan
+9:30 Bayesian Spatial Modeling of fMRI data:A
+Multiple-Subject Analysis
+Lei Xu*, Timothy D. Johnson and Thomas E.
+Nichols, University of Michigan
+9:45 A Nonparametric Mixture Model for The fMRI
+Visual Field Map
+Raymond G. Hoffmann*, Nicholas M. Pajewski and
+Edward A. DeYoe, Medical College of Wisconsin
+10:00 Using Scientific and Statistical Sufficiency to Lift
+the Curse of Dimensionality in Imaging
+Yueh-Yun Chi* and Keith E. Muller, University of
+Florida
+71. CONTRIBUTED PAPERS:SURVIVAL ANALYSIS -
+DEPENDENT CENSORING (Potomac 6)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Bo Cai, University of South Carolina
+8:30 ‘ Smooth’ Inference for Bivariate Survival
+Functions with Arbitrarily Censored Data
+Lihua Tang* and Marie Davidian, North Carolina
+State University
+8:45 A Class of Semiparametric Mixture Cure Survival
+Models with Dependent Censoring
+Megan Othus* and Yi Li, Harvard University, Ram
+Tiwari, National Cancer Institute
+9:00 Weighted Likelihood Method for Grouped
+Survival Data in Case-Cohort Studies, with
+Application to HIV Vaccine Trials
+Zhiguo Li*, University of Michigan, Peter Gilbert,
+Fred Hutchinson Cancer Research Center, Bin Nan,
+University of Michigan
+9:15 Analysis of Time-to-Event Outcomes in Neonatal
+Clinical Trials with Twin Births
+Michele L. Shaffer*, Penn State College of
+Medicine, Sasiprapa Hiriote, The Pennsylvania
+State University
+9:30 Semiparametric Copula Regression Model for
+Censored Lifetime Medical Cost
+Jing Qian* and Yijian Huang, Emory University
+ARLINGTON, VIRGINIA 43
+44 ENAR 2008 Spring Meeting
+Scientific Program
+9:45 Resource-Use Analyses with Death as a
+Confounding Factor
+Benjamin L. Trzaskoma* and Amy C. Rundle
+Genentech, David R Nelson, Eli Lilly & Company,
+Fang Xie, Novartis Vaccines-Genentech
+10:00 A Mixture-Model Approach to Bivariate Hybrid
+Censored Survival Data
+Suhong Zhang*, Ying J. Zhang, Kathryn Chaloner,
+Jack T. Stapleton, University of Iowa
+Tuesday, March 18
+10:15-10:30 a.m. Refreshment Break and Visit the
+Exhibitors
+10:30 a.m.-12:15 p.m.
+72. PRESIDENTIAL INVITED ADDRESS (Regency Ballroom)
+Sponsor: ENAR
+Organizer/Chair: Eric Feuer, National Cancer Institute
+10:30 Introduction: Eric Feuer, National Cancer Institute
+10:35 Distinguished Student Paper Awards
+Jane F. Pendergast, University of Iowa
+10:45 	Biostatistics, Science, and the Public Eye
+Donald A. Berry, University of Texas, M.D.
+Anderson Cancer Center
+Tuesday, March 18
+1:45-3:30 p.m.
+73. JOINT MODELS FOR SURROGATE AND FINAL
+OUTCOMES (Regency A)
+Sponsors: ASA Biometrics Section, ASA Section on
+Statistics in Epidemiology and ASA Biopharmaceutical
+Section
+Organizer: Michael Elliott, University of Michigan
+Chair: Michael Elliott, University of Michigan
+1:45 Assessing Surrogacy in Clinical Trials Using
+Counterfactual Models
+Yun Li*, Jeremy MG Taylor and Michael R. Elliott,
+University of Michigan
+2:15 The Meta-analytic Framework for the Evaluation
+of Surrogate Endpoints in Clinical Trials
+Geert Molenberghs*, Hasselt University-Belgium
+2:45 A Unified Framework for Surrogate Outcomes
+and Markers
+Marshall M. Joffe*, University of Pennsylvania,
+Tom Greene, University of Utah
+3:15 Discussant:
+Donald Rubin, Harvard University
+74. STATISTICAL ANALYSIS OF LARGE-SCALE
+ENVIRONMENTAL DATASETS (Regency B)
+Sponsors: ASA Section on Statistics and the Environment,
+ASA Section on Statistics in Defense and National Security
+and ASA Section on Statistics in Epidemiology
+Organizer: Catherine A. Calder, The Ohio State University
+Chair: Catherine A. Calder, The Ohio State University
+1:45 Cloud Height Estimation Based on Multi-Angle
+Satellite (MISR) Images
+Ethan B. Anderes*, University of California at
+Berkeley
+2:10 Nonstationary Covariance Models for Global Data
+Mikyoung Jun*, Texas A&M University, Michael
+Stein, University of Chicago
+2:35 Integrating Satellite and Monitoring Data
+to Retrospectively Estimate Monthly PM2.5 Concentrations in the Eastern United States
+Christopher J. Paciorek* and Yang Liu, Harvard
+University
+3:00 Dimension Reduction Approaches for Analyzing
+Large Spatial Datasets
+Alan E. Gelfand*, Duke University
+3:25 Floor Discussion
+75. VARIABLE SELECTION AND DIMENSION REDUCTION
+IN GENOMICS (Regency C)
+Sponsors: ENAR, ASA Biometrics Section
+Organizer: Sunduz Keles, University of Wisconsin-Madison
+Chair: Sunduz Keles, University of Wisconsin-Madison
+1:45 Clustering with Multiple Distance Metrics -
+Mixture Models with Profile Transformations.
+Rebecka J. Jornsten*, Rutgers University
+2:15 Sparse Partial Least Squares Regression with an
+Application to Genome Scale Transcription Factor
+Analysis
+Hyonho Chun* and Sunduz Keles, University of
+Wisconsin-Madison
+2:45 Variable Selection for Varying-Coefficients
+Models with Applications to Analysis of Genomic
+Data
+Hongzhe Li* and Lifeng Wang, University of
+Pennsylvania
+3:15 Floor Discussion
+76. TARGETING TREATMENT EFFICACY: FLEXIBLE
+MODELING TO CLINICAL TRIAL DESIGN (Regency D)
+Sponsors: IMS and ASA Biopharmaceutical Section
+Organizer: Michael LeBlanc, Fred Hutchinson Cancer
+Research Center
+Chair: Michael LeBlanc, Fred Hutchinson Cancer
+Research Center
+1:45 A Novel Data Driven Approach to Stage Grouping
+of Esophageal Cancer
+Hemant Ishwaran*, Cleveland Clinic
+2:15 Causal Subgroup Modeling in Cancer Clinical
+Trials
+Mary W. Redman* and Michael L. LeBlanc, Fred
+Hutchinson Cancer Research Center
+Tuesday, March 18 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+2:45 Moving from Correlative Clinical Science to
+Predictive Medicine in Clinical Trial Designs
+Richard M. Simon*, National Cancer Institute
+3:15 Floor Discussion
+77. STATISTICAL LEARNING IN BIOLOGICAL SIGNALS
+AND IMAGES (Washington A)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Organizer: Hernando Ombao, Brown University
+Chair: Hernando Omba, Brown University
+1:45 Detecting Cognitive Fatigue via Mixtures of
+Autoregressive Models
+Raquel Prado*, University of California-Santa Cruz
+2:10 Classification of Biomedical Signals via Multiscale
+Local Stationarity
+Piotr Z. Fryzlewicz*, University of Bristol, Hernando
+Ombao, Brown University
+2:35 Semiparametric Logistic Regression for Genetic
+Pathway Data: Kernel Machines and Generalized
+Linear Mixed Models
+Dawei Liu*, Brown University, Xihong Lin, Harvard
+University, Debashis Ghosh, The Pennsylvania
+State University
+3:00 PfCluster and FCA, and their Applications to
+Profile Data Analysis
+Jiayang Sun*, Case Western Reserve University,
+Yaomin Xu, Case Western Reserve University and
+Cleveland Clinic Foundation
+3:25 Floor Discussion
+78. NONPARAMETRIC REGRESSION FOR SURVIVAL
+ANALYSIS (Washington B)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Zhangsheng Yu, The Ohio State University
+Chair: Sijian Wang, University of Michigan
+1:45 Partially Linear Hazard Regression with Varyingcoefficients
+Jianwen Cai*, University of North Carolina at
+Chapel Hill, Jianqing Fan, Princeton University,
+Jiancheng Jiang, University of North Carolina at
+Charlotte, Haibo Zhou, University of North Carolina
+at Chapel Hill
+2:15 A Partial Linear Semiparametric Additive Risks
+Model for Two-Stage Design Survival Studies
+Gang Li, University of California,-Los Angeles,
+Tong Tong Wu*, University of Maryland, College
+Park
+2:45 Threshold Regression Models with
+Semiparametric Covariate Function for Survival
+Data Analysis
+Zhangsheng Yu* and Mei-Ling Ting Lee, The Ohio
+State University
+3:15 Floor Discussion
+79. CONTRIBUTED PAPERS:CGH ARRAY AND COPY
+NUMBER (Potomac 1)
+Sponsor: ENAR
+Chair: Mingyao Li, University of Pennsylvania
+1:45 DNA Copy Number Abnormal Detection Based
+on Decomposition of Intensity Multimodal
+Distribution
+Aixiang Jiang*, Jirong Long, Wei Zheng and Yu
+Shyr, Vanderbilt University
+2:00 A Bayesian Change-point Algorithm for the
+Analysis of SNP-data
+Fridtjof Thomas*, University of Texas, Stanley
+Pounds, St. Jude Children’s Research Hospital
+2:15 Tolerance Intervals from Probe-specific Mixedmodels
+to Detect Gains and Loses using
+Multiplex Ligation-dependent Probe Amplification
+(MLPA)
+Juan R. Gonzalez*, Center for Research in
+Environmental Epidemiology (CREAL)-Barcelona,
+Spain, Josep L. Carrasco, University of Barcelona-
+Spain, Lluis Armengol, Center for Genomic
+Regulation,-Barcelona, Spain, Yutaka Yasui,
+University of Alberta-Canada
+2:30 Pathway Screening Analysis of Genomic Copy
+Number Change Data
+Stanley B. Pounds*, St. Jude Children’s Research
+Hospital
+2:45 A Latent Class Model with Hidden Markov
+Dependence for Array CGH Data
+Stacia M. DeSantis*, Medical University of
+South Carolina, E.A. Houseman, University of
+Massachusetts-Lowell, Brent A. Coull, Harvard
+University, David N. Louis and Gayatry Mohapatra,
+Massachusetts General Hospital, Rebecca A.
+Betensky, Harvard University
+3:00 A Hybrid Method for Genomic Alteration
+Detection in CGH Microarray Data Analysis
+Ao Yuan, National Human Genome Center-
+Howard University, Wenqing He* and Juan Xiong,
+University of Western Ontario
+3:15 Floor Discussion
+80. CONTRIBUTED PAPERS:BIOPHARMACEUTICAL
+STUDIES (Potomac 2)
+Sponsor: ENAR, ASA Biopharmaceutical Section and ASA
+Section on Statistics in Epidemiology
+Chair: Sung Duk Kim, National Institute of Child Health and
+Human Development
+1:45 Design and Analysis of Alcohol/Benzo Interaction
+Studies
+Daowen Zhang*, North Carolina State University,
+Hui Quan and Zhaoling Meng, Sanofi-Aventis
+2:00 Assessing Drug Interaction when Data Collected
+at Fixed Rays
+Maiying Kong*, University of Louisville, J. Jack
+Lee, M.D. Anderson Cancer Center, University of
+Texas at Houston
+ARLINGTON, VIRGINIA 45
+46 ENAR 2008 Spring Meeting
+Scientific Program
+2:15 Quantifying Combination Drug Synergy using
+Nonlinear Blending
+John J. Peterson*, GlaxoSmithKline
+Pharmaceuticals, R&D
+2:30 Assessing Association in a Stratified Experiment
+Jason Liao* and Daniel Holder, Merck Research
+Laboratories
+2:45 An Algorithm with Genetic Information for
+Warfarin Dosing
+Kerrie Nelson*, University of South Carolina, David
+A. Schoenfeld, Harvard University
+3:00 Semiparametric Bayesian Inference for Phage
+Display Experiments
+Luis G. Leon-Novelo*, Peter Mueller, Kim-Anh Do,
+Renata Pasqualini, Wadih Arap, Mikhail Kolonin and
+Jessica Sun, University of Texas, M.D. Anderson
+Cancer Center
+3:15 Comparing Randomly Right Censored Samples
+Based on Overlap of Distributions
+Michael J. Dallas, Merck & Co., Inc.
+81. CONTRIBUTED PAPERS:POWER ANALYSIS
+(Potomac 3)
+Sponsor: ENAR and ASA Biopharmaceutical Section
+Chair: Sharon Yeatts, Medical University of South Carolina
+1:45 Detecting Qualitative Interaction among
+Subgroups of a Clinical Trial: A Bayesian Approach
+Emine O. Bayman*, The University of Iowa and
+Uludag University-Turkey, Kathryn Chaloner, The
+University of Iowa
+2:00 Selection of the Clinically Relevant Difference for
+Sample Size Determination in a Clinical Trial by
+Matching Bayesian and Frequentist Procedures
+Maria M. Ciarleglio*, V.A. Cooperative Studies
+Program
+2:15 Two-Stage Clinical Trial Designs for Multiple
+Endpoints with Correlated Observations
+Fei Ye* and Yu Shyr, Vanderbilt University
+2:30 Comparison of Two-Phase Analyses for Case-
+Control Genetic
+Gang Zheng, National Heart, Lung and Blood
+Institute, Mark J. Meyer*, American University,
+Wentian Li, Feinstein Institute for Medical Research,
+Manhasset, Yaning Yang*, University of Science and
+Technology of China, Hefei Anhui, China
+2:45 Borrowing Strength in A Simple Hierarchical
+Model
+Xuefeng Li*, U.S. Food and Drug Administration
+3:00 An Efficient Group Size Ratio in Trials with
+Multiple Dose Groups Versus a Common Control
+Jianliang Zhang*, MedImmune, Inc
+3:15 Statistical Methods for Active Extension Trials
+Zonghui Hu* and Dean Follmann, National Institute
+of Allergy and Infectious Diseases
+82. CONTRIBUTED PAPERS:SURVIVAL ANALYSIS - CURE
+RATE MODELS AND RECURRENT EVENTS (Potomac 4)
+Sponsors: ASA Section on Statistics in Epidemiology, ASA
+Biometrics Section and ASA Biopharmaceutical Section
+Chair: Susan Murray, University of Michigan
+1:45 Conditional Mean Gap Time Estimation with
+Recurrent Events
+Adin-Cristian Andrei*, University of Wisconsin-
+Madison
+2:00 Semiparametric Cure Rate Models with Random
+Effects
+Guoqing Diao*, George Mason University,
+Guosheng Yin, The University of Texas-M. D.
+Anderson Cancer Center
+2:15 Optimal Goodness-of-Fit Tests For Recurrent
+Event Data
+Russell S. Stocker*, Mississippi State University,
+Edsel A. Pena, University of South Carolina
+2:30 An Accelerated Failure Time Cure Model for Timeto-
+Event Data with Masked Cause of Failure
+Jing J. Zhang*, Harvard University, Molin Wang,
+Harvard University and Dana-Farber Cancer
+Institute
+2:45 A Bayesian Analysis of Recurrent Events Data
+with Dependent Termination:An Application to
+Heart Transplant Problem
+Bichun Ouyang*, Medical University of South
+Carolina, Debajyoti Sinha, Florida State University,
+Joseph G. Ibrahim, University of North Carolina
+3:00 Flexible Modeling of Additive Treatment Effects
+on the Recurrent Event Mean in the Presence of a
+Terminating Event
+Qing Pan*, George Washington University, Douglas
+E. Schaubel, University of Michigan
+3:15 Nonparametric Method of Mixture Model with
+Prevalent Sampling
+Yu-Jen Cheng*, Mei-Cheng Wang and Noya Galai,
+Johns Hopkins University
+83. CONTRIBUTED PAPERS:EXPERIMENTAL DESIGN
+(Potomac 5)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Martha Nason, National Institute of Allergy and
+Infectious Diseases
+1:45 Optimal and Efficient Designs for Gompertz
+Regression Models
+Gang Li*, GlaxoSmithKline, Dibyen Majumdar,
+University of Illinois at Chicago
+2:00 Is the Continual Reassessment Method a Better
+Phase I Design? A Comprehensive Comparison
+with the Standard 3+3 Dose Escalation Scheme
+Alexia Iasonos* and Elyn Riedel, Memorial Sloan
+Kettering Cancer Center
+2:15 Three-Dose-Cohort Designs in Cancer
+Phase I Trials
+Bo Huang* and Rick Chappell, University of
+Wisconsin-Madison
+Tuesday, March 18 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+2:30 Internal Pilot Designs for Observational Studies
+Matthew J. Gurka*, University of Virginia,
+Christopher S. Coffey, University of Alabama at
+Birmingham
+2:45 Bayesian Adaptively Randomized Clinical Trials in
+the Presence of Patient Heterogeneity
+J. Kyle Wathen*, Mark F. Munsell and Marcos J. de
+Lima, University of Texas-M.D. Anderson Cancer
+Center
+3:00 Rank-based Analysis of Crossover Trials for
+Classic and Novel Designs
+Mary Putt*, University of Pennsylvania
+3:15 Implementing Optimal Allocation for Sequential
+Continuous Responses with Multiple treatments
+Hongjian Zhu* and Feifang Hu, University
+of Virginia
+84. CONTRIBUTED PAPERS:ROC/ DIAGNOSTIC
+METHODS (Potomac 6)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Kyungsook Kim, U.S. Food and Drug Administration
+1:45 Guessing Free-response Process and Empirical
+FROC Curve
+Andriy Bandos*, Howard E. Rockette, David Gur
+and Tao Song, University of Pittsburgh
+2:00 ROC Based Utility Function Maximization for
+Feature Selection and Classification
+Zhenqiu Liu*, University of Maryland Medicine
+2:15 Assessing Agreement Among Acupuncturists in
+TEAMSI Trial
+Anna TR Legedza*, Vertex Pharmaceuticals Inc.,
+Roger B. Davis, Beth Israel Deaconess Medical
+Center and Harvard University
+2:30 Estimate Benefits Due to Fecal Occult Blood Test
+for Colorectal Cancer Screening
+Dongfeng Wu*, University of Louisville, Diane
+Erwin, Information Management Services, Inc.,
+Gary L. Rosner and Lyle D. Broemeling, University
+of Texas, M.D. Anderson Cancer Center
+2:45 Improving the Efficiency of Testing Predictive
+Values using Auxiliary Covariate
+Yoonjin Cho*, North Carolina State University,
+Kosinski Andrezj, Duke univeristy
+3:00 A Transformation-invariant Monotone Smoothing
+of Receiver Operating Characteristic Curves
+Liansheng Tang, George Mason University, Pang
+Du*, Virginia Tech University
+3:15 A Generalized Nonparametric Approach of
+Comparing FROC Systems
+Tao Song*, Andriy Bandos, Howard Rockette
+and David Gur, University of Pittsburgh
+Tuesday, March 18
+3:30—3:45 p.m Refreshment Break and Visit the
+Exhibitors
+3:45—5:30 p.m
+85. IMS MEDALLION LECTURE (Regency A)
+Sponsor: IMS
+Organizer: Ram Tiwari, National Cancer Institute
+Chair: Ram Tiwari, National Cancer Institute
+3:45 Statistical Challenges in Genetic Association
+Studies
+Mary Sara McPeek, University of Chicago
+86. ON FUTILITY CALCULATIONS IN RANDOMIZED
+CLINICAL TRIALS (Regency B)
+Sponsors: ENAR, ASA Biopharmaceutical Section and
+ASA Section on Statistics in Epidemiology
+Organizer: Janet Wittes, Statistics Collaborative
+Chair: Judith Goldberg, New York University
+3:45 Practical Aspects of Some Common Futility Rules
+Boris Freidlin*, National Cancer Institute
+4:15 Formulating and Selecting Futility Rules in a
+Long-Term Trial
+Christy Chuang-Stein*, Michael Brown and Wayne
+Ewy, Pfizer Inc., Cathie Spino, University
+of Michigan
+4:45 Conditional Power Considerations in the Design
+of a Phase 3 Microbicide Trial in Africa
+Jennifer Schumi*, Statistics Collaborative, Inc.,
+Zeda Rosenberg, International Partnership for
+Microbicides, Stephanie Dickinson, Indiana
+Statistical Consulting Center, Janet Wittes,
+Statistics Collaborative, Inc.
+5:15 Discussant:
+Donald A. Berry, University of Texas, M.D.
+Anderson Cancer Center
+87. STATISTICAL METHODS FOR DETECTING COPY
+NUMBER VARIATION (Regency C)
+Sponsor: ENAR
+Organizer: Mahlet Tadesse, Georgetown University
+Chair: Mahlet Tadesse, Georgetown Universtiy
+3:45 Detection of Copy Number Variations From
+High-density SNP Arrays: An Integrated Bayesian
+Hidden Markov Model Approach Incorporating
+Pedigree Information
+Zhen Chen*, University of Pennsylvania, Mahlet
+Tadesse, Georgetown University, Kai Wang and
+Mingyao Li, University of Pennsylvania
+4:15 Estimating Genome-wide Copy Number Using
+Allele Specific Mixture Models
+Shin Lin*, Benilton Caravalho, Wenyi Wang,
+Aravinda Chakravarti, and Rafael Irizarry, Johns
+Hopkins University
+4:45 Circular Binary Segmentation for the Analysis of
+Array CGH Data
+Venkatraman E. Seshan*, Columbia University,
+Adam Olshen, Memorial Sloan Kettering Cancer
+Center
+ARLINGTON, VIRGINIA 47
+48 ENAR 2008 Spring Meeting
+Scientific Program
+5:15 Discussant:
+Mingyao Li, University of Pennsylvania
+88. CHALLENGES IN LARGE, SIMPLE TRIALS (Regency D)
+Sponsors: ENAR, ASA Biopharmaceutical Section and
+ASA Section on Statistics in Epidemiology
+Organizer: Jesse A. Berlin, Johnson & Johnson
+Pharmaceutical Research and Development
+Chair: Jesse A. Berlin, Johnson & Johnson Pharmaceutical
+Research and Development
+3:45 Introduction to Large, Simple Trials: What
+are They and When Should They be Done
+(or Not Done)?
+Julie E. Buring*, Harvard University
+4:15 Practical Challenges to Keeping the Simple in
+Large, Simple Studies
+James D. Neaton*, University of Minnesota
+4:45 On Sequential Monitoring and Inference of Safety
+Endpoints
+Qing Liu*, Johnson & Johnson Pharmaceutical
+Research and Development
+5:15 Discussant:
+Susan Ellenberg, University of Pennsylvania
+89. MULTISTATE APPROACH TOWARDS MODELING
+COMPLEX BIOMEDICAL DATA (Washington A)
+Sponsors ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Organizer: Rajeshwari Sundaram, National Institute of
+Child Health and Human Development
+Chair: Rajeshwari Sundaram, National Institute of Child
+Health and Human Development
+3:45 Regression Analysis for Multistate Models Based
+on a Pseudo-value Approach, with Applications
+to Bone Marrow Transplantation Studies
+John P. Klein*, Medical College of Wisconsin
+4:15 Nonparametric Estimation of State Waiting Time
+Distributions in a Markov Multistate Model
+Somnath Datta* and Ling Lan, University of
+Louisville, Rajeshwari Sundaram, National Institute
+of Child Health and Development
+4:45 Joint Modeling of HIV Mutations and Failure
+Time Data
+Chengcheng Hu*, Harvard University
+5:15 Floor Discussion
+90. INFORMING HEALTH POLICY DECISIONS: BEST TEST
+STRATEGIES FOR COLORECTAL CANCER SCREENING
+(Washington B)
+Sponsors: ENAR, ASA Health Policy Statistics Section and
+ASA Section on Statistics in Epidemiology
+Organizer: Ann G. Zauber, Memorial Sloan-Kettering
+Cancer Center
+Chair: Sujata Patil, Memorial Sloan-Kettering Cancer Center
+3:45 Microsimulation Modeling of Colorectal Cancer to
+Inform Screening Guidelines
+Ann G. Zauber*, Memorial Sloan-Kettering Cancer
+Center, Iris Lansdorp-Vogelaar and Janneke
+Wilschut, Erasmus University-The Netherlands,
+Amy Kundsen, Massachusetts General Hospital,
+Marjolein van Ballegooijen, Erasmus University-
+The Netherlands, Martin Brown, National Cancer
+Institute, Karen M. Kuntz, University of Minnesota
+4:10 The Methodology and Advantages of
+Comparative Modeling in Microsimulation
+Analyses
+Iris Lansdorp-Vogelaar*, Erasmus University-The
+Netherlands, Ann G. Zauber, Memorial Sloan-
+Kettering Cancer Center, Janneke Wilschut
+Erasmus University-The Netherlands, Amy
+Knudsen, Massachusetts General Hospital,
+Marjolei van Ballegooijen, Erasmus University- The
+Netherlands, and Karen M. Kuntz, University of
+Minnesota
+4:35 Comparative Effectiveness of Colorectal Cancer
+Screening Strategies
+Karen M. Kuntz*, University of Minnesota,
+Iris Lansdorp-Vogelaar and Janneke Wilschut,
+Erasmus University-The Netherlands, Amy B.
+Knudsen, Massachusetts General Hospital,
+Marjolein van Ballegooijen, Erasmus University-
+The Netherlands, Ann G. Zauber, Memorial Sloan-
+Kettering Cancer Center
+5:00 Potential Impact of Microsimulation Modeling
+of Best Test Scenarios for Colorectal Cancer
+Screening on Health Policy Recommendations
+Martin L. Brown*, National Cancer Institute
+5:25 Floor Discussion
+91. CONTRIBUTED PAPERS:QUANTITATIVE TRAIT LOCI
+MAPPING (Potomac 1)
+Sponsor: ENAR
+Chair: Heping Zhang, Yale University
+3:45 Asymptotic Test of Mixture Model and its
+Applications to QTL Interval Mapping
+Dong-Yun Kim*, Virginia Tech University, Yuehua
+Cui, Michigan State University
+4:00 Bayesian Semiparametric Multiple Quantitative
+Trait Loci (QTL) Mapping
+Fei Zou*, University of North Carolina at Chapel
+Hill, Fuxia Cheng, Illinois State University, Haibo
+Zhou, University of North Carolina at Chapel Hill,
+Ina Hoeschele, Virginia Tech University, Hanwen
+Huang, University of North Carolina at Chapel Hill
+4:15 Genetic Mapping of Quantitative Trait Loci in
+Autotetraploids
+Jiahan Li* and Rongling Wu, University of Florida
+4:30 Modeling a Non-separable Covariance Structure
+in High-dimensional Functional Mapping of
+Quantitative Traits
+John Stephen Yap* and Rongling Wu, University of
+Florida
+Tuesday, March 18 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+4:45 Mapping Quantitative Trait Nucleotides Encoding
+Complex Diseases in a Natural Population with
+Family Structure
+Qin Li* and Arthur Berg, Rongling Wu, University
+of Florida
+5:00 Bayesian QTL Mapping for Multiple Traits
+Samprit Banerjee * and Nengjun Yi, University of
+Alabama at Birmingham
+5:15 A Statistical Model for Characterizing cis- and
+trans-acting Regulation by eQTL
+Yao Li*, Jianhan Li and Ronglin Wu, University of
+Florida
+92. CONTRIBUTED PAPERS:APPLIED DATA ANALYSIS
+(Potomac 2)
+Sponsors: ENAR, ASA Section on Teaching Statistics in
+the Health Sciences, ASA Statistical Education and ASA
+Section on Statistics in Epidemiology
+Chair: Marc Aerts, University of Hasselt, Belgium
+3:45 Changing Approaches of Prosecutors Towards
+Juvenile Repeated Sex-offenders: A Bayesian
+Evaluation
+Dipankar Bandyopadhyay*, Medical University
+of South Carolina, Debajyoti Sinha, Florida State
+University, Stuart Lipsitz, Brigham and Women’s
+Hospital, Elizabeth Letourneau, Medical University
+of South Carolina
+4:00 Variance Estimation in Regression Models
+Eugenio Andraca-Carrera* and Bahjat F. Qaqish,
+University of North Carolina at Chapel Hill
+4:15 Limiting the Impact of Influential Observations in
+Linear Regression Via Weight Functions
+Tamekia L. Jones* and David T. Redden, University
+of Alabama at Birmingham
+4:30 Genotype Adjusted Familial Correlation Analysis
+Using Three Generalized Estimating Equations
+Hye-Seung Lee*, University of South Florida,
+Myunghee Cho Paik and Joseph H. Lee, Columbia
+University
+4:45 Directional Dependence of Truncation Invariant
+FGM Copula Functions
+Yoon-Sung Jung*, Kansas State University,
+Jong-Min Kim and Engin A. Sungur, University of
+Minesota at Morris
+5:00 Practical Application of Statistics in Clinical
+Studies
+Jay Mandrekar*, Mayo Clinic College of Medicine
+5:15 Experiences in a Masters-Level Course in
+Biostatistical Consulting
+Stephen W. Looney* and Jennifer L. Waller,
+Medical College of Georgia
+93. CONTRIBUTED PAPERS:LONGITUDINAL MODELSDISCRETE
+(Potomac 3)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: Kathleen Wannemuehler, Centers for Disease
+Control and Prevention
+3:45 Analysis of the Second Longitudinal Study of
+Aging
+Hyokyoung Hong*, University of Illinois at
+Urbana-Champaign
+4:00 Marginalized Models for Longitudinal Count Data
+Keunbaik Lee*, Louisiana State University-Health
+Science Center, Michael Daniels and Yongsung
+Joo, University of Florida
+4:15 Likelihood Analysis of Joint Marginal
+and Conditional Models for Longitudinal
+Categorical Data
+Baojiang Chen*, Grace Y. Yi and Richard J. Cook,
+University of Waterloo
+4:30 Integer-valued Autoregressive Models for
+Analysis of Longitudinal Count Data
+Mohamed Alosh*, U.S. Food and Drug
+Administration
+4:45 A Non-homogeneous Markov Process Model
+for Alzheimer’s Disease Progression
+Rebecca A. Hubbard* and Xiao-Hua Zhou,
+University of Washington
+5:00 Semiparametric Models for Bivariate Panel
+Count Data
+Li-Yin Lee* and KyungMann Kim, University
+of Wisconsin
+5:15 Testing the Effect of an Exposure on Longitudinal
+Binary Outcomes when Events Are Rare
+Xiaonan Xue*, Mimi Y. Kim, Tao Wang and Howard
+D. Strickler, Albert Einstein College of Medicine
+94. CONTRIBUTED PAPERS:SURVIVAL ANALYSIS -
+COMPETING RISKS (Potomac 4)
+Sponsors: ENAR, ASA Section on Risk Analysis and
+ASA Biometrics Section
+Chair: Adin-Cristian Andrei, University of
+Wisconsin-Madison
+3:45 Regression Analysis for Bivariate Failure Time
+Associations in the Presence of a Competing Risk
+Jing Ning*, M.D. Anderson Cancer Center, Karen
+Bandeen-Roche, Johns Hopkins University
+4:00 Classification Trees for Survival Data with
+Competing Risks
+Fiona M. Callaghan*, Chung-Chou H. Chang,
+University of Pittsburgh
+4:15 Multi-cancer Emergence Rate Estimation with
+Scheduled Diagnoses: A Transition Probability
+Approach
+Junfeng Liu* and Weichung Joe Shih, University of
+Medicine and Dentistry of New Jersey and Cancer
+Institute of New Jersey
+4:30 Multiple Imputation Inspired by Pseudo-Value
+Approach for Censored Survival Data
+Lyrica X. Liu*, Susan Murray and Alex Tsodikov,
+University of Michigan
+ARLINGTON, VIRGINIA 49
+50 ENAR 2008 Spring Meeting
+Scientific Program
+4:45 Testing and Estimation of Time-Varying
+Cause-Specific Hazard Ratios with Covariate
+Adjustment
+Yanqing Sun, University of North Carolina at
+Charlotte, Seunggeun Hyun*, University of South
+Carolina Upstate, Peter Gilbert, Fred Hutchinson
+Cancer Research Center and University of
+Washington
+5:00 Bayesian Semi-parametric Regression Under
+Competing Risks Setting
+Xiaolin Fan*, and Purushottam W. Laud, Medical
+College of Wisconsin
+5:15 Nonparametric Estimation of Cause-specific
+Cross Hazard Ratio with Bivariate Competing
+Risks Data
+Yu Cheng*, University of Pittsburgh, Jason P. Fine,
+University of Wisconsin-Madison
+95. CONTRIBUTED PAPERS:CLINICAL TRIALS - GENERAL
+(Potomac 5)
+Sponsors: ASA Health Policy Statistics Section,
+ASA Section on Statistics in Epidemiology and ASA
+Biopharmaceutical Section
+Chair: Valerie Durkalski, Medical University of South
+Carolina
+3:45 Predicting the Duration of a Sequential Trial from
+Interim Blinded Data
+W. J. Hall*, University of Rochester
+4:00 On Non-inferiority Assessment from Binary Data
+in the Combination of 2 by 2 Tables
+Kallappa M. Koti*, U.S. Food and Drug
+Administration
+4:15 A Survey of the Likelihood Approach to
+Bioequivalence
+Leena Choi*, Vanderbilt University, Brian Caffo and
+Charles Rohde, Johns Hopkins University
+4:30 Bayesian Screening for Pharmacogenetic Effects
+in Clinical Trials
+Mengye Guo* and Daniel F. Heitjan, University of
+Pennsylvania
+4:45 Statistical Modeling and Graphical Analysis of
+Safety Data in Clinical Trials
+Michael O’Connell*, Insightful, Dawn Woodard,
+Duke University
+5:00 Assessment of Key Factors for Overall Health
+Related Quality of Life
+Peng Zhao*, University of Southern California
+5:15 Benefit in Progression-free Survival (PFS) with
+a Genasense-dacarbazine (Genasense-DTIC)
+Regimen in Advanced Melanoma: A Case Study
+on Assessment symmetry
+Richard Kay*, R.K. Statistics-United Kingdom,
+Erard Gilles and Jane Wu, Genta Incorporated,
+Alexander M.M. Eggermont, Erasmus University
+Medical Center-The Netherlands
+96. CONTRIBUTED PAPERS:METHODS IN SPATIAL
+MODELING (Potomac 6)
+Sponsors: ENAR, ASA Section on Statistics and the
+Environment and ASA Section on Statistics in Defense and
+National Security
+Chair: Ronald Gangnon, University of Wisconsin-Madison
+3:45 Hierarchical Models for Large Spatially-referenced
+Binary Data with an Application to Survival of
+Tropical Tree Seedlings
+Sang Mee Lee*, Sudipto, Banerjee and Liza
+Comita, University of Minnesota
+4:00 Ramps: An R Package for Unified Geostatistical
+Modeling of Complex Spatiotemporal Data
+Brian J. Smith*, University of Iowa, Jun Yan,
+University of Connecticut, Mary K. Cowles,
+University of Iowa
+4:15 Smoothed ANOVA with Spatial Effects as a
+Competitor to MCAR in Multivariate Spatial
+Smoothing
+Yufen Zhang*, James S. Hodges and Sudipto
+Banerjee, University of Minnesota
+4:30 Mining Edge Effects in Areally Referenced Spatial
+Data: A Bayesian Model Choice Approach
+Pei Li*, Sudipto Banerjee and Alexander M.
+McBean, University of Minnesota
+4:45 Nonstationary Spatial Gaussian Markov Random
+Field Priors
+Yu Yue* and Paul L. Speckman, University of
+Missouri-Columbia
+5:00 Logistic Joinpoint Regression Models in Cohort
+Studies
+Ryan Gill* and Grzegorz Rempala, University of
+Louisville
+5:15 Consistent Nonparametric Intensity Estimation
+for Inhomogeneous Spatial Point Processes
+Yongtao Guan*, Yale University
+Wednesday, March 19
+8:30—10:15 a.m.
+97. COLLABORATION IN HIV RESEARCH: TWO CASE
+STUDIES (Regency A)
+Sponsors: ENAR, ASA Section on Statistics in
+Epidemiology and ASA Biopharmaceutical Section
+Organizers: Misrak Gezmu, National Institute of Allergy and
+Infectious Diseases & Marie Davidian, North Carolina State
+University
+Chair: Misrak Gezmu, National Institute of Allergy and
+Infectious Diseases
+8:30 Using Mathematical-Statistical Modeling to
+Inform the Design of HIV Treatment Strategies
+and Clinical Trials
+Eric S. Rosenberg*, Clinician/Scientist,
+Massachusetts General Hospital and Harvard
+University, Marie Davidian*, Statistician, North
+Carolina State University
+Tuesday, March 18 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+9:20 Modeling and Estimation of Kinetic Parameters
+and Replicative Fitness of HIV-1 from Flow-
+Cytometry-Based Growth Competition
+Experiments
+Carrie Dykes*, Clinician/Scientist and Hulin Wu*,
+Statistician, University of Rochester
+10:00 Discussant:
+Susan Plaeger, National Institute of Allergy and
+Infectious Diseases
+98. JOINT MODELING APPROACHES FOR
+LONGITUDINAL DATA UNDER COMPLEX STUDY
+DESIGNS (Regency B)
+Sponsors: ASA Health Policy Statistics Section, ASA
+Biometrics Section and ASA Survey Research Methods
+Section
+Organizer: Yulei He, Harvard University
+Chair: Chiu-Hsieh Hsu, University of Arizona
+8:30 Case-control Studies with Longitudinal
+Covariates
+Honghong Zhou*, Schering-Plough Corporation,
+Bin Nan, University of Michigan, Xihong Lin,
+Harvard University
+9:00 Modeling Multivariate Latent Trajectories as
+Predictors of a Univariate Outcome
+Sujata Patil*, Memorial Sloan Kettering Cancer
+Center, Trivellore E. Raghunathan and Jean T.
+Shope, University of Michigan
+9:30 Statistical Methods for Adjusting Selection Bias
+in Longitudinal Survey Studies in Aging Research
+Wen Ye*, University of Michigan
+10:00 Floor Discussion
+99. MULTI-TASK LEARNING FOR BORROWING
+INFORMATION FROM DISPARATE DATA SOURCES
+(Regency C)
+Sponsors: ENAR and ASA Section on Statistics in Defense
+and National Security
+Organizer: Amy Herring, University of North Carolina at
+Chapel Hill
+Chair: Amy Herring, University of North Carolina at
+Chapel Hill
+8:30 Semiparametric Bayes Borrowing of Strength in
+Related Analyses
+David B. Dunson*, National Institute of
+Environmental Health Sciences
+9:00 What Next in Gene Set Analysis?
+Giovanni Parmigiani*, Luigi Marchionni and Sierra
+Li, Johns Hopkins University, Dongmei Liu, London
+School of Hygiene and Tropical Medicine, Leslie
+Cope, Johns Hopkins University
+9:30 Estimating Variable Structure and Dependence in
+Multi-task Learning via Gradients
+Sayan Mukherjee*, Duke University
+10:00 Floor Discussion
+100. DYNAMIC TREATMENT REGIMES: PRACTICE AND
+THEORY (Regency D)
+Sponsors: IMS, ASA Biometrics Section, ASA
+Biopharmaceutical Section
+Organizer: Peter F. Thall, M.D. Anderson Cancer Center
+Chair: Ken Cheung, Columbia University
+8:30 A Two-Stage Selection Trial with Intrapatient
+Sequential Randomization in Prostate Cancer
+Randall E. Millikan*, Peter F. Thall and Sijin Wen,
+M. D. Anderson Cancer Center
+8:55 Two-Stage Treatment Strategies Based on
+Sequential Failure Times
+Peter F. Thall*, Leiko H. Wooten, Nizar Tannir,
+Randall E. Millikan and Christopher Logothetis,
+M.D. Anderson Cancer Center
+9:20 Screening Experiments for Dynamic Treatment
+Regimes
+Susan Murphy*, University of Michigan, Derek
+Bingham, Simon Fraser University
+9:45 Optimal Treatment and Testing Strategies with
+Possibly Non-ignorable Observation Processes
+Andrea Rotnitzky*, Di Tella University-Argentina
+and Harvard University, James Robins, Harvard
+University, Liliana Orellana, Facultad de Ciencias
+Exactas, Universidad de Buenos Aires, Miguel
+Hernan, Harvard University
+10:10 Floor Discussion
+101. TEXT DATA MINING (Washington A)
+Sponsors: ASA Section on Statistics in Defense and
+National Security and ENAR
+Organizer: David Marchette, Naval Surface Warfare Center
+Chair: David Marchette, Naval Surface Warfare Center
+8:30 GO-Driven Literature-based Discovery Using
+Semantic Analysis
+Anthony E. Zukas*, Science Applications
+International Corporation, Jeffrey L. Solka, George
+Mason University, Jennifer W. Weller, University
+of North Carolina-Charlotte
+9:00 Text Analysis with Iterative Denoising
+Kendall Giles*, Virginia Commonwealth University,
+David Marchette, Naval Surface Warfare Center,
+Carey Priebe, Johns Hopkins University
+9:30 Tracking Trends in Health Articles
+Elizabeth L. Hohman*, Naval Surface
+Warfare Center
+10:00 Discussant: Wendy Martinez, Office of
+Naval Research
+102. NONPARAMETRIC BAYES: THE PRACTICAL USE
+FOR GENOMIC DATA (Washington B)
+Sponsors: ASA Biometrics Section and ENAR
+Organizer: Sinae Kim, University of Michigan
+Chair: Sinae Kim, University of Michigan
+8:30 Using Gene Annotation as Prior Information in
+Bayesian Nonparametric Models
+David B. Dahl*, Texas A&M University
+ARLINGTON, VIRGINIA 51
+52 ENAR 2008 Spring Meeting
+Scientific Program
+8:55 Nonparametric Graphical Models With
+Applications to Microarray Experiments
+Abel Rodriguez*, University of California, Santa
+Cruz
+9:20 A Gaussian Process Modeling Approach to
+Survival Data with Bayesian Variable Selection
+Naijun Sha*, The University of Texas at El Paso,
+Marina Vannucci, Rice University
+9:45 Integrative Dirichlet Process Mixtures for
+Constructing Transcriptional Modules
+Mario Medvedovic*, Xiandgong Liu and Siva
+Sivaganesan, University of Cincinnati
+10:10 Floor Discussion
+103. CONTRIBUTED PAPERS:METHODS IN CAUSAL
+INFERENCE (Potomac 1)
+Sponsors: ENAR and ASA Section on Statistics in
+Epidemiology
+Chair: Darryl Downing, GlaxoSmithKline
+8:30 Evaluating Longitudinal Treatments Using
+Regression Models on Propensity Scores
+Aristide CE Achy-Brou*, Constantine Frangakis,
+and Michael Griswold, Johns Hopkins University
+8:45 Structural Principal Effects Models for
+Randomized Trials with Continuous Measures of
+Compliance
+Yan Ma*, University of Rochester, Jason Roy,
+Geisinger Center for Health Research
+9:00 Causal Inference in Mediator Analysis: Old
+Problems and New Solutions
+Andreas G. Klein*, University of Western Ontario,
+Canada
+9:15 Compare Median Treatment Difference in Causal
+Inference
+Jing Qin*, National Institute of Allergy and
+Infectious Diseases
+9:30 Confounding in Observational Studies Comparing
+Propensity Score and Traditional Regression
+Analyses
+Megan E. Price*, Vicki Hertzberg and Michael
+Frankel, Emory University
+9:45 Optimal Propensity Score Stratification
+Jessica A. Myers* and Thomas A. Louis, Johns
+Hopkins University
+10:00 A Mixture Model Approach to Assessing the
+Performance of Instrument Variable Analysis in
+Measuring the Effect of Hormone Therapy on
+Prostate Cancer Survival
+Dirk F. Moore*, University of Medicine and
+Dentistry New Jersey, Grace Lu-Yao, Cancer
+Institute of New Jersey
+104. CONTRIBUTED PAPERS:BIOASSAY AND CANCER
+APPLICATIONS (Potomac 2)
+Sponsors: ENAR and ASA Biometrics Section
+Chair: John Peterson, GlaxoSmithKline
+8:30 Stochastic and State Space Models of Human Eye
+Cancer
+W. Y. Tan, University of Memphis, H. Zhou*,
+Arkansas State University
+8:45 Improving Biological Plausibility of Classification
+Trees for Cancer Research
+Douglas Landsittel*, Duquesne University, Megan
+McLaughlin, Independent Consultant, Anna
+Lokshin, University of Pittsburgh
+9:00 On the Robustness of the Ploy-k Test for Life Time
+Animal Studies
+Mulugeta G. Gebregziabher* and David Hoel,
+Medical University of South Carolina
+9:15 Interval Approach to Assessing Antitumor
+Activity for Tumor Xenograft Studies
+Jianrong Wu*, St Jude Children’s Research
+Hospital
+9:30 Comparison of Properties of Tests for Assessing
+Tumor Clonality
+Irina Ostrovnaya* Memorial Sloan-Kettering
+Cancer Center, Venkatraman Seshan, Columbia
+University, Colin Begg, Memorial Sloan-Kettering
+Cancer Center
+9:45 Detecting Group Differences With Right-Censored
+Counts From Serial Dilution Assays
+Tim Bancroft* and Dan Nettleton, Iowa State
+University
+10:00 An Optimal Dilution Experiment Design for
+Sample DNA Concentration Estimation
+Ming Li*, Robbert Slebos and Yu Shyr, Vanderbilt
+University Medical Center
+105. CONTRIBUTED PAPERS:MISSING DATA AND
+IMPUTATION (Potomac 3)
+Sponsors: ASA Survey Research Methods Section, ASA
+Section on Statistics in Epidemiology and ASA Biometrics
+Section
+Chair: Kimberly Drews, George Washington University
+8:30 Estimating Spatial Intensity from Locations
+Coarsened by Incomplete Geocoding
+Dale L. Zimmerman*, University of Iowa
+8:45 Imputation Model Assessment Using Posterior
+Predictive Checking
+Yulei He* and Alan M. Zaslavsky, Harvard Medical
+School
+9:00 Sequential Semi and Nonparametric Regression
+Multiple Imputations
+Irina Bondarenko* and Trivellore Raghunathan,
+University of Michigan
+9:15 Imputation Adjusted for Covariate for
+Nonrespondents with Applications
+Juan Li* Amgen Inc., Shein-Chung Chow, Duke
+University, Amy Feng, Amgen Inc., Jr-Rung Lin,
+Duke University, Eric Chi, Amgen Inc.
+9:30 Fractional Imputation for Categorical Variables
+with Missing Values
+Michael D. Larsen*, Iowa State University
+Wednesday, March 19 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+9:45 Multiple Imputation Methods for Treatment
+Noncompliance and Missing Data in Clustered
+Encouragement Design Studies
+Leslie L. Taylor*, University of Washington and
+Axio Research, Xiao-Hua Zhou, University of
+Washington
+10:00 Multiple Imputation of Ordinal and Count
+Outcomes in a Multiple Sclerosis Clinical Trial
+Using Data at Dropout
+Peter B. Imrey* and John Barnard, Cleveland Clinic
+at Case Western Reserve University, Matthew
+Karafa, Cleveland Clinic Foundation
+106. CONTRIBUTED PAPERS:LONGITUDINAL MODELSCONTINUOUS
+(Potomac 4)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Renee Moore, University of Pennsylvnia
+8:30 The Mixture of Nonlinear Models for Gastric
+Emptying Studies
+Inyoung Kim*, Virginia Tech University, Noah D.
+Cohen, Allen Roussell, and Naisyin Wang, Texas
+A & M University
+8:45 Comparisons of Methods for Handling Missing
+Continuous Longitudinal Outcome with Mixed
+Effects Models
+Tulay Koru-Sengul*, McMaster University-Canada
+9:00 Modeling Covariance Structure in Unbalanced
+Longitudinal Data
+Min Chen*, Texas A&M University
+9:15 The GLM with a Generalized AR(1) Covariance
+Structure
+Sean L. Simpson* and Lloyd J. Edwards,
+University of North Carolina at Chapel Hill, Keith
+E. Muller, University of Florida, Pranab K. Sen,
+University of North Carolina at Chapel Hill
+9:30 Nonparametric Estimation for Conditional
+Distribution Functions and Time-Varying
+Transformation Models with Longitudinal Data
+Colin O. Wu, Xin Tian* and Jarvis Yu, National
+Heart, Lung and Blood Institute
+9:45 Inference for Censored Quantile Regression
+Models in Longitudinal Studies
+Huixia Judy Wang*, North Carolina State
+University, Mendel Fygenson, University of
+Southern California
+10:00 Characterization of Variability in Longitudinal
+Data Using the Spectrum
+Wei Yang*, Marshall Joffe and Steven Brunelli,
+University of Pennsylvania School of Medicine
+107. CONTRIBUTED PAPERS:BAYESIAN AND MULTILEVEL
+SURVIVAL ANALYSIS (Potomac 5)
+Sponsors: ENAR and ASA Section on Statistics in
+Epidemiology
+Chair: Dennis O. Dixon, National Institute of Allergy and
+Infectious Diseases
+8:30 Hierarchical Dynamic Time-to-Event Models for
+Post-treatment Preventive Care Data on Breast
+Cancer Survivors
+Freda W. Cooner*, U.S. Food and Drug
+Administration, Xinhua Yu, Sudipto Banerjee,
+Patricia L. Grambsch and A. Marshall McBean,
+University of Minnesota
+8:45 Bayesian Semiparametric Modeling using
+Mixtures for Stratified Survival Data
+Bo Cai*, University of South Carolina, Renate
+Meyer, University of Auckland
+9:00 A Transformation Approach for the Analysis of
+Interval-censored Failure Time Data
+Liang Zhu*, University of Missouri, Xingwei Tong,
+Beijing Normal University, Jianguo Sun, University
+of Missouri
+9:15 Bayesian Threshold Regression with Random
+Effects
+Michael L. Pennell* and Mei-Ling Ting Lee, The
+Ohio State University
+9:30 The Application of the Bayesian Dynamic Survival
+Model
+Jianghua He*, University of Kansas Medical
+Center, Daniel L. McGee and Xufeng Niu, Florida
+State University
+9:45 Linear Regression Analysis of Survival Data from
+Stratified Case-cohort Studies
+Lan Kong*, University of Pittsburgh, Jianwen Cai,
+University of North Carolina at Chapel Hill
+10:00 On Risk Reversal Due to Heterogeneity
+David Oakes*, University of Rochester
+108. CONTRIBUTED PAPERS:MULTIPLE TESTING IN
+GENOMICS (Potomac 6)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Xiaonan Xue, Albert Enstein College of Medicine
+8:30 A Sequential Testing Procedure for Detection
+of Association Between Disease and Haplotype
+Blocks: A Simulation Study
+Andres Azuero* and David T. Redden, University
+of Alabama at Birmingham
+8:45 A Parametric Permutation Test for Regression
+Coefficients in LASSO Regularized Regression for
+High Dimensional Data
+Michael C. Wu*, Tianxi Cai and Xihong Lin,
+Harvard School of Public Health
+9:00 Empirical Bayes Modeling with Optimal
+Discovery Procedure for Improved Significance
+Testing of Microarray Data
+Xiting Cao* and Baolin Wu, University of
+Minnesota
+9:15 A Flexible Bayesian Framework for Large Scale
+Simultaneous Testing
+Seungbong Han*, Adin Cristian Andrei and Kam
+Wah Tsui, University of Wisconsin - Madison
+ARLINGTON, VIRGINIA 53
+54 ENAR 2008 Spring Meeting
+Scientific Program
+9:30 Two-Stage Group Sequential Robust Tests in
+Family-Based Association Studies: Controlling
+Type I Error
+Lihan K. Yan*, George Washington University; The
+EMMES Corporation, Gang Zheng, National Heart,
+Lung and Blood Institute, Zhaohai Li, George
+Washington University, National Institute of Child
+Health and Human Development
+9:45 Improved Estimation of False Discovery Rates
+Based on Subsampling with Applications to
+Microarray Data
+Long Qu*, Dan Nettleton and Jack CM Dekkers,
+Iowa State University
+10:00 Data Complexity Dependence of False Discovery
+Rate Estimates in Differential Gene Selection
+Procedures
+Michael G.. Schimek*, Medical University of
+Graz-Austria, Tomas Pavlik, Masaryk University
+Czech Republic
+Wednesday, March 19
+10:15—10:30 a.m. Refreshment Break and Visit the
+Exhibitors
+10:30 a.m.—12:15 p.m.
+109. ADVANCES IN THE DESIGN AND ANALYSIS OF
+RANDOMIZED CLINICAL TRIALS (Regency A)
+Sponsors: ENAR, ASA Biopharmaceutical Section and
+ASA Section on Statistics in Epidemiology
+Organizer: Vance Berger, National Cancer Institute
+Chair: Kirsten Doehler, University of North Carolina-
+Greensboro
+10:30 Re-formulating Non-inferiority Trials as
+Superiority Trials: The Case of Binary Outcomes
+Valerie Durkalski*, Medical University of South
+Carolina, Vance Berger, National Cancer Institute
+10:55 Placebo Effects or Medication Compliance?
+William Grant*, James Madison University
+11:20 Enrollment Projections: Estimating with
+Confidence
+Venita DePuy*, INC Research, Inc.
+11:45 Selection Bias and Covariate Imbalance in
+Randomized Clinical Trials
+Vance Berger*, National Cancer Institute
+12:10 Floor Discussion
+110. RECENT ADVANCES IN GRAPHS/GRAPHICAL
+MODELS FOR GENETIC NETWORK ANALYSIS
+(Regency B)
+Sponsors: ENAR and ASA Biometrics Section
+Organizer: Jie Peng, University of California-Davis
+Chair: Fan Li, Harvard Medical School
+10:30 Network Structure Inference in Biology
+Wing H. Wong*, Stanford University
+11:00 The Modal Oriented Stochastic Search for
+Graphical Models
+Adrian Dobra*, University of Washington
+11:30 High Dimensional Graphs Inference by Sparse
+Regression
+Jie Peng*, University of California-Davis, Pei Wang,
+Fred Hutchinson Cancer Research Center, Ji Zhu,
+University of Michigan
+12:00 Floor Discussion
+111. NEW STATISTICAL METHODS FOR BIOMEDICAL
+IMAGING DATA (Regency C)
+Sponsors: ENAR, ASA Biopharmaceutical Section and
+ASA Biometrics Section
+Organizer: Ying Guo, Emory University
+Chair: F. DuBois Bowman, Emory University
+10:30 Statistical Analysis of Neuroimaging Data using
+Adjusted Exponetially Tilted Likelihood
+Hongtu Zhu* and Haibo Zhou, University of North
+Carolina at Chapel Hill, Jiahua Chen, University
+of British Columbia- Canada, Yimei Li and Martin
+Styner, University of North Carolina at Chapel Hill
+10:55 Analyzing High Temporal Resolution fMRI data
+Martin A. Lindquist*, Columbia University
+11:20 Pharmacologic Imaging Using Principal Curves in
+Single Photon Emission Computed Tomography
+Brian S. Caffo*, Johns Hopkins University,
+Lijuan Deng, Boston Scientific Company, Ciprian
+Crainiceanu and Craig Hendrix, Johns Hopkins
+University
+11:45 A Unified Framework for Group Independent
+Component Analysis for Multi-subject fMRI Data
+Ying Guo*, Rollins School of Public Health,
+Emory-University
+12:10 Floor Discussion
+112. STATISTICAL CHALLENGES IN GENOMEWIDE
+ASSOCIATION STUDIES (Regency D)
+Sponsors: IMS, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Organizer: Danyu Lin, University of Michigan
+Chair: Danyu Lin, University of Michigan
+10:30 Searching for Disease Susceptibility Variants in
+Structured Populations
+Kathryn Roeder*, Carnegie Mellon University
+11:00 Are We Ready to Look at Copy Number Variation
+in Whole-genome Association Studies?
+Eleanor Feingold*, University of Pittsburgh
+11:30 Using Genotype Imputation to Combine Data
+Across Studies
+Goncalo Abecasis*, Yun Li and Paul Scheet,
+University of Michigan
+12:00 Floor Discussion
+Wednesday, March 19 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+113. RECENT ADVANCES IN ANALYZING BIOMARKER
+DATA WITH LIMITS OF DETECTION (Washington A)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Organizer: Paul Albert, National Cancer Institute
+Chair: Zonghui Hu, National Institutes of Health
+10:30 Relating a Reproductive Health Outcome to
+Subject-specific Features Based on Left- or
+Interval-censored Longitudinal Exposure Data
+Kathleen A. Wannemuehler*, Centers for Disease
+Control and Prevention, Robert H. Lyles, Amita K.
+Manatunga, Renee H. Moore, Metricia L. Terrell
+and Michele Marcus, Emory University
+11:00 A Bayesian Approach Estimating Treatment
+Effects on Biomarkers Containing Zeros with
+Detection Limits
+Haitao Chu*, University of North Carolina at Chapel
+Hill, Lei Nie, Georgetown University, Thomas W.
+Kensler, Johns Hopkins University
+11:30 A Combined Efficient Design Based on Data
+Subject to Detection Limit
+Enrique F. Schisterman*, National Institute of Child
+Health and Development, Albert Vexler, The State
+University of New York at Buffalo
+12:00 Discussant:
+Jim Hughes, University of Washington
+114. BIOLOGICAL APPLICATIONS OF MACHINE
+LEARNING (Washington B)
+Sponsor: ENAR
+Organizer: Sayan Mukherjee, Duke University
+Chair: Sayan Mukherjee, Duke University
+10:30 Modeling and Detection of Spatial Patterns of
+Brain Activation from fMRI Data
+Polina Goland*, Massachusetts Institute of
+Technology
+11:00 Regularization Approach to Screening Biomarkers
+Yoonkyung Lee*, The Ohio State University
+11:30 Learning Predictive Models of Gene Regulation
+Christina Leslie*, Memorial Sloan-Kettering Cancer
+Center
+12:00 Floor Discussion
+115. CONTRIBUTED PAPERS: HEALTH SERVICES AND
+POLICY RESEARCH (Potomac 1)
+Sponsors: ENAR, ASA Health Policy Statistics Section and
+ASA Section on Statistics in Epidemiology
+Chair: A. James O’Malley, Harvard Medical School
+10:30 Informative Screening
+Joshua M. Tebbs*, University of South Carolina,
+Christopher R. Bilder, University of Nebraska
+10:45 Small-area Estimation of Mental Illness
+Prevalence for Schools
+Fan Li*, Alan M. Zaslavsky and Ronald Kessler,
+Harvard University
+11:00 Bayesian Ordering of a Trinomial Sample Space
+for Classical Hypothesis Testing
+A John Bailer, Robert B. Noble and Douglas
+A. Noe*, Miami University
+11:15 Backward Estimation of Medical Cost in the
+Presence of a Failure Event
+Kwun Chuen Gary Chan* and Mei-Cheng Wang,
+Bloomberg School of Public Health-Johns Hopkins
+University
+11:30 Some Issues in Suicide Attempt Prediction
+Steven P. Ellis*, Columbia University
+11:45 Gamma Shape Mixtures for Heavy-tailed
+Distributions
+Sergio Venturini*, Bocconi School of Management-
+Italy, Francesca Dominici and Giovanni Parmigiani,
+Johns Hopkins University
+12:00 A Bayesian Location Shifted Mixture Model for
+HMO Pharmacovigilance Research Database
+Fang Zhang* and Martin Kulldorff, Harvard
+University
+116. CONTRIBUTED PAPERS:MEASUREMENT ERROR
+(Potomac 2)
+Sponsors: ENAR, ASA Survey Research Methods Section
+and ASA Section on Statistics in Epidemiology
+Chair: Yu Zhao, Harvard University
+10:30 Misclassification Adjustment in Threshold Models
+for the Effects of Subject-Specific Exposure
+Means and Variances
+Chengxing Lu* and Robert H. Lyles,
+Emory University
+10:45 Average Causal Effect Estimation Allowing
+Covariate Measurement Error: A Finite Mixture
+Modeling Framework
+Yi Huang*, University of Maryland, Karen
+Bandeen-Roche and Constantine Frangakis,
+Johns Hopkins University
+11:00 Measurement Error Model with Unknown Error
+Peter Hall, University of Neuchatel, Yanyuan Ma*,
+Australian National University
+11:15 Modeling Heaping in Self-reported Cigarette
+Counts
+Hao Wang* and Daniel F. Heitjan, University
+of Pennsylvania
+11:30 Linear Model Covariate Measurement Error
+Correction via Multiple Imputation
+Miguel A. Padilla*, University of Alabama
+at Birmingham, Jasmin Divers, Wake Forest
+University, Hemant K. Tiwari, University of
+Alabama at Birmingham
+11:45 Recursive Estimation Method for Predicting
+Residual Bladder Urine Volumes to Improve
+Accuracy of Timed Urine Collections
+David Afshartous* and Richard A. Preston,
+University of Miami, Miller School of Medicine
+ARLINGTON, VIRGINIA 55
+56 ENAR 2008 Spring Meeting
+Scientific Program
+12:00 Using Orthogonal Decomposition to Adjust
+Regression Calibration in Physical Activity
+Studies
+Sanguo Zhang*, Vanderbilt University School
+of Medicine
+117. CONTRIBUTED PAPERS:MICROARRAY DATA
+ANALYSIS (Potomac 3)
+Sponsors: ENAR, ASA Biometrics Section and ASA
+Biopharmaceutical Section
+Chair: Boris Iglewicz, Temple University
+10:30 A Geometric Approach for Detecting Cell Cycle
+Gene Expression
+Omar De la Cruz* and Dan L. Nicolae, University of
+Chicago
+10:45 Two-Criterion: A New Bayesian Differentially-
+Expressed Gene Selection Algorithm
+Fang Yu*, University of Nebraska Medical Center,
+Ming-Hui Chen and Lynn Kuo, University of
+Connecticut
+11:00 A Non-parametric Meta-analysis Approach for
+Combining Independent Microarray Datasets:
+Application Using Two Microarray Datasets
+Pertaining to Chronic Allograft Nephropathy
+Xiangrong Kong*, Valeria Mas and Kellie J. Archer,
+Virginia Commonwealth University
+11:15 RXA: Analysis of Gene Expression Microarrays
+Based on Expression Orderings
+Xue Lin*, Daniel Naiman, Leslie Cope, Giovanni
+Parmigiani, and Donald Geman, Johns Hopkins
+University
+11:30 Profiling Time Course Expression of Virus Genes
+I-Shou Chang*, Li-Chu Chien and Chao Hsiung,
+National Health Research Institutes-Taiwan
+11:45 Identify Equivalently Expressed Genes from
+Microarray Data Using a Mix-scaled Equivalence
+Criterion
+Jing Qiu, University of Missouri-Columbia,
+Xiangqin Cui*, University of Alabama at
+Birmingham
+12:00 A Statistical Framework for Integrating Different
+Microarray Data Sets in Differential Expression
+Analysis
+Yinglei Lai*, George Washington University
+118. CONTRIBUTED PAPERS:SURVIVAL ANALYSIS
+METHODS AND APPLICATIONS (Potomac 4)
+Sponsors: ENAR and ASA Biopharmaceutical Section
+Chair: Xiaoxi Zhang, Pfizer
+10:30 Accelerated Quantile Residual Life Model
+Hanna Bandos* and Jong-Hyeon Jeong, University
+of Pittsburgh
+10:45 Bayesian Case Influence Diagnostics for Survival
+Models
+Hyunsoon Cho* and Joseph G. Ibrahim, University
+of North Carolina at Chapel Hill, Debajyoti Sinha,
+Medical University of South Carolina, Hongtu Zhu,
+University of North Carolina at Chapel Hill
+11:00 A Robust Weighted Kaplan-Meier Approach Using
+Linear Combinations of Prognostic Covariates
+Chiu-Hsieh Hsu*, University of Arizona, Jeremy
+M.G. Taylor, University of Michigan
+11:15 Modeling Discrete Survival Data with Application
+to Reproductive Study
+Huichao Chen*, Harvard University, Amita K.
+Manatunga, Limin Peng and Michele Marcus,
+Emory University
+11:30 Goodness-of-fit Testing for the Cox Proportional
+Hazards Model with Time-dependent Covariates
+Susanne May*, Jennifer Emond, Steve Edland and
+Loki Natarajan, University of California-San Diego
+11:45 Censored Median Regression and Profile
+Empirical Likelihood
+Sundar Subramanian*, New Jersey Institute of
+Technology
+12:00 It’s All About the Proportional Hazards
+Assumption
+Kyung Y. Lee*, Yuan-Li Shen and Kallappa M. Koti,
+U.S. Food and Drug Administration
+119. CONTRIBUTED PAPERS:VARIABLE SELECTION AND
+MODEL BUILDING - APPLICATIONS (Potomac 5)
+Sponsor: ENAR
+Chair: Kenneth Portier, American Cancer Society
+10:30 Recursive Partitioning Analysis and Proportional
+Hazard Models in Prognostic Factors Analysis: A
+Joint Cooperative Groups Study for High Grade
+Recurrent Glioma
+Wenting Wu*, Mayo Clinic, Kathleen Lamborn,
+University of California-San Francisco, Paul
+Novotny and Terry Therneau, Mayo Clinic
+10:45 Network-constrained Regularization and Variable
+Selection for Analysis of Genomic Data
+Caiyan Li* and Hongzhe Li, University of
+Pennsylvania School of Medicine
+11:00 Confounder-selection using the Change in
+Estimate approach; Is 10% All We Need to Know?
+Gheorghe Doros*, Boston University, Robert Lew,
+V.A. Boston, Alexander Ozonoff, Boston University
+11:15 Incorporating Prior Knowledge of Gene
+Functional Groups into Regularized Discriminant
+Analysis of Microarray Data
+Feng Tai* and Wei Pan, University of Minnesota
+11:30 Hierarchically Penalized Cox model for Survival
+Data with Grouped Variables and Its Oracle
+Property
+Sijian Wang*, Nengfeng Zhou, Bin Nan and Ji Zhu,
+University of Michigan
+Wednesday, March 19 continued
+Times may change slightly prior to the meetings. Please check the on-site program for final times.
+Asterisks (*) indicate the presenter of the paper. Circles Denote Student Award Winners.
+11:45 Classification of Families of Locally Stationary
+Time Series
+Robert T. Krafty*, University of Pittsburgh,
+Wensheng Guo, University of Pennsylvania
+120. CONTRIBUTED PAPERS:NONPARAMETRIC
+METHODS (Potomac 6)
+Sponsor: ENAR
+Chair: Hany Zayed, Nektar Therapeutics
+10:30 Nonparametric Additive Regression for
+Repeatedly Measured Data
+Raymond Carroll, and Arnab Maity*, Texas A&M
+University, Enno Mammen and Kyusang Yu,
+University of Mannheim-Germany
+10:45 Local Post-stratification and Diagnostics in Dual
+System Accuracy and Coverage Evaluation for US
+Census
+Chengyong Tang* and Song X. Chen, Iowa State
+University
+11:00 Analyzing Forced Unfolding of Protein Tandems
+via Order Statistics
+Efstathia Bura*, George Washington University,
+Dmitri Klimov, George Mason University, Valeri
+Barsegov, University of Massachusetts-Lowell
+11:15 On Distribution-free Runs Test for Symmetry
+Using Median Ranked Set Sampling
+Hani M. Samawi*, Georgia Southern University-
+Jiann-Ping Hsu College of Public Health
+11:30 Beta Regression Model for the Area under the
+ROC Curve
+Lin Zhang* and Jack Tubbs, Baylor University
+11:45 Density Estimation in Phase II Studies in Large
+Scale Community-based Research
+Wan Tang*, Hua He and Xin Tu, University of
+Rochester
