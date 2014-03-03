@@ -288,7 +288,7 @@ ses = c("model", "method", "propose", "effect", "statistic",
   "require", "endpoint", "comparison", "question", "system", "unit",
   "lead", "square", "increase", "take", "image", "spline", 
   "rule", "thousand", "profile", "represent", "mechanism",
-  "degree", "transition", "probe"
+  "degree", "transition", "probe", "generalize"
   )
 for (iword in ses) {
   word.abs$abs = trunc(word.abs$abs, iword, ending="s")
