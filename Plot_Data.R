@@ -15,6 +15,7 @@ if (wmhome == "") {
 library(wordnet)
 homedir = "~/Dropbox/database"
 homedir = path.expand(homedir)
+pub.dir = "~/Dropbox/Public"
 options(stringsAsFactors=FALSE)
 
 removeWords2 = function (x, words) {
@@ -71,10 +72,33 @@ data = rename(data, c("presenter1affiliation" = "affil"))
 data = data[ !(data$affil %in% ""),]
 data = data[ order(data$affil, data$year), ]
 
+top30 = dftab(data, min.n=0, change.u=FALSE)
+top30 = top30[ 50:1, ]
+top30 = merge(top30, data, by="affil", all.x=TRUE, sort=FALSE)
+top30$affil = factor(top30$affil, levels= unique(top30$affil))
+# top30 = top30[ order(top30$affil, top30$year, decreasing=TRUE), ]
+top30 = ddply(top30, .(affil, year), function(x) c(n= nrow(x)))
+top30 = dcast(data=top30, formula= affil ~ year, value.var="n")
+top30$affil = gsub("university", "u", top30$affil)
+top30[is.na(top30)] = 0
+# top30 = top30[, rev(colnames(top30))]
+colnames(top30)[2:ncol(top30)] = paste0("year.", colnames(top30)[2:ncol(top30)])
+
+# top30$affil = revalue(top30$affil, c(
+#   "national institute of environmental health sciences" = "niehs",
+#   "national institute of child health and human development" = "nihchd",
+#   "johns hopkins bloomberg school of public health" = "johns hopkins sph",
+#   "memorial sloan kettering cancer center" = "memorial sloan kettering",
+#   "st jude children's research hospital" = "st jude's",
+#   "fred hutchinson cancer research center" = "fred hutchinson")
+# )
+top30$affil[which(nchar(top30$affil) > 35)]
+write.csv(top30, file=file.path(pub.dir, "top.csv"), row.names=FALSE)
+
 data$username = str_trim(tolower(data$username))
 data$domain = gsub("(.*)@(.*)", "\\2", data$username)
 data$end = gsub("(.*)\\.(.*)$", "\\2", data$domain)
-data$end = gsub("ê", "", data$end)
+data$end = gsub("??", "", data$end)
 data$domain = gsub("(.*)\\.(.*)$", "\\1", data$domain)
 # 
 # data$affil[ grepl("new york at buffalo", data$affil) ] = 
@@ -179,18 +203,18 @@ word.abs = do.call("rbind", ss)
 word.abs = data.frame(word.abs, stringsAsFactors=FALSE)
 word.abs$year = as.numeric(word.abs$year)
 
-word.abs$abs = gsub("áøs", "", word.abs$abs)
-word.abs$abs = gsub("ò", "", word.abs$abs)
-word.abs$abs = gsub("õs", "", word.abs$abs)
-word.abs$abs = gsub("õ", "", word.abs$abs)
-word.abs$abs = gsub("á", "", word.abs$abs)
-word.abs$abs = gsub("ð", "-", word.abs$abs)
-word.abs$abs = gsub("ó", "", word.abs$abs)
-word.abs$abs = gsub("µ", "micro ", word.abs$abs)
-word.abs$abs = gsub("ø", "", word.abs$abs)
-word.abs$abs = gsub("ô", "", word.abs$abs)
-word.abs$abs = gsub("ê", "", word.abs$abs)
-word.abs$abs = gsub("ß", "fl", word.abs$abs)
+word.abs$abs = gsub("????s", "", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??s", "", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "-", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "micro ", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "", word.abs$abs)
+word.abs$abs = gsub("??", "fl", word.abs$abs)
 
 word.abs$abs = removeWords2(word.abs$abs, 
                        words=c(tm::stopwords("english"), 

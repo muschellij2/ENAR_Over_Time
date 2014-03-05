@@ -1,0 +1,53 @@
+
+<!doctype html>
+<title>Parallel Coordinates</title>
+<link rel="stylesheet" type="text/css" href="http://syntagmatic.github.io/parallel-coordinates/d3.parcoords.css">
+<script src="http://syntagmatic.github.io/parallel-coordinates/lib/d3/d3.min.js"></script>
+<script src="http://syntagmatic.github.io/parallel-coordinates/d3.parcoords.js"></script>
+<script src="http://syntagmatic.github.io/parallel-coordinates/lib/underscore.js"></script>
+<script src="http://syntagmatic.github.io/parallel-coordinates/lib/underscore.math.js"></script>
+<script src="http://dl.dropboxusercontent.com/u/600586/colorbrewer.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://syntagmatic.github.io/parallel-coordinates/style.css">
+<link type="text/css" rel="stylesheet" href="http://dl.dropboxusercontent.com/u/600586/colorbrewer.css"/>
+
+<div id="example-progressive" class="parcoords" style="width:1200px;margin-left:-250px;height:500px;"></div>
+
+<script id="progressive">// linear color scale
+// interact with this variable from a javascript console
+var pc_progressive;
+
+// d3.scale.ordinal()
+//     .domain(["foo", "bar", "baz"])
+//     .range(colorbrewer.RdBu[9]);
+
+// load csv file and create the chart
+d3.csv('http://dl.dropboxusercontent.com/u/600586/top.csv', function(data) {
+  var colorgen = d3.scale.ordinal()
+    .range(colorbrewer.BrBG[9]);
+
+  var colors = {};
+  _(data).chain()
+    .pluck('affil')
+    .uniq()
+    .each(function(d,i) {
+      colors[d] = colorgen(i);
+    });
+
+  var color = function(d) { return colors[d.affil]; };
+
+  pc_progressive = d3.parcoords()("#example-progressive")
+    .data(data)
+    .color(color)
+    .alpha(0.4)
+    .margin({ top: 24, left: 150, bottom: 12, right: 0 })
+    .mode("queue")
+    .render()
+    .brushable()  // enable brushing
+    .interactive()  // command line mode
+
+  pc_progressive.svg.selectAll("text")
+    .style("font", "10px sans-serif");
+});
+</script>
+
