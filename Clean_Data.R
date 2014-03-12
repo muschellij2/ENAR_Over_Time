@@ -440,7 +440,7 @@ print(unique(data$presenter1affiliation[wayne]))
 data$presenter1affiliation[wayne] = 
   "wayne state university"
 
-# texas a&m university
+# texas tech university
 ttech = grepl("texas tech", 
            data$presenter1affiliation)
 print(unique(data$presenter1affiliation[ttech]))
@@ -463,11 +463,12 @@ print(unique(data$presenter1affiliation[mda]))
 data$presenter1affiliation[mda] = 
   "university of texas, md anderson cancer center"
 
-
+### tease out
 # university of texas - may need to change different satellites
 ## like MD anderson - this will rewrite md anderson
 tex = grepl("of texa(s|x)", 
             data$presenter1affiliation) & !am 
+& !mda
 print(unique(data$presenter1affiliation[tex]))
 data$presenter1affiliation[tex] = 
   "university of texas"

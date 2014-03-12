@@ -1,3 +1,6 @@
+#######################################
+# ENAR Scrape
+#######################################
 rm(list=ls())
 library(stringr)
 library(tm)
@@ -8,6 +11,7 @@ library(wordcloud)
 library(reshape2)
 library(tools)
 library(ggplot2)
+library(RJSONIO)
 wmhome= Sys.getenv("WNHOME")
 if (wmhome == "") {
   Sys.setenv(WNHOME="/opt/local/bin")
@@ -78,10 +82,14 @@ top30 = merge(top30, data, by="affil", all.x=TRUE, sort=FALSE)
 top30$affil = factor(top30$affil, levels= unique(top30$affil))
 # top30 = top30[ order(top30$affil, top30$year, decreasing=TRUE), ]
 top30 = ddply(top30, .(affil, year), function(x) c(n= nrow(x)))
+long30 = top30
 top30 = dcast(data=top30, formula= affil ~ year, value.var="n")
 top30$affil = gsub("university", "u", top30$affil)
 top30[is.na(top30)] = 0
 # top30 = top30[, rev(colnames(top30))]
+top30$affil[which(nchar(top30$affil) > 35)]
+long30 = melt(top30, variable.name= "year", value.name = "n")
+
 colnames(top30)[2:ncol(top30)] = paste0("year.", colnames(top30)[2:ncol(top30)])
 
 # top30$affil = revalue(top30$affil, c(
@@ -92,8 +100,47 @@ colnames(top30)[2:ncol(top30)] = paste0("year.", colnames(top30)[2:ncol(top30)])
 #   "st jude children's research hospital" = "st jude's",
 #   "fred hutchinson cancer research center" = "fred hutchinson")
 # )
-top30$affil[which(nchar(top30$affil) > 35)]
 write.csv(top30, file=file.path(pub.dir, "top.csv"), row.names=FALSE)
+
+ryear = range(as.numeric(as.character(long30$year)))
+long30$year = paste0(long30$year, "0101")
+
+# long30 = dlply(long30, .(year), function(x){
+years = unique(long30$year)
+my.list = vector(mode="list", length=length(years))
+iyear = 1
+
+for (iyear in seq_along(years)){
+  xx = x = long30[ long30$year == years[iyear], ]
+  # words = vector(mode="list", length=nrow(x))
+  # for (irow in seq(nrow(x))) {
+  #   words[irow] = c(label=x$affil[irow], score=x$n[irow])
+  # }
+  # names(words) = NULL
+  x = x[, c("affil", "n")]
+  modified <- list(
+    words = unname(apply(x, 1, function(xx) {
+      xx = t(xx)
+      colnames(xx) = c("label", "score")
+      xx = as.data.frame(xx)
+      xx[,"score"] = as.numeric(xx[,"score"])
+      # xx$tfidf = xx$score
+      xx
+    }))
+  )
+  my.list[[iyear]] = c(date=xx$year[1], modified)
+}
+
+ryear = paste0(ryear, "0101")
+json = toJSON(my.list, pretty=TRUE)
+cat(json, file=file.path(pub.dir, "enar_test", "testdata.json"))
+
+
+my.list = list(datemin= ryear[1], data=my.list, datemax = ryear[2])
+json = toJSON(my.list, pretty=TRUE)
+cat(json, file=file.path(pub.dir, "enar_test", "testdata.json"))
+
+
 
 data$username = str_trim(tolower(data$username))
 data$domain = gsub("(.*)@(.*)", "\\2", data$username)
@@ -466,7 +513,4 @@ mapply(cloud, wtabs, names(wtabs))
 
 dev.off()
 
-
-# df = data.frame(old=x, stringsAsFactors=FALSE)
-# df$new = df$old
 
