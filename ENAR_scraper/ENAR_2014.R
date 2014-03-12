@@ -82,12 +82,28 @@ sess = unique(sess)
 sess = ddply(sess, .(sess), function(x){
   x[1,]
 })
-# sess = sess[!grepl("–", sess$time), ]
 head(sess)
 
 df = df[ !is.na(df$sess),]
 post = grepl("POSTER", df$session)
 posters = df[post,]
+posters$pid = grepl("^\\d(|\\d)(|\\d)[A-Z]\\.", posters$raw)
+
+posters$psess = NA
+posters$psess[posters$pid] = posters$raw[posters$pid]
+posters$psess = na.locf(posters$psess, na.rm=FALSE)
+
+posters = posters[ !is.na(posters$psess),]
+
+posters = ddply(posters, .(psess), function(x){
+  raw = paste(x$raw, collapse =" ")
+  x = x[1,]
+  x$raw = raw
+  x
+})
+
+posters = merge(posters, sess, all.x=TRUE)
+
 df = df[!post,]
 head(df, 20)
 
@@ -95,8 +111,20 @@ table(df$session)
 df$id = df$day = df$session = df$where = NULL
 head(df, 20)
 
-df = df[!grepl("–", df$time), ]
+df = df[!grepl("\342\200\223", df$time), ]
 head(df, 20)
+
+
+df = ddply(df, .(sess), function(x){
+  if (any(x$wh))  {
+    wtime = which(x$times)[1]
+    wiw = which(x$wh)[1]
+    ind = seq(from=wiw, to=wtime)
+    x = x[-c(ind),]
+  }
+  x
+})
+
 
 df = df[!df$times,]
 df$uid = seq(nrow(df))
@@ -107,6 +135,9 @@ df = df[!df$wh, ]
 df = merge(df, id, all.x=TRUE, sort=FALSE)
 df = df[order(df$uid), ]
 print(tail(df, 20))
+
+
+
 df$times = df$isday = df$wh = df$sess = df$time  = NULL
 
 n = ddply(df, .(id), function(x){
@@ -119,13 +150,9 @@ df = df[order(df$uid), ]
 
 df$uid = NULL
 
-dups = duplicated(df[, c("id", "visit")])
+df = df[!grepl("ENAR 2014 | SPRING MEETING", df$raw, fixed=TRUE), ]
 
-df = df[!grepl("^Sponsor", df$raw),]
-df = df[!grepl("^Organizer", df$raw),]
-df = df[!grepl("^Chair", df$raw),]
-df = df[ !grepl("^Floor Discussion$", df$raw), ]
-df = df[ !grepl("^\\d(|\\d):\\d\\d Floor Discussion$", df$raw), ]
+df = df[!grepl("* = Presenter", df$raw, fixed=TRUE), ]
 
 
 wide = reshape(df, direction="wide", v.names="raw", timevar="visit")
@@ -139,11 +166,34 @@ wide = wide[, c("id", "whole")]
 end = merge(wide, id, all.x= TRUE, sort=FALSE)
 
 end = merge(end, sess, all.x=TRUE, sort=FALSE, by="sess")
+
+for (irow in seq(nrow(end))){
+  end$whole = gsub(end$sessname[irow], "", end$whole, fixed=TRUE)
+}
+
 end$session = NULL
-end$whole = tolower(end$whole)
-end$sessname = tolower(end$sessname)
+end$whole = str_trim(tolower(end$whole))
+end$sessname = str_trim(tolower(end$sessname))
+Encoding(end$whole) <- "latin1"  # (just to make sure)
+end$whole = iconv(end$whole, "latin1", "ASCII", sub="")
+
+Encoding(end$sessname) <- "latin1"  # (just to make sure)
+end$sessname = iconv(end$sessname, "latin1", "ASCII", sub="")
+
+# end = end[end$whole != "floor discussion",]
+end$id = NULL
+
+posters = posters[, c("sess", "raw", "time", "where", "day", "sessname")]
+colnames(posters) = c("sess", "whole", "time", "where", "day", "sessname")
+
+end = rbind(posters, end)
+
+end$tt = as.numeric(gsub(":", "", end$time))
+end = end[order(end$sess, end$tt),]
+end$tt = NULL
+
 save(end, file=file.path(dirname(homedir), "ENAR_2014.Rda"))
-save(end, file=file.path("~/Dropbox/ShinyApps/ENAR_2014/ENAR_2014.Rda"))
+save(end, file=file.path("~/Dropbox/ShinyApps/ENAR_2014/ENAR_2014.Rda"), ascii=TRUE)
 
 search = "hopkins"
 search = str_trim(tolower(search))
