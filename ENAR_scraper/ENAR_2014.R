@@ -40,7 +40,7 @@ df$time[df$times] = gsub("^(\\d(|\\d):\\d\\d) (.*)", "\\1",
                          df$raw[df$times])
 df$time = na.locf(df$time, na.rm=FALSE)
 
-df$isday = grepl("Sunday|Monday|Tuesday", df$raw)
+df$isday = grepl("Sunday|Monday|Tuesday|Wednesday", df$raw)
 df$day[df$isday] = df$raw[df$isday]
 df$day = na.locf(df$day, na.rm=FALSE)
 
@@ -141,8 +141,9 @@ end = merge(wide, id, all.x= TRUE, sort=FALSE)
 end = merge(end, sess, all.x=TRUE, sort=FALSE, by="sess")
 end$session = NULL
 end$whole = tolower(end$whole)
-
+end$sessname = tolower(end$sessname)
 save(end, file=file.path(dirname(homedir), "ENAR_2014.Rda"))
+save(end, file=file.path("~/Dropbox/ShinyApps/ENAR_2014/ENAR_2014.Rda"))
 
 search = "hopkins"
 search = str_trim(tolower(search))

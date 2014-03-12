@@ -41,7 +41,7 @@ df = df[ !(df$raw %in% "Scientific Program"), ]
 df = df[ !(df$raw %in% 
              c("Monday, March 17", 
                "Tuesday, March 18",
-               "Wednesday, March 29")), ]
+               "Wednesday, March 19")), ]
 
 droptimes = c("1:45–3:30 p.m.", "10:30 a.m.–12:15 p.m.", "3:30–3:45 p.m.",
               "3:45–5:30 p.m.", "10:15–10:30 a.m.",  
